@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Resume><ResumeId ResumeParserProductName="RecruitPlus Resume Parser"><ResumeParserOrgName>ITCONS e-Solutions Private Limited</ResumeParserOrgName></ResumeId><StructuredXMLResume><ContactInfo><PersonName><FullName>Rajesh Kamatanam</FullName><GivenName>Rajesh</GivenName><MiddleName /><FamilyName>Kamatanam</FamilyName></PersonName><ContactMethod><Telephone><PhoneBasic>4352130700</PhoneBasic></Telephone><Mobile><phone_Mobile /></Mobile><Fax><FaxPhone /></Fax><InternetEmailAddress>rajesh.kamatanam@gmail.com</InternetEmailAddress><InternetEmailAddress /><PostalAddress><CountryName /><Region /><City /><PostalCode /><DeliveryAddress><AdressLine1 /><AdressLine2 /></DeliveryAddress></PostalAddress></ContactMethod></ContactInfo><ExecutiveSummary>About 7 years of IT experience in Software development in various domains with Pega PRPC,
+Java, and J2EE technologies.
+
+4  years of experience in Designing and Implementation of complex PEGA Rules Process
+Commander   (PRPC) projects.
+
+Hands on Experience with CPM and Smart Investigate frameworks.
+
+Experience in Agile/Scrum methodology and Agile tools such as JIRA.
+
+Involved in detailed reviews of  BRD  and  SSD  documents and created status reports and
+Technical Specification documents for various projects.
+
+Certified PRPC Senior System Architect.
+
+Involved in Designing High Level Class structure, Workflows and Rule sets in Pega PRPC
+
+Experience in implementation of various PRPC components like  Decision Tables, Decision
+Maps, Declarative Expressions, and Indexes etc.
+
+Expertise in  PRPC flows,  interpretation of complex  Flow shapes  for business scenarios,
+Activities, Activity step methods
+
+Prepared Access Roles and Access Groups for PRPC work flow team
+
+Created HTTP and SOAP service and connector rules, Connect sql rules for RDB operations.
+
+Used File Listeners, JMS Listeners and XML stream and parsing rules.
+
+Created reports using List View and Summary View rules
+
+Expertise in developing User Interfaces, Screen Layouts using JSP's and HTML
+
+Good knowledge on PRPC construction and debugging tools such as tracer utility, clipboard,
+Application accelerators and Expression builders.
+
+Experience in CTI and IVR integration using AVAYA.
+
+Experience in using Cross-Domain AJAX for secured billing integration.
+
+Proficient in using Relational Databases like Oracle, DB2, SQL Server and My SQL
+
+Have exposure in different stages of Software Development Life Cycle (SDLC)
+
+Solid communicator with exceptional team-building skills, dedicated, self-motivated achiever and
+ability to work independently and perform well within cross-functional teams</ExecutiveSummary><Objective /><Role /><FunctionalArea /><IndustryType>Construction/Engineering/Cement/Metals</IndustryType><EmploymentHistory><TotalExperience>7Year(s) &amp; 5Month(s)</TotalExperience><TotalProjectExperience>7Year(s) &amp; 2Month(s)</TotalProjectExperience><CurrentSalary /><ExpectedSalary /><EmployerOrg><EmployerOrgName>NEWCorp, VA</EmployerOrgName><PositionHistory><CurrentEmplyor>True</CurrentEmplyor><Title>Senior Pega System Architect</Title><OrgName><OrgName>NEWCorp, VA</OrgName></OrgName><Description>NEWCorp, VA      Feb'11- Till Date Senior Pega System Architect Responsibilities Followed Agile/Scrum Methodology and used CPM framework to build applications for Customer service representatives. Involved in the design and development of class structure for the call flow which involved from the scratch implementation of generic claim process common to multiple clients. Detailed Understanding of interaction driver and intent tasks to create service items for an interaction. Design and development of Harness rules, Layout and sections. Customized CPM composite using advanced UI rules. Created Connect Sql rules and used RBD methods to connect with external databases. Modified out of box reporting and created new reports using List view and Summary view rules Created HTTP and SOAP service and connector rules. Developed Rules for validation and integration pertained to Rule-Connect - and Rule- Service. Created Correspondence rules and SLA. Created products and patches for deploying code. Created and maintained Agent rules and sent work objects to agent queue for processing. Implemented IVR and CTI integration with CPM call flow. Involved in writing the Rule-Utility-Functions to connect to SMART API's and developed broker activities to connect to the external Services. Used Cross-Domain AJAX for implementing secured billing adhering to the ACH compliance. Created Operators, Workgroups, Workbaskets, Data tables, Database Name Objects and Database Table Objects Implementation of Decision tables, Decision Maps and Declarative expressions and other declarative rules. Used Tracer, Clipboard, Performance Tool, System Management application, and the log files for debugging. Environment PEGA PRPC V6.1, CPM V6.2, Oracle 11g,Windows 7, JAVA,JSP, MS Visio, SQL, HTML, CSS, XML</Description><StartDate><AnyDate>2/1/2011</AnyDate></StartDate><EndDate><Anydate>11/15/2014</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Kaiser Permanente</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Pega System Architect</Title><OrgName><OrgName>Kaiser Permanente</OrgName></OrgName><Description>Kaiser Permanente      May'10 - Jan'11 Pega System Architect. Responsibilities:  Understanding the technical requirements from business requirements thoroughly in Health Care domain and Claims Management. Integrating basic PRPC application with Customer Process Manager (CPM) for Health Care framework. Involved in importing Pega Rule Process Commander Application and monitoring the application deployment. Involved in Design and development of Data Model, Class structure, Access Group, Process flow, Activities and UI properties. Development of the application based on the Design. Implementation of Decision tables, Decision Maps and Declarative expressions. Created Activities that automates several tasks. Created work flows to support various assignments, and correspondence generation. Creation of search reports using List view and Summary view rules of PRPC. Used the TRACER to examine the rules and to minimize the execution time. Performance test of all activities and rules using PRPC-PAL Tool. Developed  Rules for validation and integration pertained to Rule-Connect - and Rule- Service. Involved in the SOAP service for the Service Request and WSDL deployment. Involved in Creation of validation rules to implement business logic validation. Extensively involved in updating and deploying different Rule Set Versions as required by the organization. Involved in Design, Development and Deployment of application. Communicating with teams, Client including guiding other technical members. Environment: Pega PRPC 5.4, CPM HC , Web logic, Windows , Unix, MS Visio, Adobe Photoshop, XML, HTML and Oracle 10g.</Description><StartDate><AnyDate>5/1/2010</AnyDate></StartDate><EndDate><Anydate>1/1/2011</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>US Bank Corp</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Pega System Architect</Title><OrgName><OrgName>US Bank Corp</OrgName></OrgName><Description>US Bank Corp, MN      Oct 09-May 10 Pega System Architect Responsibilities:  Implemented core business and logic using Smart Investigate framework for claim processing and customized it to meet business requirement. Created, customized Flows and Action forms as per the Requirements. Creation of Activities and steps for implementing Core Business Logic. Implementing Decision Rules. Created Declarative expressions, Trees and Tables and Declare Triggers Created SWIFT correspondence using SmartInvestigate framework. Used Declare Indexes for reporting purpose. Worked extensively on reporting which included list views and summary views. Customization of user and manager portals. Created and Implemented Service and Connect rules. Checking code for compliance of standards and PEGA Guardrails. Testing and Debugging using Tracer and Rules inspector. Created File Listener for automatic creation of work object. Used SOA architecture for Integration. Environment: PRPC 5.5 SP3, Windows XP, DB2, SmartInvestigate, Websphere 6.1, XML, HTML, MS Visio.</Description><StartDate><AnyDate>10/1/2009</AnyDate></StartDate><EndDate><Anydate>5/1/2010</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Mind Tree, India</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>J2EE Developer</Title><OrgName><OrgName>Mind Tree, India</OrgName></OrgName><Description>Mind Tree, India      June 07 - Aug 09 J2EE Developer Worked in design, development and test support of workflow applications in multi-product order management back office and billing applications for a huge recreation product manaufacturer. Responsibilities:  Involved in the requirement analysis for the development of the system. Involved in real-time system study of the client requirements and implementation the project on the client side. Effectively interacted with the parent team whenever the changes or modifications required. Involved in the heart of the application ADMINSTRATION module to create roles and assigns the permissions and maintaining the system through logs. Developed Session Beans and Entity Beans as modeling components for storing and retrieving data for administration module. Implemented Message Driven Bean for multiple asynchronous connections being made and calling Java Mail API to send the mails through the JMS (QUEUES). Involved in System Testing for APPSS. Supported the applications through debugging, fixing and maintenance releases. Created EJB's and deployed them on the Web Logic Application Server on Windows NT. Configuration of Web Logic Application Server and Deployment of APPSS. Wrote stored procedures and queries to access/update data from Oracle. Provided exception handling and logging using LOG4J Logger. Also involved in Unit testing with testing team. Installed, implemented and maintained Sun J2EE Server domains for development environment responsibilities included deployment of EAR, WAR, and EJB Jar settings. Environment:   Java, EJB, JSP, Servlets, JDBC, JavaScript, Web Logic Application Server, XML, Windows-NT, and Linux.</Description><StartDate><AnyDate>6/1/2007</AnyDate></StartDate><EndDate><Anydate>8/1/2009</Anydate></EndDate></PositionHistory></EmployerOrg></EmploymentHistory><EducationHistory><SchoolOrInstitution SchoolType="University"><School><SchoolName>JNTU University</SchoolName></School><SchoolLocation /><Degree DegreeType="Graduate/ Undergraduate"><IsHighestDegee>True</IsHighestDegee><DegreeName>B.E</DegreeName><DegreeDate><AnyDate>1/1/2007</AnyDate></DegreeDate><DegreeMajor><Name>Electronics and Communication Engineering</Name></DegreeMajor><EducationDetails>Engineering</EducationDetails><DegreeMeasure><EducationMeasure><MeasureSystem /><MeasureValue><StringValue /></MeasureValue></EducationMeasure></DegreeMeasure><DateofAttendance><StartDate><AnyDate>1/1/2003</AnyDate></StartDate><EndDate><AnyDate>1/1/2007</AnyDate></EndDate></DateofAttendance><EducationDescription>B.E, Electronics and Communication Engineering      2003-2007
+ JNTU University, India
+ Certified Pega Senior System Architect (CSSA)
+ Certified Pega System Architect (CSA)</EducationDescription></Degree></SchoolOrInstitution></EducationHistory><LicensesAndCertifications><LicenseOrCertification /><Name /></LicensesAndCertifications><Qualifications><Competency Name="Java"><LastUsedDate>8/1/2009</LastUsedDate></Competency><Competency Name=" J2EE"><LastUsedDate>8/1/2009</LastUsedDate></Competency><Competency Name=" CPM"><LastUsedDate>11/15/2014</LastUsedDate></Competency><Competency Name=" Technical Specification"><LastUsedDate></LastUsedDate></Competency><Competency Name=" SOAP"><LastUsedDate>11/15/2014</LastUsedDate></Competency><Competency Name=" SOAP"><LastUsedDate>11/15/2014</LastUsedDate></Competency><Competency Name=" RDB"><LastUsedDate></LastUsedDate></Competency><Competency Name=" XML"><LastUsedDate>11/15/2014</LastUsedDate></Competency><Competency Name=" HTML"><LastUsedDate>11/15/2014</LastUsedDate></Competency><Competency Name=" CTI"><LastUsedDate>11/15/2014</LastUsedDate></Competency><Competency Name=" IVR"><LastUsedDate>11/15/2014</LastUsedDate></Competency><Competency Name=" Oracle"><LastUsedDate>11/15/2014</LastUsedDate></Competency><Competency Name=" DB2"><LastUsedDate>5/1/2010</LastUsedDate></Competency><Competency Name=" SDLC"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Database"><LastUsedDate>11/15/2014</LastUsedDate></Competency><Competency Name=" System Management"><LastUsedDate></LastUsedDate></Competency><Competency Name=" JAVA"><LastUsedDate>11/15/2014</LastUsedDate></Competency><Competency Name=" SQL"><LastUsedDate>11/15/2014</LastUsedDate></Competency><Competency Name=" CSS"><LastUsedDate>11/15/2014</LastUsedDate></Competency><Competency Name=" Data Model"><LastUsedDate></LastUsedDate></Competency><Competency Name=" WSDL"><LastUsedDate>1/1/2011</LastUsedDate></Competency><Competency Name=" Deployment"><LastUsedDate>1/1/2011</LastUsedDate></Competency><Competency Name=" Adobe Photoshop"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Windows XP"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Visio"><LastUsedDate>11/15/2014</LastUsedDate></Competency><Competency Name=" JMS"><LastUsedDate>8/1/2009</LastUsedDate></Competency><Competency Name=" System Testing"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Servlets"><LastUsedDate>8/1/2009</LastUsedDate></Competency><Competency Name=" JDBC"><LastUsedDate>8/1/2009</LastUsedDate></Competency><Competency Name=" JavaScript"><LastUsedDate>8/1/2009</LastUsedDate></Competency><Competency Name=" Linux"><LastUsedDate></LastUsedDate></Competency><Competency Name=" MS-DOS"><LastUsedDate></LastUsedDate></Competency><Competency Name=" DHTML"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Databases"><LastUsedDate></LastUsedDate></Competency><Competency Name=" UML"><LastUsedDate></LastUsedDate></Competency></Qualifications><languages /></StructuredXMLResume><ResumeAdditionalItems><ResumeAdditionalItem type="Personal"><FatherName /><DateOfBirth /><Age /><Gender>Unspecified</Gender><Nationality /><MaritalStatus>Unspecified</MaritalStatus><PassportNo /><VisaStatus /><Currentlocation /></ResumeAdditionalItem><ResumeAdditionalItem type="Resume Parsing Information"><ResumeParsingStartDate>11/12/2014 12:00:00 AM</ResumeParsingStartDate><ResumeParsingExpiryDate>11/27/2014 12:00:00 AM</ResumeParsingExpiryDate><NumberOfParsedResume>20</NumberOfParsedResume><MaxLimitOfParsedResume>100</MaxLimitOfParsedResume></ResumeAdditionalItem></ResumeAdditionalItems><ResumeContext>The candidate is working as  with a good working Experience of 7Year(s) &amp; 5Month(s) and Skilled in Java, J2EE, CPM, Technical Specification, SOAP, SOAP, RDB, XML, HTML, CTI, IVR, Oracle, DB2, SDLC, Database, System Management, JAVA, SQL, CSS, Data Model, WSDL, Deployment, Adobe Photoshop, Windows XP, Visio, JMS, System Testing, Servlets, JDBC, JavaScript, Linux, MS-DOS, DHTML, Databases, UML. The Current Salary:  and Expected Salary: . Candidate's Functional Area seems to be:  and Industry is Construction/Engineering/Cement/Metals; Currently located at . The candidate posses B.E with major as Electronics and Communication Engineering</ResumeContext><ResumeTextFormat> <![CDATA[ Rajesh Kamatanam                                                                                                                        
+25778 Donegal Dr                                                                rajesh.kamatanam@gmail.com            
+Chantilly, VA-20152                                                            435-213-0700
+                                                           
+Summary:
+
+About 7 years of IT experience in Software development in various domains with Pega PRPC,
+Java, and J2EE technologies. 
+
+4  years of experience in Designing and Implementation of complex PEGA Rules Process
+Commander   (PRPC) projects. 
+
+Hands on Experience with CPM and Smart Investigate frameworks.
+
+Experience in Agile/Scrum methodology and Agile tools such as JIRA.
+
+Involved in detailed reviews of  BRD  and  SSD  documents and created status reports and
+Technical Specification documents for various projects.
+
+Certified PRPC Senior System Architect.
+
+Involved in Designing High Level Class structure, Workflows and Rule sets in Pega PRPC
+
+Experience in implementation of various PRPC components like  Decision Tables, Decision
+Maps, Declarative Expressions, and Indexes etc.
+
+Expertise in  PRPC flows,  interpretation of complex  Flow shapes  for business scenarios,
+Activities, Activity step methods
+
+Prepared Access Roles and Access Groups for PRPC work flow team
+
+Created HTTP and SOAP service and connector rules, Connect sql rules for RDB operations.
+
+Used File Listeners, JMS Listeners and XML stream and parsing rules.
+
+Created reports using List View and Summary View rules
+
+Expertise in developing User Interfaces, Screen Layouts using JSP’s and HTML
+
+Good knowledge on PRPC construction and debugging tools such as tracer utility, clipboard,
+Application accelerators and Expression builders.
+
+Experience in CTI and IVR integration using AVAYA.
+
+Experience in using Cross-Domain AJAX for secured billing integration.
+
+Proficient in using Relational Databases like Oracle, DB2, SQL Server and My SQL
+1
+
+
+
+Have exposure in different stages of Software Development Life Cycle (SDLC)
+
+Solid communicator with exceptional team-building skills, dedicated, self-motivated achiever and
+ability to work independently and perform well within cross-functional teams
+TECHNICAL SKILLS:
+Languages &amp; Tools: Java, J2EE, EJB 3.0, Servlets, JDBC, C, C++, PL/SQL.                      
+Web/Application Servers: Web Sphere, Tomcat
+Operating Systems: Windows XP/7/8, MS-DOS, UNIX
+Web Technologies: HTML, XML, DHTML, SOAP, MS XML3.0, JSP, SOAP
+Databases: Oracle 11g, DB2, SQL Server.
+Design Tools: Microsoft Visio, UML, MVC.
+BPM Tools: PRPC V6.1, 5.5, 5.4, 5.3, 5.1
+Verticals: Banking and Insurance
+EDUCATION &amp; CERTIFICATIONS:
+       
+B.E, Electronics and Communication Engineering                                     2003-2007
+JNTU University, India
+Certified Pega Senior System Architect (CSSA)
+Certified Pega System Architect (CSA)
+                                                         
+PROFESSIONAL EXPERIENCE:
+NEWCorp, VA                                                                                            Feb’11– Till Date
+Senior Pega System Architect
+               
+Responsibilities
+: 
+
+Followed Agile/Scrum Methodology and used CPM framework to build applications for 
+Customer service representatives.
+
+Involved in the design and development of class structure for the call flow which involved from 
+the scratch implementation of generic claim process common to multiple clients.
+
+Detailed Understanding of interaction driver and intent tasks to create service items for an 
+interaction.
+
+Design and development of Harness rules, Layout and sections.
+
+Customized CPM composite using advanced UI rules.
+
+Created Connect Sql rules and used RBD methods to connect with external databases.
+2
+
+
+
+Modified out of box reporting and created new reports using List view and Summary view rules
+
+Created HTTP and SOAP service and connector rules.
+
+Developed Rules for validation and integration pertained to Rule-Connect- and Rule-
+Service.
+
+Created Correspondence rules and SLA.
+
+Created products and patches for deploying code.
+
+Created and maintained Agent rules and sent work objects to agent queue for processing.
+
+Implemented IVR and CTI integration with CPM call flow.
+
+Involved in writing the Rule-Utility-Functions to connect to SMART API’s and 
+developed broker activities to connect to the external Services.
+
+Used Cross-Domain AJAX for implementing secured billing adhering to the ACH 
+compliance.
+
+Created Operators, Workgroups, Workbaskets, Data tables, Database Name Objects and Database 
+Table Objects
+
+Implementation of Decision tables, Decision Maps and Declarative expressions and other 
+declarative rules.
+
+Used Tracer, Clipboard, Performance Tool, System Management application, and the log files for 
+debugging.
+Environment
+: 
+PEGA PRPC V6.1, CPM V6.2, Oracle 11g,Windows 7, JAVA,JSP, MS Visio, SQL, 
+HTML, CSS, XML
+Kaiser Permanente                                                                     May’10 - Jan’11
+Pega System Architect.
+Responsibilities:    
+
+Understanding the technical requirements from business requirements thoroughly in Health Care
+domain and Claims Management.
+
+Integrating basic PRPC application with Customer Process Manager (CPM) for Health Care
+framework.                
+
+Involved in importing Pega Rule Process Commander Application and monitoring the application
+deployment.
+
+Involved in Design and development of Data Model, Class structure, Access Group, Process
+flow, Activities and UI properties.
+
+Development of the application based on the Design.
+
+Implementation of Decision tables, Decision Maps and Declarative expressions.
+3
+
+
+
+Created Activities that automates several tasks.
+
+Created work flows to support various assignments, and correspondence generation.
+
+Creation of search reports using List view and Summary view rules of PRPC. 
+
+Used the TRACER to examine the rules and to minimize the execution time.
+
+Performance test of all activities and rules using PRPC-PAL Tool.
+
+Developed  Rules for validation and integration pertained to Rule-Connect- and Rule-
+Service. 
+
+Involved in the SOAP service for the Service Request and WSDL deployment. 
+
+Involved in Creation of validation rules to implement business logic validation.
+
+Extensively involved in updating and deploying different Rule Set Versions as required by the
+organization.
+
+Involved in Design, Development and Deployment of application.
+
+Communicating with teams, Client including guiding other technical members.
+Environment: Pega PRPC 5.4, CPM HC , Web logic, Windows , Unix, MS Visio, Adobe Photoshop,
+XML, HTML and Oracle 10g.
+US Bank Corp, MN                                                                    Oct 09-May 10
+Pega System Architect 
+               
+Responsibilities:
+
+Implemented core business and logic using Smart Investigate framework for claim processing 
+and customized it to meet business requirement.
+
+Created, customized Flows and Action forms as per the Requirements.
+
+Creation of Activities and steps for implementing Core Business Logic.
+
+Implementing Decision Rules.
+
+Created Declarative expressions, Trees and Tables and Declare Triggers 
+
+Created SWIFT correspondence using SmartInvestigate framework.
+
+Used Declare Indexes for reporting purpose.
+
+Worked extensively on reporting which included list views and summary views.
+
+Customization of user and manager portals.
+
+Created and Implemented Service and Connect rules.
+
+Checking code for compliance of standards and PEGA Guardrails.
+
+Testing and Debugging using Tracer and Rules inspector.
+
+Created File Listener for automatic creation of work object. 
+
+Used SOA architecture for Integration.
+4
+
+
+Environment: PRPC 5.5 SP3, Windows XP, DB2, SmartInvestigate, Websphere 6.1, XML, HTML, MS
+Visio.
+Mind Tree, India                June 07 –Aug 09
+J2EE Developer
+Worked in design, development and test support of workflow applications in multi-product order 
+management back office and billing applications for a huge recreation product manaufacturer.
+Responsibilities:
+
+Involved in the requirement analysis for the development of the system.
+
+Involved in real-time system study of the client requirements and implementation the
+project on the client side.
+
+Effectively interacted with the parent team whenever the changes or modifications
+required.
+
+Involved in the heart of the application ADMINSTRATION module to create roles and
+assigns the permissions and maintaining the system through logs.
+
+Developed Session Beans and Entity Beans as modeling components for storing and
+retrieving data for administration module.
+
+Implemented Message Driven Bean for multiple asynchronous connections being made
+and calling Java Mail API to send the mails through the JMS (QUEUES).
+
+Involved in System Testing for APPSS.
+
+Supported the applications through debugging, fixing and maintenance releases.
+
+Created EJB’s and deployed them on the Web Logic Application Server on Windows NT.
+
+Configuration of Web Logic Application Server and Deployment of APPSS.
+  
+Wrote stored procedures and queries to access/update data from Oracle.
+  
+Provided exception handling and logging using LOG4J Logger.
+  
+Also involved in Unit testing with testing team.
+
+Installed, implemented and maintained Sun J2EE Server domains for development
+environment responsibilities included deployment of EAR, WAR, and EJB Jar settings.
+Environment:   Java, EJB, JSP, Servlets, JDBC, JavaScript, Web Logic Application Server,
+XML, Windows-NT, and Linux.
+5]]> </ResumeTextFormat></Resume>

@@ -1,0 +1,1 @@
+<?php echo $this->element('event_note', array('event' => $event)); ?>

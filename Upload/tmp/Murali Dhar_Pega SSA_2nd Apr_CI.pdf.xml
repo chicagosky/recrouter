@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Resume><ResumeId ResumeParserProductName="RecruitPlus Resume Parser"><ResumeParserOrgName>ITCONS e-Solutions Private Limited</ResumeParserOrgName></ResumeId><StructuredXMLResume><ContactInfo><PersonName><FullName>Murali Dhar</FullName><GivenName>Murali</GivenName><MiddleName /><FamilyName>Dhar</FamilyName></PersonName><ContactMethod><Telephone><PhoneBasic>6052151091</PhoneBasic></Telephone><Mobile><phone_Mobile /></Mobile><Fax><FaxPhone /></Fax><InternetEmailAddress>dhar12us@gmail.com</InternetEmailAddress><InternetEmailAddress /><PostalAddress><CountryName /><Region /><City /><PostalCode /><DeliveryAddress><AdressLine1 /><AdressLine2 /></DeliveryAddress></PostalAddress></ContactMethod></ContactInfo><ExecutiveSummary>Around 7+ years of experience in the IT Industry and 5+ years of experience in the Analysis, Design,
+Development, Deployment and Maintenance of BPM and BRE applications using the Pega Rules Process
+Commander (PRPC 5.x/6.x) tool.
+
+Expertise in working with solution frameworks like CPM, CPM HC, SmartBPM, which represent various
+business verticals.
+
+Good knowledge of organizational hierarchy and hence involved in requirement gathering along with
+business analysts to better understand end user requirements and various scenarios.
+
+Expertise in developing and managing Workflows, Class structures design, developing User Interface (UI),
+creating various Flow actions, interpreting Tickets, complex flow shapes for business scenarios, Activities,
+activity step methods, Decision maps and Decision rules.
+
+Excellent understanding of various types of Rules like Product rules, Correspondence rules, Integration
+rules and Ruleset management, and associated tools such as export &amp; import tools.
+
+Excellent knowledge on using debugging and performance tools like Clipboard, Tracer, Performance
+Analyzer (PAL) and System Management Application (SMA).
+
+Hands on 3 yrs of experience in Java2EE, EJBs, Servlets, JSP.
+
+Excellent real-time knowledge on AGILE and SCRUM methodologies, Object Oriented Programming
+(OOP), Relational Database (RDBMS) and Service Oriented Architecture (SOA), CRM.
+
+Excellent knowledge of developing Rich UI, CSS, Skins, Screen Layouts using JSP's, HTML and AJAX.</ExecutiveSummary><Objective /><Role /><FunctionalArea /><IndustryType>Architecture/Interior Designing | Export/Import</IndustryType><EmploymentHistory><TotalExperience>8Year(s) &amp; 2Month(s)</TotalExperience><TotalProjectExperience>4Year(s) &amp; 11Month(s)</TotalProjectExperience><CurrentSalary /><ExpectedSalary /><EmployerOrg><EmployerOrgName>Zurich Insurance</EmployerOrgName><PositionHistory><CurrentEmplyor>True</CurrentEmplyor><Title>Pega Systems Consultant</Title><OrgName><OrgName>Zurich Insurance</OrgName></OrgName><Description>Zurich Insurance Schaumburg, IL      Nov 2013- Present Pega Systems Consultant Pega Senior System Architect Responsibilities:  Installed the PRPC version 6.3 and solution framework Pega Insurance into the PRPC, which involved contribution from various teams such as Database and System Administration.  Involved in business requirement gathering along with the business analyst for the application UW Work Flow Management application.  Developed new portal layouts which served new roles in the organization, in addition to the pre- packaged layouts.  Involved in enabling security and access control to the application by creating different levels of access to various business users and developers i.e access groups, work groups, access roles.  Developed the code in branch rule versions which helps in parallel development in multiple teams.  Designed and developed high level class structure in PRPC like class groups, work classes based on the organizational hierarchy.  Designed and implemented user interfaces using Sections, Harness and HTML stream rules.  Created specialized rulesets which served as containers for specific rule types.  Used Clipboard and tracer tools to navigate through flows along with the work objects and trace the results.  Performed integration by developing rules pertained to rule-connect and rule-service. Major tasks involved integrating with SQL databases to fetch data and with SOAP/Webservices to review particular data.  Developed Correspondence rules to intimate the customers about their account balance, any disputes, offers available status through email or fax messages.  Developed product rules to migrate data instances and rulesets from development to User Acceptance Testing &amp; Performance environment when needed.  Involved in List and Summary view reports and documentation  Migrated the code into most recent version of PRCP Pega 7.</Description><StartDate><AnyDate>11/1/2013</AnyDate></StartDate><EndDate><Anydate>11/15/2014</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>HMSA</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Pega Senior System Architect</Title><OrgName><OrgName>HMSA</OrgName></OrgName><Description>HMSA (Blue Cross Blue Shield of Hawaii), Honolulu, HI      Apr 2013 - Oct 2013 Pega Senior System Architect Responsibilities:  Installed the PRPC BRE and BPM tool and solution framework Smart Adjust into the PRPC, which involved contribution from various teams such as Database and System Administration.  Designed and developed high level class structure in PRPC and concrete classes to act like bridge between CPM HC and PRPC application.  Developed new portal layouts which served new roles in the organization, in addition to the pre- packaged layouts.  Created Activities to accept CPM HC work object references and return Non-CPM work object references and modifying them to invoke the new activities.  Developed CPM HC IAV,Interaction Driver rules,Portals, composite tabs for customer 360 info  and navigation rules.  Developed Case management in resolving interaction cases and intent/Work Object cases.  Designed and developed high level class structure in PRPC like class groups, work classes based on the organizational hierarchy.  Involved in business requirement gathering along with the Business Analyst.  Involved in enabling security and access control to the application by creating different levels of access to various business users and developers i.e access groups, work groups, access roles.  Created specialized rulesets which served as containers for specific rule types.  Implemented the pre-packaged workflows that come with the framework and customized them to support successful payments processing and handle payments exceptions.  Created various flow-actions for successful exceptions management.  Used Clipboard and tracer tools to navigate through flows along with the work objects and trace the results.  Used HCIF and CMF frameworks in processing bilings, claims, enrollment and membership as part of CR project.  Followed Agile methodology in delivering the Project tasks in this implementation.  Performed integration by developing rules pertained to rule-connect and rule-service. Major tasks involved integrating with Oracle databases to fetch data and with SOAP/Webservices to review particular data.  Designed and implemented user interfaces using Sections, Harness and HTML stream rules.  Implemented various PRPC components like Decision tables, Decision Maps, Indexes.  Developed Correspondence rules to intimate the customers about their account balance, any disputes, offers available status through email or fax messages.  Developed product rules to migrate data instances and rulesets from development to User Acceptance Testing &amp; Performance environment when needed.  Involved in List and Summary view reports and documentation.  Developed and executed test scripts for different stages of deployment like unit testing, functional testing and smoke testing. Environment: Pega PRPC 6.1, Oracle 10g, WebLogic Server 9.2, Microsoft Visio 2003, Windows XP, Web Services, TCPMon, XML spy.</Description><StartDate><AnyDate>4/1/2013</AnyDate></StartDate><EndDate><Anydate>10/1/2013</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>MasterCard</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Pega Senior System Architect</Title><OrgName><OrgName>MasterCard</OrgName></OrgName><Description>MasterCard, O'Fallon, MO      Sep 2012 - Mar 2013 Pega Senior System Architect Payment   Processing  Description:  Implemented  PRPC   tool  for  intelligent  automation   of  Payments Processing and resolve payments exceptions. The project includes major solution frameworks like SmartBPM and Smart Adjust. While Smart Adjust provided opportunity to automate the decision-making and work processing involved in error and exception management that occur during processing cycle, with SmartBPM we uniquely integrate business rules and policies. Our project was to include these two frameworks as the backbone for the application and develop new business rules and classes and apply security to it. Responsibilities:   Involved in the design of class Structure, Properties, Activities and Service rules  Involved in integration to Filenet SOAP service to fetch the claims records.  Developed Flows and activities.  Reviewed the technical document and supported development to achieve their goals.  Modified technical design documents and requirements documents after final review.  Actively involved in the User Interface design and coding.  Creation of Declarative expressions for a value change on the properties.  Creation of validation rules to implement business logic validation.  Implementation of decision tables, Decision Maps and Declarative expressions.  Creation of activities and steps for implementing core business logic.  Testing and debugging using tracer and DB trace.  Handled a Project upgrading PRPC version from 5.5 to 6.2.  Used CPM Card framework which has specific features as per business requiremenst in building workflows as part of BPMS Project.  Deliverables were implemented in Agile methodology.  Interacted with clients to understand the business requirements.  Modified the existing portal layouts, depends on the User roles, Privileges.  Implemented Service Level Agreement rules to send the correspondence to external users. Environment:  Java, J2EE, WebSphere 6.1, Pega PRPC 5.4SP1/5.4SP2, MQSeries, Web Services, XML, SOAP, AIX, Windows XP, Eclipse</Description><StartDate><AnyDate>9/1/2012</AnyDate></StartDate><EndDate><Anydate>3/1/2013</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Citibank</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Pega Senior Developer</Title><OrgName><OrgName>Citibank</OrgName></OrgName><Description>Citibank, Sioux Falls, SD      Feb 2011 - Sep 2012 Pega Senior Developer Dispute Servicing Manager:  AP is responsible for managing current invoice, check request, and wire transfer workflow payment processes. The request document (paper document) is scannedonto a n/w sharing folder as an image with an agent running in the background. Depending upon the type of request the work object is created and is processed through the work flow. The project made use of a varied set of rules including declarative expressions, circumstance-qualified rules, service-soap, connect-soap, connect-sql, decision trees, decision tables etc. Responsibilities:  Involved in installing Pega PRPC tools, helped system administrator in sorting out major installation issues.  Involved in developing authentication solution through SSO (single sign-on) using LDAP server, and to configure custom authentication activity and web.xml as well.  Involved in requirement gathering and analyzing them with system architect.  Involved in security design for successful access control by assigning various access roles, groups to various business users upon their level of rule-usage.  Created Classes, rule sets and designed simple workflows and sub flows.  Developed Property rules, HTML rules, Embedded Pages and used them in activities.  Created agents which will run in the background to generate daily, weekly and monthly reports.  Developed and designed workflows as well as integrating between systems for smooth and optimized operation of systems.  All the iterative development lifecycles were followed in Agile methodology.  Created Connect - and Service - rules to expose data to other systems through SOAP and web services by integration rules.  Created stream and parse rules to generate XML stream flow into an external system and receive  Implemented and deployed Java Messaging Services and Message Driven Beans to connect and communicate with external systems through internally auto-generated messages.  CPM Card framework has been used in Card Disputes project in building claims work flows.  Used Smart Adjust frame work in Pega Cards to automate the payment process and handle the dispute management work flows.  Implementation of Decision tables, Decision Maps and Declarative expressions for validations.  Developed   technical   requirements   to   provide   end   state   requirements   for   line   of   business   and development team.  Led the upgrade version project in PRPC from 5.5 to 6.1 in Citicards application.  Developed artifacts and workflows while following company standards and guidelines.  Prepared Unit test cases and Unit test logs. Created the Connect rules and data-mapping to connect to the external RDB.  Created list and summary view reports and provided access groups to enable security on them. Environment:  Pega PRPC 5.5, CPC HC Framework, Oracle 9i, Tomcat 4.1, Java, JSP, Windows 2000 professional, HTML, SOAPUI, XMLspy.</Description><StartDate><AnyDate>2/1/2011</AnyDate></StartDate><EndDate><Anydate>9/1/2012</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Aetna</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Pega Developer</Title><OrgName><OrgName>Aetna</OrgName></OrgName><Description>Aetna Corporation, IN      Feb 2008- Jan 2011 Pega Developer Enrollment processing application Description: This project is an initiative tasked with reducing complexity, terminating inefficiencies, generating operational efficiencies with enhanced automation and improving speed to process the customer enrollment in the company. The major workflow includes various sub-flows, activities, and tickets to implement a technology-based solution for improving efficiencies in the Customer enrollment processing. Responsibilities:   Created various access groups and roles in order to solve business rules security issues. Also involved in security design through application server and work stations.  Developed   complete   testing   life   cycle   for   enhancements   including   unit   test   cases   and integration test cases.  Involved in business requirement gathering and defining along with the business analyst.  Performed CPM HC integration by creating specific rulesets and activities.  Created various flow-actions both general and specific to the organizational units.  Developed and Implemented activities involving number of steps and methods for calling standard activites that come with the framework and the PRPC.  Implemented field validations using declarativeexpressions and declareconstraints for known issues in the framework.  Performed integration by developing rules pertained to rule-connect and rule-service. Major tasks involved integrating with SQLdatabases to fetch data and with SOAP/Webservices to review particular data.  Created cross reference properties that will be generated by CPM HC and basic application.  Used Clipboard and Tracer tools to navigate through flows along with the work objects and trace the results.  Performed reporting using dashboard gadgets and tools and created Ad-hoc/custom reports using List-view and Summary-View rules.  Performed correspondence to intimate the customers about their offer status through email or fax messages.  Involved   in   Change   management   aspects   which   include   defining   and   implementing   the procedures/technologies   to   deal   with   changes   in   business environment. Environment: Pega PRPC 5.3/5.4, IBM DB2, Microsoft Visio 2003, SQL, Business Objects, Erwin, HTML, XML, and, Windows XP, JAVA.</Description><StartDate><AnyDate>1/1/2011</AnyDate></StartDate><EndDate><Anydate>12/31/2011</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Hewlett Packard, Banglore, INDIA</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Java /Database Developer</Title><OrgName><OrgName>Hewlett Packard, Banglore, INDIA</OrgName></OrgName><Description>Hewlett Packard, Banglore, INDIA      Sep 2006 - Jan 2008 Java /Database Developer Responsibilities:   Worked with business users and clients during the requirements phase.  Designed and developed user interface, Business Logic Tier and Data Access Tier.  Developed Servlets, JSP pages, Beans and worked on Integration.  Worked with AJAX and JavaScript while designing the Front End.  Worked with DB (DBO) classes and used JDBC drivers from different vendors.  Created user &amp; database objects such as Tables, Views and Indexes, also worked on creating the stored procedures and Triggers.   Designed and developed the MONITOR application which is used by the private wealth management Managers for keeping tracking of the various accounts.  Used ANT Framework to build and deploy the application.  Worked with JDBC for extracting data from the database.    Perform Load Testing, Parallel Testing, String Testing, Unit Testing, Acceptance Testing and Defect Tracking using Test Director. Environment:  JSP  ,Custom  Tag  Libraries ,JDBC,  Java, HTML,SQL  Server,Apache  Tomcat  ,  Apache ANT,Windows XP,Test Director, Oracle,Visio, Word, Excel, DB2, MS Project.</Description><StartDate><AnyDate>9/1/2006</AnyDate></StartDate><EndDate><Anydate>1/1/2008</Anydate></EndDate></PositionHistory></EmployerOrg></EmploymentHistory><EducationHistory><SchoolOrInstitution SchoolType="University"><School><SchoolName>University (JNTU)</SchoolName></School><SchoolLocation>Hyderabad</SchoolLocation><Degree DegreeType="Graduate/ Undergraduate"><IsHighestDegee>True</IsHighestDegee><DegreeName>Bachelors</DegreeName><DegreeDate><AnyDate /></DegreeDate><DegreeMajor><Name /></DegreeMajor><EducationDetails /><DegreeMeasure><EducationMeasure><MeasureSystem /><MeasureValue><StringValue /></MeasureValue></EducationMeasure></DegreeMeasure><DateofAttendance><StartDate><AnyDate /></StartDate><EndDate><AnyDate /></EndDate></DateofAttendance><EducationDescription>Bachelors of Technology in Electrical and Electronics Engineeringfrom Jawaharlal Technical University
+ (JNTU), Hyderabad</EducationDescription></Degree></SchoolOrInstitution></EducationHistory><LicensesAndCertifications><LicenseOrCertification /><Name /></LicensesAndCertifications><Qualifications><Competency Name="Deployment"><LastUsedDate></LastUsedDate></Competency><Competency Name=" CPM"><LastUsedDate>10/1/2013</LastUsedDate></Competency><Competency Name=" Correspondence"><LastUsedDate>11/15/2014</LastUsedDate></Competency><Competency Name=" Servlets"><LastUsedDate>1/1/2008</LastUsedDate></Competency><Competency Name=" Object Oriented Programming"><LastUsedDate></LastUsedDate></Competency><Competency Name=" OOP"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Relational Database"><LastUsedDate></LastUsedDate></Competency><Competency Name=" RDBMS"><LastUsedDate></LastUsedDate></Competency><Competency Name=" SOA"><LastUsedDate></LastUsedDate></Competency><Competency Name=" CSS"><LastUsedDate></LastUsedDate></Competency><Competency Name=" HTML"><LastUsedDate>11/15/2014</LastUsedDate></Competency><Competency Name=" AJAX"><LastUsedDate>1/1/2008</LastUsedDate></Competency><Competency Name=" Database"><LastUsedDate>11/15/2014</LastUsedDate></Competency><Competency Name=" SQL"><LastUsedDate>11/15/2014</LastUsedDate></Competency><Competency Name=" SOAP"><LastUsedDate>11/15/2014</LastUsedDate></Competency><Competency Name=" SOAP"><LastUsedDate>11/15/2014</LastUsedDate></Competency><Competency Name=" User Acceptance"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Oracle"><LastUsedDate>10/1/2013</LastUsedDate></Competency><Competency Name=" Windows XP"><LastUsedDate></LastUsedDate></Competency><Competency Name=" XML"><LastUsedDate>10/1/2013</LastUsedDate></Competency><Competency Name=" Payments"><LastUsedDate>3/1/2013</LastUsedDate></Competency><Competency Name=" Java"><LastUsedDate>3/1/2013</LastUsedDate></Competency><Competency Name=" J2EE"><LastUsedDate>3/1/2013</LastUsedDate></Competency><Competency Name=" MQSeries"><LastUsedDate>3/1/2013</LastUsedDate></Competency><Competency Name=" AIX"><LastUsedDate>3/1/2013</LastUsedDate></Competency><Competency Name=" Eclipse"><LastUsedDate>3/1/2013</LastUsedDate></Competency><Competency Name=" AP"><LastUsedDate>9/1/2012</LastUsedDate></Competency><Competency Name=" SSO"><LastUsedDate>9/1/2012</LastUsedDate></Competency><Competency Name=" LDAP"><LastUsedDate>9/1/2012</LastUsedDate></Competency><Competency Name=" Erwin"><LastUsedDate>12/31/2011</LastUsedDate></Competency><Competency Name=" JAVA"><LastUsedDate></LastUsedDate></Competency><Competency Name=" JavaScript"><LastUsedDate>1/1/2008</LastUsedDate></Competency><Competency Name=" JDBC"><LastUsedDate>1/1/2008</LastUsedDate></Competency><Competency Name=" Unit Testing"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Apache"><LastUsedDate>1/1/2008</LastUsedDate></Competency><Competency Name=" Tomcat"><LastUsedDate>9/1/2012</LastUsedDate></Competency><Competency Name=" Visio"><LastUsedDate>10/1/2013</LastUsedDate></Competency><Competency Name=" Word"><LastUsedDate>1/1/2008</LastUsedDate></Competency><Competency Name=" DB2"><LastUsedDate>12/31/2011</LastUsedDate></Competency><Competency Name=" MS Project"><LastUsedDate></LastUsedDate></Competency><Competency Name=" C++"><LastUsedDate></LastUsedDate></Competency><Competency Name=" C#"><LastUsedDate></LastUsedDate></Competency><Competency Name=" VB.NET"><LastUsedDate></LastUsedDate></Competency><Competency Name=" JMS"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Frameworks"><LastUsedDate></LastUsedDate></Competency><Competency Name=" XSL"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Adobe Photoshop"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Healthcare"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Windows 98"><LastUsedDate></LastUsedDate></Competency></Qualifications><languages><language><languagesCode>Sioux</languagesCode></language></languages></StructuredXMLResume><ResumeAdditionalItems><ResumeAdditionalItem type="Personal"><FatherName /><DateOfBirth /><Age /><Gender>Unspecified</Gender><Nationality /><MaritalStatus>Unspecified</MaritalStatus><PassportNo /><VisaStatus /><Currentlocation>Schaumburg</Currentlocation></ResumeAdditionalItem><ResumeAdditionalItem type="Resume Parsing Information"><ResumeParsingStartDate>11/12/2014 12:00:00 AM</ResumeParsingStartDate><ResumeParsingExpiryDate>11/27/2014 12:00:00 AM</ResumeParsingExpiryDate><NumberOfParsedResume>24</NumberOfParsedResume><MaxLimitOfParsedResume>100</MaxLimitOfParsedResume></ResumeAdditionalItem></ResumeAdditionalItems><ResumeContext>The candidate is working as  with a good working Experience of 8Year(s) &amp; 2Month(s) and Skilled in Deployment, CPM, Correspondence, Servlets, Object Oriented Programming, OOP, Relational Database, RDBMS, SOA, CSS, HTML, AJAX, Database, SQL, SOAP, SOAP, User Acceptance, Oracle, Windows XP, XML, Payments, Java, J2EE, MQSeries, AIX, Eclipse, AP, SSO, LDAP, Erwin, JAVA, JavaScript, JDBC, Unit Testing, Apache, Tomcat, Visio, Word, DB2, MS Project, C++, C#, VB.NET, JMS, Frameworks, XSL, Adobe Photoshop, Healthcare, Windows 98. The Current Salary:  and Expected Salary: . Candidate's Functional Area seems to be:  and Industry is Architecture/Interior Designing | Export/Import; Currently located at . The candidate posses Bachelors with major as </ResumeContext><ResumeTextFormat> <![CDATA[Murali Dhar           
+dhar12us@gmail.com                                                                                                            
+                 605-215-1091
+                                                       Pega Senior System Architect
+SUMMARY:
+
+Around 7+ years of experience in the IT Industry and 5+ years of experience in the Analysis, Design,
+Development, Deployment and Maintenance of BPM and BRE applications using the Pega Rules Process
+Commander (PRPC 5.x/6.x) tool.
+
+Expertise in working with solution frameworks like CPM, CPM HC, SmartBPM, which represent various
+business verticals.
+
+Good knowledge of organizational hierarchy and hence involved in requirement gathering along with
+business analysts to better understand end user requirements and various scenarios.
+
+Expertise in developing and managing Workflows, Class structures design, developing User Interface (UI),
+creating various Flow actions, interpreting Tickets, complex flow shapes for business scenarios, Activities,
+activity step methods, Decision maps and Decision rules.
+
+Excellent understanding of various types of Rules like Product rules, Correspondence rules, Integration
+rules and Ruleset management, and associated tools such as export &amp; import tools.
+
+Excellent knowledge on using debugging and performance tools like Clipboard, Tracer, Performance
+Analyzer (PAL) and System Management Application (SMA). 
+
+Hands on 3 yrs of experience in Java2EE, EJBs, Servlets, JSP.
+
+Excellent real-time knowledge on AGILE and SCRUM methodologies, Object Oriented Programming
+(OOP), Relational Database (RDBMS) and Service Oriented Architecture (SOA), CRM.
+
+Excellent knowledge of developing Rich UI, CSS, Skins, Screen Layouts using JSPs, HTML and AJAX.
+TECHNICAL SKILLS:
+Smart BPM Suite: Pega Rules Process Commander (PRPC) 5.x, 6.x
+Application/Web Servers: Tomcat4.1/5.0, WebLogic 8.0/9.2, Websphere 6.0.
+Programming Languages: JAVA2EE, C++, C#/VB.NET
+J2EE Technologies: EJB2.0, Servlets, JSP, JDBC2.0, JSTL, JMS, JNDI
+Frameworks: Jakarta Struts, spring, Hibernate.
+Markup Scripting Languages: SOAP, JSP, XML, XSL, HTML, CSS
+User Interface:               Adobe Photoshop/ Flex  
+RDBMS: Oracle 8i/9i/10g, DB2, SQL Server 20005/2008.
+Business Verticals: Banking, Insurance, Healthcare, Sales/Retail Industry.
+Operating Systems: Windows 98/NT/2000/2003/XP, UNIX.
+Certifications:
+Pegasystems Certified PRPC Senior System Architect (V6.2)
+Pegasystems Certified PRPC System Architect (V6.1)
+Pegasystems Certified PRPC Business Architect (V6.1)
+WORK EXPERIENCE:
+1
+
+
+Zurich Insurance Schaumburg, IL                                                                              Nov 2013-
+Present
+Pega Systems Consultant
+Pega Senior System Architect
+Responsibilities:
+
+Installed the PRPC version 6.3 and solution framework Pega Insurance into the PRPC, which involved
+contribution from various teams such as Database and System Administration.
+
+Involved in business requirement gathering along with the business analyst for the application UW Work
+Flow Management application.
+
+Developed new portal layouts which served new roles in the organization, in addition to the pre-
+packaged layouts.
+
+Involved in enabling security and access control to the application by creating different levels of access to
+various business users and developers i.e access groups, work groups, access roles. 
+
+Developed the code in branch rule versions which helps in parallel development in multiple teams.
+
+Designed and developed high level class structure in PRPC like class groups, work classes based on the
+organizational hierarchy.
+
+Designed and implemented user interfaces using Sections, Harness and HTML stream rules.
+
+Created specialized rulesets which served as containers for specific rule types.
+
+Used Clipboard and tracer tools to navigate through flows along with the work objects and trace the
+results. 
+
+Performed integration by developing rules pertained to rule-connect and rule-service. Major tasks
+involved integrating with SQL databases to fetch data and with SOAP/Webservices to review particular
+data.
+
+Developed Correspondence rules to intimate the customers about their account balance, any disputes,
+offers available status through email or fax messages.
+
+Developed product rules to migrate data instances and rulesets from development to User Acceptance
+Testing &amp; Performance environment when needed.
+
+Involved in List and Summary view reports and documentation
+
+Migrated the code into most recent version of PRCP Pega 7.
+HMSA (Blue Cross Blue Shield of Hawaii), Honolulu, HI                                          Apr 2013  Oct 
+2013
+Pega Senior System Architect 
+Responsibilities:
+
+Installed the PRPC BRE and BPM tool and solution framework Smart Adjust into the PRPC, which involved
+contribution from various teams such as Database and System Administration.
+ Designed and developed high level class structure in PRPC and concrete classes to act like bridge
+between CPM HC and PRPC application.
+
+Developed new portal layouts which served new roles in the organization, in addition to the pre-
+packaged layouts.
+ Created Activities to accept CPM HC work object references and return Non-CPM work object
+references and modifying them to invoke the new activities.
+
+Developed CPM HC IAV,Interaction Driver rules,Portals, composite tabs for customer 360 info
+2
+
+
+and navigation rules.
+
+Developed Case management in resolving interaction cases and intent/Work Object cases.
+
+Designed and developed high level class structure in PRPC like class groups, work classes based
+on the organizational hierarchy.
+
+Involved in business requirement gathering along with the Business Analyst.
+
+Involved in enabling security and access control to the application by creating different levels of access to
+various business users and developers i.e access groups, work groups, access roles. 
+
+Created specialized rulesets which served as containers for specific rule types.
+
+Implemented the pre-packaged workflows that come with the framework and customized them to
+support successful payments processing and handle payments exceptions. 
+
+Created various flow-actions for successful exceptions management.
+
+Used Clipboard and tracer tools to navigate through flows along with the work objects and trace the
+results. 
+
+Used HCIF and CMF frameworks in processing bilings, claims, enrollment and membership as part of CR
+project.
+
+Followed Agile methodology in delivering the Project tasks in this implementation.
+
+Performed integration by developing rules pertained to rule-connect and rule-service. Major tasks
+involved integrating with Oracle databases to fetch data and with SOAP/Webservices to review particular
+data. 
+
+Designed and implemented user interfaces using Sections, Harness and HTML stream rules.
+
+Implemented various PRPC components like Decision tables, Decision Maps, Indexes. 
+
+Developed Correspondence rules to intimate the customers about their account balance, any disputes,
+offers available status through email or fax messages.
+
+Developed product rules to migrate data instances and rulesets from development to User Acceptance
+Testing &amp; Performance environment when needed.
+
+Involved in List and Summary view reports and documentation.
+
+Developed and executed test scripts for different stages of deployment like unit testing, functional
+testing and smoke testing.
+Environment: Pega PRPC 6.1, Oracle 10g, WebLogic Server 9.2, Microsoft Visio 2003, Windows XP, Web
+Services, TCPMon, XML spy. 
+MasterCard, OFallon, MO                                                                                                   Sep 2012 
+Mar 2013
+Pega Senior System Architect
+Payment   Processing  Description:  Implemented  PRPC   tool  for  intelligent  automation   of  Payments
+Processing and resolve payments exceptions. The project includes major solution frameworks like
+SmartBPM and Smart Adjust. While Smart Adjust provided opportunity to automate the decision-making
+and work processing involved in error and exception management that occur during processing cycle,
+with SmartBPM we uniquely integrate business rules and policies. Our project was to include these two
+frameworks as the backbone for the application and develop new business rules and classes and apply
+security to it. 
+Responsibilities:
+3
+
+
+ Involved in the design of class Structure, Properties, Activities and Service rules
+ Involved in integration to Filenet SOAP service to fetch the claims records.
+ Developed Flows and activities.
+ Reviewed the technical document and supported development to achieve their goals.
+ Modified technical design documents and requirements documents after final review.
+ Actively involved in the User Interface design and coding.
+ Creation of Declarative expressions for a value change on the properties.
+ Creation of validation rules to implement business logic validation.  
+ Implementation of decision tables, Decision Maps and Declarative expressions. 
+ Creation of activities and steps for implementing core business logic.
+ Testing and debugging using tracer and DB trace. 
+ Handled a Project upgrading PRPC version from 5.5 to 6.2.
+ Used CPM Card framework which has specific features as per business requiremenst in building
+workflows as part of BPMS Project.
+ Deliverables were implemented in Agile methodology.
+ Interacted with clients to understand the business requirements.
+ Modified the existing portal layouts, depends on the User roles, Privileges.
+ Implemented Service Level Agreement rules to send the correspondence to external users.
+Environment:  Java, J2EE, WebSphere 6.1, Pega PRPC 5.4SP1/5.4SP2, MQSeries, Web Services, XML,
+SOAP, AIX, Windows XP, Eclipse
+Citibank, Sioux Falls, SD                                                                                                     Feb 2011 
+Sep 2012
+Pega Senior Developer
+Dispute Servicing Manager:
+AP is responsible for managing current invoice, check request, and wire transfer workflow payment
+processes. The request document (paper document) is scannedonto a n/w sharing folder as an image with
+an agent running in the background. Depending upon the type of request the work object is created and is
+processed through the work flow. The project made use of a varied set of rules including declarative
+expressions, circumstance-qualified rules, service-soap, connect-soap, connect-sql, decision trees, decision
+tables etc. 
+Responsibilities:
+4
+
+
+
+Involved in installing Pega PRPC tools, helped system administrator in sorting out major installation
+issues.
+
+Involved in developing authentication solution through SSO (single sign-on) using LDAP server, and to
+configure custom authentication activity and web.xml as well.
+
+Involved in requirement gathering and analyzing them with system architect.
+
+Involved in security design for successful access control by assigning various access roles, groups to
+various business users upon their level of rule-usage.
+
+Created Classes, rule sets and designed simple workflows and sub flows.
+
+Developed Property rules, HTML rules, Embedded Pages and used them in activities.
+
+Created agents which will run in the background to generate daily, weekly and monthly reports.
+
+Developed and designed workflows as well as integrating between systems for smooth and optimized
+operation of systems.
+
+All the iterative development lifecycles were followed in Agile methodology.
+
+Created Connect- and Service- rules to expose data to other systems through SOAP and web services by
+integration rules.
+
+Created stream and parse rules to generate XML stream flow into an external system and receive
+
+Implemented and deployed Java Messaging Services and Message Driven Beans to connect and
+communicate with external systems through internally auto-generated messages.
+
+CPM Card framework has been used in Card Disputes project in building claims work flows.
+
+Used Smart Adjust frame work in Pega Cards to automate the payment process and handle the dispute
+management work flows.
+
+Implementation of Decision tables, Decision Maps and Declarative expressions for validations.
+
+Developed   technical   requirements   to   provide   end   state   requirements   for   line   of   business   and
+development team.
+
+Led the upgrade version project in PRPC from 5.5 to 6.1 in Citicards application.
+
+Developed artifacts and workflows while following company standards and guidelines.
+
+Prepared Unit test cases and Unit test logs.
+
+Created the Connect rules and data-mapping to connect to the external RDB. 
+
+Created list and summary view reports and provided access groups to enable security on them.
+Environment:  Pega PRPC 5.5, CPC HC Framework, Oracle 9i, Tomcat 4.1, Java, JSP, Windows 2000
+professional, HTML, SOAPUI, XMLspy.
+Aetna Corporation, IN                                                                                                              Feb
+2008 Jan 2011
+Pega Developer
+Enrollment processing application
+Description: This project is an initiative tasked with reducing complexity, terminating inefficiencies,
+generating operational efficiencies with enhanced automation and improving speed to process the
+customer enrollment in the company. The major workflow includes various sub-flows, activities, and
+tickets to implement a technology-based solution for improving efficiencies in the Customer enrollment
+processing. 
+Responsibilities:
+5
+
+
+ Created various access groups and roles in order to solve business rules security issues. Also
+involved in security design through application server and work stations.
+ Developed   complete   testing   life   cycle   for   enhancements   including   unit   test   cases   and
+integration test cases.
+ Involved in business requirement gathering and defining along with the business analyst.
+ Performed CPM HC integration by creating specific rulesets and activities.
+ Created various
+flow-actions both general and specific to the organizational units.
+ Developed and Implemented activities involving number of steps and methods for calling
+standard activites that come with the framework and the PRPC.
+ Implemented field
+validations using declarativeexpressions and declareconstraints for known issues in
+the framework.
+ Performed integration by developing rules pertained to rule-connect and rule-service.
+Major
+tasks involved integrating with SQLdatabases to fetch data and with SOAP/Webservices to review
+particular data.
+ Created cross reference properties that will be generated by CPM HC and basic application.
+ Used Clipboard and Tracer tools to navigate through flows along with the work objects and
+trace the results.
+ Performed reporting using dashboard gadgets and tools and created Ad-hoc/custom reports
+using List-view and Summary-View rules.
+ Performed correspondence
+to intimate the customers about their offer status through email or fax
+messages.
+ Involved   in   Change   management   aspects   which   include   defining   and   implementing   the
+procedures/technologies   to   deal   with   changes   in   business
+environment.
+Environment: Pega PRPC 5.3/5.4, IBM DB2, Microsoft Visio 2003, SQL, Business Objects, Erwin, HTML,
+XML, and, Windows XP, JAVA.
+Hewlett Packard, Banglore, INDIA                                                                                  Sep 2006 
+Jan 2008
+Java /Database Developer
+Responsibilities:
+ Worked with business users and clients during the requirements phase.
+ Designed and developed user interface, Business Logic Tier and Data Access Tier.
+ Developed Servlets, JSP pages, Beans and worked on Integration.
+ Worked with AJAX and JavaScript while designing the Front End.
+ Worked with DB (DBO) classes and used JDBC drivers from different vendors.
+ Created user &amp; database objects such as Tables, Views and Indexes, also worked on creating the stored
+procedures and Triggers.
+6
+
+
+ Designed and developed the MONITOR application which is used by the private wealth management
+Managers for keeping tracking of the various accounts.
+ Used ANT Framework to build and deploy the application.
+ Worked with JDBC for extracting data from the database.
+   Perform Load Testing, Parallel Testing, String Testing, Unit Testing, Acceptance Testing and Defect
+Tracking using Test Director. 
+Environment:  JSP  ,Custom  Tag  Libraries ,JDBC,  Java, HTML,SQL  Server,Apache  Tomcat  ,  Apache
+ANT,Windows XP,Test Director, Oracle,Visio, Word, Excel, DB2, MS Project. 
+EDUCATION:  
+Bachelors of Technology in Electrical and Electronics Engineeringfrom Jawaharlal Technical University
+(JNTU), Hyderabad
+7]]> </ResumeTextFormat></Resume>

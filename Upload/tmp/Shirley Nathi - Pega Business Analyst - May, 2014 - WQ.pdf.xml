@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Resume><ResumeId ResumeParserProductName="RecruitPlus Resume Parser"><ResumeParserOrgName>ITCONS e-Solutions Private Limited</ResumeParserOrgName></ResumeId><StructuredXMLResume><ContactInfo><PersonName><FullName>SHIRLEY NATHI</FullName><GivenName>SHIRLEY</GivenName><MiddleName /><FamilyName>NATHI</FamilyName></PersonName><ContactMethod><Telephone><PhoneBasic>8189932814</PhoneBasic></Telephone><Mobile><phone_Mobile /></Mobile><Fax><FaxPhone /></Fax><InternetEmailAddress>sharonkevn@gmail.com</InternetEmailAddress><InternetEmailAddress /><PostalAddress><CountryName /><Region /><City /><PostalCode /><DeliveryAddress><AdressLine1 /><AdressLine2 /></DeliveryAddress></PostalAddress></ContactMethod></ContactInfo><ExecutiveSummary /><Objective /><Role /><FunctionalArea /><IndustryType /><EmploymentHistory><TotalExperience>7Year(s) &amp; 4Month(s)</TotalExperience><TotalProjectExperience>6Year(s) &amp; 7Month(s)</TotalProjectExperience><CurrentSalary /><ExpectedSalary /><EmployerOrg><EmployerOrgName>Department of Veterans Affairs</EmployerOrgName><PositionHistory><CurrentEmplyor>True</CurrentEmplyor><Title>Pega Business Architect</Title><OrgName><OrgName>Department of Veterans Affairs</OrgName></OrgName><Description>Client: Department of Veterans Affairs, Austin, TX Feb 2013-March 2014 Role: Pega Business Architect The Non VA Medical Care provides essential health care services to Veterans when these services are not available   at   VA facilities   or   when   services   cannot   be   economically  provided  due   to  geographical inaccessibility or emergency. During a period of exponential growth, claims processing has remained primarily manual in nature.  The legacy systems do not provide the needed system enhancements that could have automated monitoring of funds, review of claims for fraud, waste, and abuse, and the review of supporting clinical information justifying Non VA care. The new system will centralize the management and servicing   of   the   three   main   activities   required   to   pay   a   claim:   Eligibility   and   Enrollment, Referral/Authorization and Claim Processing. The Health Care Claims Processing (HCP) application in PRPC leverages industry-standard frameworks such as Health Care Industry Foundation and Claims Repair. Responsibilities:   Work with business stakeholders from Chief Business Office (CBO) and the VA Financial Services Center (FSC) to clarify business requirements and scope for HCPS and create a high level Application Profile (AP) for initial review and sizing purposes.  Developed excellent understanding of industry standard health care concepts such as X12 transactions and layouts for different claim form types such as Institutional, Professional, Dental (837, 835, 270/271, 276/277), HIPAA edits, Business edits, Eligibility and Enrollment, Referrals and Authorization, Member and Provider validations, clinical code sets, Configuration modules such as Benefits Administration, Payment Methodologies, claims administration.  Coordinated the effort on classifying requirements into major components such as: Claims Intake, Pre-Adjudication, Adjudication, Post-Adjudication/Payments.  Responsible for leading the effort on translating Business Use Cases (BUCs) into Pega Atomic Use Cases (AUCs) in preparation for DCO sessions in elaboration phase.  Conducted client enablement sessions in conjunction with Pegasystems consultants to walk through PRPC capabilities.  Conducted Gap Analysis to compare business requirements with available PRPC health care frameworks (Health Care Industry Foundation, Claims Repair, and Claims Workstation) to leverage out of the box capability as much as possible and identify components that need to be extended.  Supplement requirements captured in Pega DCO suite with detailed business process flows and activity flow diagrams to facilitate easy understanding of intended functionality for the development team.   Created click thru prototypes using draft flows and UI rules in PRPC in preparation for the elaboration phase.  Facilitated Prep and Review DCO sessions leveraging the AUCs and prototypes to facilitate effective feedback solicitation and to concur upon requirements.  Identified applicable work types, interfaces, correspondence, skill matrix and reporting requirements.  Conduct biweekly play back sessions to demo functionality built to date in construction phase to ensure that application development is in line with business requirements.  Responsible for conducting end of sprint and increment walk thru sessions with project leadership team and stakeholders.  Accelerator), PRPC Frameworks - Health Care Industry Foundation and Claims Repair, HP Quality Environment:Pega   PRPC   v6.2   (including   DCO   tools   such   as   Application   Profiler/Application</Description><StartDate><AnyDate>2/1/2013</AnyDate></StartDate><EndDate><Anydate>3/1/2014</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Kaiser Permanente</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Pega Business  Analyst</Title><OrgName><OrgName>Kaiser Permanente</OrgName></OrgName><Description>Center, MS Project 2007, MS Visio 2010, Rational ClearQuest, Rational Requisite Pro Client: Kaiser Permanente, Washington DC      Dec 2011-Jan 2013 Role: Pega Business  Analyst Kaiser Permanente is a leading consumer health services and health insurance provider in North America. They are committed to assisting physicians and hospitals to their members to improve the extraordinary quality of healthcare. The company serves different individual, corporate and municipal customers hence it needed ease in day-to-day reporting. The company wanted us to develop a data warehouse which would facilitate ease in reporting. Responsibilities:   Modeled Business requirements into workflows to depict various scenarios of system to request RFI and RFP responses from major vendors.  Gathered legacy system requirements by shadowing Customer Service Representatives (CSRs), Customer Relationship Representatives (CRRs), preparing questionnaires, to identify limitations in the current system and GAPS in the proposed system.  Created an enterprise workflow application based on CRUD rules for Customer Data that would allow for future integration of data infrastructure across various business areas into a single UI.  Prepared logical data model in the form of Business Context diagram to include various entities and attributes in order to facilitate the design of Data model in the form of ER Diagrams. Studied current information structures and data models of the current databases to better understand the design of target data source.  Performed custom data conversions and developed custom software for risk management applications including general claims, vehicle accident and administrative tracking. Performed all data field mappings.  Planning and conducting DCO Elaboration sessions with target SME's.  Used Rational Rose to model the process using UML to create behavioral and structural diagrams.  Used Rational Clear Quest to track required changes and Rational Clear Case to maintain different versions of the project documentation  Involved in integration of various Customer Data Sources and provided Data Mapping from various sources like CCD, LPCD, DCD into the target centralized customer data source. Designed and developed Use Cases, Activity Diagrams, Sequence Diagrams, OOAD using UML and Business Process Modeling.   Intricately involved in Business Process Flow development, Business Process Modeling, and ad hoc Analysis. Performed detailed comparative analysis of response to RFPs of vendors and Graphically Represented the recommended solutions in PowerPoint to Senior Management.  Prepared Business Context Diagram, Use Case diagrams and corresponding Activity Diagrams using Rational Rose to depict the workflows to be incorporated into the development of Pega Business Process Management (BPM) tool.  Actively involved in validating the requirements and applying the agile framework throughout the SDLC.  Conducted Requirements walk - through with Business Team to ensure that all their needs are met and gathered sign off on requirements for SOX compliance after the requirements were base lined.  Prepared   and   maintain   Business   Rules   Spreadsheets   (BRS)   identifying   Rules,   Triggers   and corresponding data fields from Legacy to target CRM application.  Followed a methodical Change Management Process and documented any Change Requests into Clear Case for any changes in the requirements after the requirements were base lined.  Perform unit test, system test and integration test for implementation. Worked very closely with the Test team to Test all iterations during the Testing Phase and documented all the defects.  Developing test plan for integration test. Prepared Test Cases based on base-lined Requirements Document,   prepared   Requirements   Traceability   Matrix   and   provided   Performance   Testing Requirements.  Developed detailed Testing Strategy for the entire  UNICA  campaigns and developed various test cases. Facilitated the User Acceptance Testing (UAT) with Pega System Administrators and Business Users, documented any issues or defects and eventually got sign off from the right parties.  Prepared training materials in the form of User manuals by preparing step-by-step guide to all screen flows in CMS.  Assisted in development of User Interfaces and prepared screenshots to get business's buy-in on the requirements. Environment:  Oracle, Toad, PL SQL, SQL server, Share Point, Quality Center, MS Office, MS Visio, PERADIAM, XCELYS, SQL,  Cognos Reporting.</Description><StartDate><AnyDate>12/1/2011</AnyDate></StartDate><EndDate><Anydate>1/1/2013</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Virginia Beach, VAAug</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Business Analyst</Title><OrgName><OrgName>Virginia Beach, VAAug</OrgName></OrgName><Description>Client: Gentiva Health Services, Virginia Beach, VAAug 2010-Dec 2011 Role: Business Analyst The project was to develop a Provider Desktop module for the EHR (Electronic Health Record System) with the objective to improve productivity and patient care. It serves as a central dashboard for providers to access crucial information such as Patient appointments, Clinical results, Messages, Electronic lab orders and Patient encounter notes anytime anywhere. The project was implemented securing patient privacy and health information conforming to HIPAA standards and guidelines. Responsibilities:   Interacted closely with the Business users along with the administration and management to gather business requirements and analyze the functionalities to be incorporated into the system  Worked on HIPAA 5010 transaction requirements and analyzed and tested HIPAA ANSI X12 formats including 270/271, 276/277, 834, 835, 837, 997, and NSF formats for interfaces and images to third part vendor applications  Analyzed processes in medical coding and transition from ICD 9 - ICD 10.  Worked with BA and UAT tasks.  Attended demo sessions to understand existing system functionalities   Arranged interviews with all the stakeholders to review and understand the gathered business requirements  Coordinated with system architects and developers to convert business requirements into system requirements  Conducted meetings to document Change Requests for new requirements  Analyzed business requirements and segregated them into Use Cases.  Created Use case diagrams and documented Use case specifications  Maintained various versions of the documents generated during the project using Rational Clear Case  Was responsible for creating and updating project schedule and managing resources and timeline using MS Project  Prepared the project status reports and represented the BA team in the PMO meetings  Participated in UAT along with the development &amp; testing teams  Gathered requirements from collection, claims, Billing, and insurance appeal departments  Working with the business and various technology departments, and acting as a liaison between the underwriters and application developers to provide production support for the National Pricing Solution web based application  Interacting with National Pricing Staff (Underwriting, Actuarial &amp; Sales/AM) on daily basis with regards to how the NPS application functions, troubleshooting incidents/issues for Users and completing defect and enhancement requests on daily basis  Performing system administrator duties i.e. adding/removing users to system Participating in UAT and working  This project also provides the Base component of the MMIS, which receives and processes prior authorizations, referrals, claims, and remittance advices for medical and dental services.  The project also manages provider enrollment for all Medicaid providers along with the Medicaid Member. This includes the files and data conversion and migration of all application functionality from the legacy MMIS system to the client-server application (Health PAS system).  Maintaining and modifying training documents  Extracting data from databases and preparing reports for auditing/SOX compliance purposes  Traveling throughout regional offices to provide support and training to end users as an SME (Subject Matter Expert) in Claims processing &amp; management, mentored &amp; trained entry levels Environment: Microsoft Word, Project, Excel, PowerPoint, Visio, Oracle 10g/11g</Description><StartDate><AnyDate>1/1/2010</AnyDate></StartDate><EndDate><Anydate>12/1/2011</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Health Net Inc</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Business Analyst</Title><OrgName><OrgName>Health Net Inc</OrgName></OrgName><Description>Client: Health Net Inc., Woodland Hills, CA      Sep 2009-Aug2010 Role: Business Analyst Health Net Inc. is a publicly traded managed care organization that delivers managed health care services through health plans and Government sponsored managed care plans. The project is about full life cycle implementations (SDLC) from project initiation to final deployment. Project1: This project mostly involved gathering Business Requirements for the Claims Business Area and updating EDI Transactions like EDI 837, 835, 277 and 276 with the system claim data. Project 2: Customization of FACETS reports related to Medicare and Medicaid.  Responsibilities:  *  Worked for the Enterprise Program Management Office (EPMO) *  Department Gathered Business Requirements from the Subject Matter Experts (SMEs). *  Evaluated business process requirements to ensure proper system configuration (i.e. identifying key decisions, process changes, pain points, interface issues, training considerations, etc.) *  Created Business Requirement Documents and Functional Requirement Documents as a result of meetings with the Business Areas. Obtained business sign offs on the documents after reviewing the final documents with them. *  Worked with CMS1500 for claims from physicians. *   Created Functional specifications for the 834 enrolment files with their changed benefits in the Medicare program. *  Worked extensively with ASC X12N 837I and ASC X12N 837P *  Captured data requirements for EOBs providing information about claim payment information and patient responsibility amounts *  Maintained the Traceability Matrix table to uniquely trace the identified business requirements to general design to testing as proof that requirements requested have been developed into a solution and that it has been tested and tracked *  Developed Test Scripts using Test Director and coordinated with developers to quickly resolve the defects associated with them. *  Analyzed and evaluated User Interface Designs, Technical Design Documents and Quality Assurance Test Conditions the performance of the application from various dimensions. *  Documented the UAT Plan for the project and worked with the UAT Team to ensure every acceptance criteria for the requirements has been included in the UAT task plan *  Worked with FACETS Team for HIPAA Claims Validation and Verification Process (Pre- Adjudication) Environment:  MS Visio, Word, Excel, PowerPoint, Rational Rose, Requisite Pro, Clear Case, Clear Quest, SQL, Oracle, Java, Facets 4.48</Description><StartDate><AnyDate>9/1/2009</AnyDate></StartDate><EndDate><Anydate>8/1/2010</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>HMSInc, Nashville, TNAug</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Business Information Analyst</Title><OrgName><OrgName>HMSInc, Nashville, TNAug</OrgName></OrgName><Description>Client: HMSInc, Nashville, TNAug 2008 - Sep 2009 Role: Business Information Analyst Health Insurance Claims processing, is the strategic source for innovative revenue enhancement and recovery services to public healthcare programs and payers. HMS has consistently applied information management techniques to reduce client's program and administrative costs by enhancing their recoveries and providing valuable information services. The project was about Claims Processing Module and automated the scripts. Responsibilities:  *  Analyzed user requirement documents (URD), software requirement specification document (SRS) and prepared System test plan by dividing the application into manageable units. *  Involved in writing Detailed Test Plan for the Application under Test (AUT). *  Enhanced the Test Cases by analyzing the Specification Documents. *  Developed, implemented and executed test methodologies and plans to ensure software product quality as per the RATIONAL UNIFIED PROCESS (RUP) methodology. Test some of the Extensions in Facets application manually. *  Collected and processed quantitative and qualitative data analysis.  *  Prepared spreadsheets with the help of MICROSOFT OFFICE EXCEL to show like specific geographic regions etc.Conducted several demos driven by MICROSOFT POWERPOINT Presentations. *  Reported status to the project manager weekly. *  Involved with the business users, developers to make sure the reports were developed right to the specification. *  Documented existing applications with the creation of UML sequence diagram and class diagram to document. *  Involved in creating use case diagrams for the purpose of the team to understand the workflow of the system. *  Analyzed and formatted data to a consistent format using MEDSTAT TOOL. *  Involved in the User Acceptance Testing to make sure the defects raised by the business users were resolved up to the Management Expectation by the developer group. Prepared documentation using MICROSOFT WORD. *  Created reports in MS WORD for account processing of each client group. *  Worked with the quality assurance group throughout the company identifying the major changes with the greatest opportunity for cost reduction. Involved in generating Test Plans, Test Scripts and Test Cases manually in EXCEL. Environment:   UML,  Rational  Requisite Pro,  Rational Clear  quest, Rational Clear case, JAVA, Windows , Unix.</Description><StartDate><AnyDate>1/1/2008</AnyDate></StartDate><EndDate><Anydate>9/1/2009</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Premier Inc</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Business Analyst</Title><OrgName><OrgName>Premier Inc</OrgName></OrgName><Description>Client: Premier Inc, Philadelphia, PA      July 2007 - Aug 2008 Role: Business Analyst Premier provides its clients with clinically-based solutions for addressing over use, misuse and under use of prescription drugs, and the consequences of such inappropriate utilization on healthcare costs. The system involved is a complete solution for the clinics and hospitals as it can manage customer data like case history, doctors' visiting hours, and other staff time tables including records of the treatment and procedures done on a patient. Through clinical management, Premier engages members, their physicians and pharmacists, in making better, more cost-effective use of prescription drugs.  The project was to enroll new clients in this clinical management system base and allow them to customize it as per their requirements. Responsibilities:  *  Worked closely with Premier's Clients including Doctors, Assistants, Pharmacists, Technicians and Process Analysts to understand the Business Process, gather Business Requirements, identified process specifications and developed the Business Requirement Document. *  Prepared Technical Design Documents &amp; Functional Requirement Specifications in accordance with BRD. *  Reverse Engineered and analyzed the existing system and developed GAP analysis document in accordance with the Business rules to implement the system in most optimized way. *  Defined program and project goals, objectives, products, services, constraints, assumptions, risks and facilitated processes by working with the project team, sponsor, and stakeholders to baseline the scope of the work. *  Implemented the full project lifecycle phases including requirements gatherings, development and quality assurance.  *  Designed and developed UML Use Case Diagrams, Class Diagrams, Activity Diagrams, Sequence Diagrams, Data Flow Diagrams and Collaboration diagrams using MS Visio. *  Conducted Joint Application Development (JAD) sessions with development and other IT teams to define the requirements and supported developers in the use of Change Management and Change Control tools including Rational Requisite Pro and Clear Quest. *  Used Query Optimization to identify at the best suitable Query Plans for the system. *  Assisted Data Conversion team with Data Mapping and Data Extracting Strategies for data migration. *  Interacted with release management team to sketch out the timelines &amp; drafted estimation document. *  Involved with the QA team to determine and develop test approaches and methods for unit testing, integration and functional testing, load, and usability testing according to application complexity and test requirement. *  Involved in creating an on-line Help Document and tutorials for the system. Environment: Windows XP/2000, Oracle9i, SQL, MS-Project, MS-Office,  MS Visio,  Mercury Test Director, Rational Rose, UML</Description><StartDate><AnyDate>7/1/2007</AnyDate></StartDate><EndDate><Anydate>8/1/2008</Anydate></EndDate></PositionHistory></EmployerOrg></EmploymentHistory><EducationHistory /><LicensesAndCertifications><LicenseOrCertification /><Name /></LicensesAndCertifications><Qualifications><Competency Name="AP"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Dental"><LastUsedDate>3/1/2014</LastUsedDate></Competency><Competency Name=" HIPAA"><LastUsedDate>3/1/2014</LastUsedDate></Competency><Competency Name=" Pegasystems"><LastUsedDate>3/1/2014</LastUsedDate></Competency><Competency Name=" Pega"><LastUsedDate>3/1/2014</LastUsedDate></Competency><Competency Name=" RFI"><LastUsedDate>1/1/2013</LastUsedDate></Competency><Competency Name=" RFP"><LastUsedDate>1/1/2013</LastUsedDate></Competency><Competency Name=" UML"><LastUsedDate>1/1/2013</LastUsedDate></Competency><Competency Name=" Data Mapping"><LastUsedDate></LastUsedDate></Competency><Competency Name=" CCD"><LastUsedDate>1/1/2013</LastUsedDate></Competency><Competency Name=" Use Cases"><LastUsedDate></LastUsedDate></Competency><Competency Name=" OOAD"><LastUsedDate>1/1/2013</LastUsedDate></Competency><Competency Name=" Business Process Flow"><LastUsedDate></LastUsedDate></Competency><Competency Name=" PowerPoint"><LastUsedDate>1/1/2013</LastUsedDate></Competency><Competency Name=" Use Case"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Rational Rose"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Process Management"><LastUsedDate></LastUsedDate></Competency><Competency Name=" CRM"><LastUsedDate>1/1/2013</LastUsedDate></Competency><Competency Name=" UAT"><LastUsedDate>12/1/2011</LastUsedDate></Competency><Competency Name=" Oracle"><LastUsedDate>1/1/2013</LastUsedDate></Competency><Competency Name=" SQL"><LastUsedDate>1/1/2013</LastUsedDate></Competency><Competency Name=" Share Point"><LastUsedDate></LastUsedDate></Competency><Competency Name=" MS Office"><LastUsedDate></LastUsedDate></Competency><Competency Name=" ICD 9"><LastUsedDate></LastUsedDate></Competency><Competency Name=" MS Project"><LastUsedDate></LastUsedDate></Competency><Competency Name=" PMO"><LastUsedDate>12/1/2011</LastUsedDate></Competency><Competency Name=" Underwriting"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Actuarial"><LastUsedDate>12/1/2011</LastUsedDate></Competency><Competency Name=" Medicaid"><LastUsedDate>12/1/2011</LastUsedDate></Competency><Competency Name=" Claims"><LastUsedDate>3/1/2014</LastUsedDate></Competency><Competency Name=" Visio"><LastUsedDate>1/1/2013</LastUsedDate></Competency><Competency Name=" SDLC"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Business Requirements"><LastUsedDate></LastUsedDate></Competency><Competency Name=" FACETS"><LastUsedDate>8/1/2010</LastUsedDate></Competency><Competency Name=" Medicare"><LastUsedDate>8/1/2010</LastUsedDate></Competency><Competency Name=" EOBs"><LastUsedDate>8/1/2010</LastUsedDate></Competency><Competency Name=" Word"><LastUsedDate>12/1/2011</LastUsedDate></Competency><Competency Name=" Requisite Pro"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Clear Case"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Java"><LastUsedDate>8/1/2010</LastUsedDate></Competency><Competency Name=" HMS"><LastUsedDate>9/1/2009</LastUsedDate></Competency><Competency Name=" Test Cases"><LastUsedDate></LastUsedDate></Competency><Competency Name=" RUP"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Test Plans"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Test Scripts"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Rational"><LastUsedDate>1/1/2013</LastUsedDate></Competency><Competency Name=" JAVA"><LastUsedDate>9/1/2009</LastUsedDate></Competency><Competency Name=" JAD"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Change Management"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Windows XP"><LastUsedDate></LastUsedDate></Competency><Competency Name=" LINUX"><LastUsedDate></LastUsedDate></Competency><Competency Name=" RDBMS"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Databases"><LastUsedDate></LastUsedDate></Competency></Qualifications><languages><language><languagesCode /></language></languages></StructuredXMLResume><ResumeAdditionalItems><ResumeAdditionalItem type="Personal"><FatherName /><DateOfBirth /><Age /><Gender>Unspecified</Gender><Nationality /><MaritalStatus>Unspecified</MaritalStatus><PassportNo /><VisaStatus /><Currentlocation>Austin</Currentlocation></ResumeAdditionalItem><ResumeAdditionalItem type="Resume Parsing Information"><ResumeParsingStartDate>11/12/2014 12:00:00 AM</ResumeParsingStartDate><ResumeParsingExpiryDate>11/27/2014 12:00:00 AM</ResumeParsingExpiryDate><NumberOfParsedResume>17</NumberOfParsedResume><MaxLimitOfParsedResume>100</MaxLimitOfParsedResume></ResumeAdditionalItem></ResumeAdditionalItems><ResumeContext /><ResumeTextFormat> <![CDATA[SHIRLEY NATHI
+818-993-2814
+sharonkevn@gmail.com
+PROFILE SUMMARY:
+Over 7 years of professional experience as Business Analyst with expertise in Software Development
+Life Cycle (SDLC)  and Business Process Reengineering in Health Care Sector with prime focus on
+claims adjudication, provider, enrollment, eligibility and prior authorization for Medicaid and Medicare
+programs.
+ Experience in developing detailed functional specs through  JADsessions, interviews, on site
+meetings with business users &amp; development team.
+ Documentation:  BRD (Business Requirement Document),  FRD (Functional Requirement
+Document) and Non-functional Requirement Document and Crosswalk.
+ Extensive experience with PMO techniques such as Rational Unified Process (RUP), Agile and
+Waterfall life cycle
+ Experience in interviewing Business users&amp;SME providing recommendations to resolve issues
+for various business/technical groups &amp; defining strategic solutions to business problems in a
+multiple project environment.
+ Test Case writing (manual/automated test cases) and Conducting Tests (Integration testing,
+Regression testing), Black Box/White Box testing, UAT (User Acceptance Testing).
+ Analysis &amp; Design (Use Case, Sequence and Activity diagrams).
+ Writing Manuals (System guides, training material for business users and Deployment guides).
+ User training on the changes being released and conducting post production activities like getting
+feedback from users. In case of any issues - doing Root Cause Analysis, prioritizing tasks with
+business users
+ Knowledge of MDM, BPM, SaaS and SOA with good understanding of web services XML,
+SOAP and WSDL.
+ Good knowledge and extensively used RDBMS, Oracle, SQL, Data analysis and reporting.
+ Working experience in a cross-functional team environment/different geographical locations
+teams.
+ Developed   Rules   based   process   to   support   business   needs,   expansion   and   performance
+improvements using PEGA PRPC.
+ Strong skill indata analysis, data mapping and dimensional modeling, experience in decision
+support systems (data marts) using Star Schema.
+ Strong experience with  Medicare, Medicaid, Medigap&amp; commercial  insurances in  HIPAA
+ANSI X12 4010, 5010 formats including 270,271, 276, 277, 835, 837, 997,NPI, ICD 9,ICD 10,
+NDC, DRG, NCPDP codes &amp; NSF formats for interfaces &amp; images to clearinghouses/ trading
+partners applications.
+ Experience with health care Systems:  FACETS,IDX, Paradigm, Xcelys, QNXT, Cognos
+Reporting and Medicare Part A, B, C, D, Medicaid systems.
+ Heavy experience in translating business requirements and user expectations into detailed
+specifications employing Unified Modeling Language (UML) diagrams using MS VISIO and
+RationalROSE.
+ Reliable, proactive, responsible, hard -working and good team player.
+TECHNICAL SKILLS
+Product Methodology: SDLC, RUP, Agile, UML, Spiral, model and Prototyping
+
+
+Project Management: Microsoft Project, Microsoft Office
+Business Modeling Tool: MS Visio, Rational Rose, Quality Center
+Version Control Systems:Rational Clear case  
+Changes Management Tools: Requisite Pro, Clear Quest, Test Director 
+Operating Systems: Windows Family, Familiar with UNIX and LINUX
+RDBMS and Databases:SQL Server, PL SQL, Oracle SQL, Toad, Sybase MS Access
+Reporting tools: Business Objects, CognosReporting
+PROFESSIONAL EXPERIENCE
+Client: Department of Veterans Affairs, Austin, TX Feb 2013-March 2014
+Role: Pega Business Architect
+The Non VA Medical Care provides essential health care services to Veterans when these services are not
+available   at   VA facilities   or   when   services   cannot   be   economically  provided  due   to  geographical
+inaccessibility or emergency. During a period of exponential growth, claims processing has remained
+primarily manual in nature.  The legacy systems do not provide the needed system enhancements that could
+have automated monitoring of funds, review of claims for fraud, waste, and abuse, and the review of
+supporting clinical information justifying Non VA care. The new system will centralize the management and
+servicing   of   the   three   main   activities   required   to   pay   a   claim:   Eligibility   and   Enrollment,
+Referral/Authorization and Claim Processing. The Health Care Claims Processing (HCP) application in
+PRPC leverages industry-standard frameworks such as Health Care Industry Foundation and Claims Repair.
+Responsibilities:
+ Work with business stakeholders from Chief Business Office (CBO) and the VA Financial Services 
+Center (FSC) to clarify business requirements and scope for HCPS and create a high level 
+Application Profile (AP) for initial review and sizing purposes.
+ Developed excellent understanding of industry standard health care concepts such as X12 transactions
+and layouts for different claim form types such as Institutional, Professional, Dental (837, 835, 
+270/271, 276/277), HIPAA edits, Business edits, Eligibility and Enrollment, Referrals and 
+Authorization, Member and Provider validations, clinical code sets, Configuration modules such as 
+Benefits Administration, Payment Methodologies, claims administration. 
+ Coordinated the effort on classifying requirements into major components such as: Claims Intake, 
+Pre-Adjudication, Adjudication, Post-Adjudication/Payments.
+ Responsible for leading the effort on translating Business Use Cases (BUCs) into Pega Atomic Use 
+Cases (AUCs) in preparation for DCO sessions in elaboration phase.
+ Conducted client enablement sessions in conjunction with Pegasystems consultants to walk through 
+PRPC capabilities.
+ Conducted Gap Analysis to compare business requirements with available PRPC health care 
+frameworks (Health Care Industry Foundation, Claims Repair, and Claims Workstation) to leverage 
+out of the box capability as much as possible and identify components that need to be extended.
+ Supplement requirements captured in Pega DCO suite with detailed business process flows and 
+activity flow diagrams to facilitate easy understanding of intended functionality for the development 
+team.
+
+
+ Created click thru prototypes using draft flows and UI rules in PRPC in preparation for the 
+elaboration phase.
+ Facilitated Prep and Review DCO sessions leveraging the AUCs and prototypes to facilitate effective 
+feedback solicitation and to concur upon requirements. 
+ Identified applicable work types, interfaces, correspondence, skill matrix and reporting requirements.
+ Conduct biweekly play back sessions to demo functionality built to date in construction phase to 
+ensure that application development is in line with business requirements.
+ Responsible for conducting end of sprint and increment walk thru sessions with project leadership 
+team and stakeholders.
+Environment:Pega   PRPC   v6.2   (including   DCO   tools   such   as   Application   Profiler/Application
+Accelerator), PRPC Frameworks – Health Care Industry Foundation and Claims Repair, HP Quality
+Center, MS Project 2007, MS Visio 2010, Rational ClearQuest, Rational Requisite Pro
+Client: Kaiser Permanente, Washington DC                                                              Dec 2011-Jan 2013
+Role: Pega Business  Analyst
+Kaiser Permanente is a leading consumer health services and health insurance provider in North America.
+They are committed to assisting physicians and hospitals to their members to improve the extraordinary
+quality of healthcare. The company serves different individual, corporate and municipal customers hence
+it needed ease in day-to-day reporting. The company wanted us to develop a data warehouse which would
+facilitate ease in reporting.
+Responsibilities:                     
+ Modeled Business requirements into workflows to depict various scenarios of system to request RFI
+and RFP responses from major vendors.
+ Gathered legacy system requirements by shadowing Customer Service Representatives (CSRs),
+Customer Relationship Representatives (CRRs), preparing questionnaires, to identify limitations in the
+current system and GAPS in the proposed system.
+ Created an enterprise workflow application based on CRUD rules for Customer Data that would allow
+for future integration of data infrastructure across various business areas into a single UI.
+ Prepared logical data model in the form of Business Context diagram to include various entities and
+attributes in order to facilitate the design of Data model in the form of ER Diagrams. Studied current
+information structures and data models of the current databases to better understand the design of
+target data source. 
+ Performed custom data conversions and developed custom software for risk management applications
+including general claims, vehicle accident and administrative tracking. Performed all data field
+mappings.
+ Planning and conducting DCO Elaboration sessions with target SME’s.
+ Used Rational Rose to model the process using UML to create behavioral and structural diagrams.
+ Used Rational Clear Quest to track required changes and Rational Clear Case to maintain different
+versions of the project documentation
+ Involved in integration of various Customer Data Sources and provided Data Mapping from various
+sources like CCD, LPCD, DCD into the target centralized customer data source. Designed and
+developed Use Cases, Activity Diagrams, Sequence Diagrams, OOAD using UML and Business Process
+Modeling.
+
+
+ Intricately involved in Business Process Flow development, Business Process Modeling, and ad hoc
+Analysis. Performed detailed comparative analysis of response to RFPs of vendors and Graphically
+Represented the recommended solutions in PowerPoint to Senior Management.
+ Prepared Business Context Diagram, Use Case diagrams and corresponding Activity Diagrams using
+Rational Rose to depict the workflows to be incorporated into the development of Pega Business
+Process Management (BPM) tool.
+ Actively involved in validating the requirements and applying the agile framework throughout the
+SDLC. 
+ Conducted Requirements walk- through with Business Team to ensure that all their needs are met and
+gathered sign off on requirements for SOX compliance after the requirements were base lined.
+ Prepared   and   maintain   Business   Rules   Spreadsheets   (BRS)   identifying   Rules,   Triggers   and
+corresponding data fields from Legacy to target CRM application.
+ Followed a methodical Change Management Process and documented any Change Requests into Clear
+Case for any changes in the requirements after the requirements were base lined.
+ Perform unit test, system test and integration test for implementation. Worked very closely with the
+Test team to Test all iterations during the Testing Phase and documented all the defects.
+ Developing test plan for integration test. Prepared Test Cases based on base-lined Requirements
+Document,   prepared   Requirements   Traceability   Matrix   and   provided   Performance   Testing
+Requirements. 
+ Developed detailed Testing Strategy for the entire  UNICA  campaigns and developed various test
+cases. Facilitated the User Acceptance Testing (UAT) with Pega System Administrators and Business
+Users, documented any issues or defects and eventually got sign off from the right parties.
+ Prepared training materials in the form of User manuals by preparing step-by-step guide to all screen
+flows in CMS.
+ Assisted in development of User Interfaces and prepared screenshots to get business’s buy-in on the
+requirements.
+Environment:  Oracle, Toad, PL SQL, SQL server, Share Point, Quality Center, MS Office, MS Visio,
+PERADIAM, XCELYS, SQL,  Cognos Reporting.
+Client: Gentiva Health Services, Virginia Beach, VAAug 2010-Dec 2011
+Role: Business Analyst
+The project was to develop a Provider Desktop module for the EHR (Electronic Health Record System)
+with the objective to improve productivity and patient care. It serves as a central dashboard for providers
+to access crucial information such as Patient appointments, Clinical results, Messages, Electronic lab
+orders and Patient encounter notes anytime anywhere. The project was implemented securing patient
+privacy and health information conforming to HIPAA standards and guidelines.
+Responsibilities:
+ Interacted closely with the Business users along with the administration and management to 
+gather business requirements and analyze the functionalities to be incorporated into the system
+ Worked on HIPAA 5010 transaction requirements and analyzed and tested HIPAA ANSI X12 
+formats including 270/271, 276/277, 834, 835, 837, 997, and NSF formats for interfaces and 
+images to third part vendor applications
+ Analyzed processes in medical coding and transition from ICD 9 – ICD 10. 
+ Worked with BA and UAT tasks.
+ Attended demo sessions to understand existing system functionalities
+
+
+ Arranged interviews with all the stakeholders to review and understand the gathered business 
+requirements
+ Coordinated with system architects and developers to convert business requirements into system 
+requirements
+ Conducted meetings to document Change Requests for new requirements
+ Analyzed business requirements and segregated them into Use Cases. 
+ Created Use case diagrams and documented Use case specifications
+ Maintained various versions of the documents generated during the project using Rational Clear 
+Case
+ Was responsible for creating and updating project schedule and managing resources and timeline 
+using MS Project
+ Prepared the project status reports and represented the BA team in the PMO meetings
+ Participated in UAT along with the development &amp; testing teams
+ Gathered requirements from collection, claims, Billing, and insurance appeal departments
+ Working with the business and various technology departments, and acting as a liaison between 
+the underwriters and application developers to provide production support for the National 
+Pricing Solution web based application
+ Interacting with National Pricing Staff (Underwriting, Actuarial &amp; Sales/AM) on daily basis with 
+regards to how the NPS application functions, troubleshooting incidents/issues for Users and 
+completing defect and enhancement requests on daily basis
+ Performing system administrator duties i.e. adding/removing users to system
+Participating in UAT and working
+ This project also provides the Base component of the MMIS, which receives and processes prior
+authorizations, referrals, claims, and remittance advices for medical and dental services. 
+ The project also manages provider enrollment for all Medicaid providers along with the Medicaid
+Member. This includes the files and data conversion and migration of all application functionality
+from the legacy MMIS system to the client-server application (Health PAS system).
+ Maintaining and modifying training documents
+ Extracting data from databases and preparing reports for auditing/SOX compliance purposes
+ Traveling throughout regional offices to provide support and training to end users
+as an SME (Subject Matter Expert) in Claims processing &amp; management, mentored &amp; trained 
+entry levels
+Environment: Microsoft Word, Project, Excel, PowerPoint, Visio, Oracle 10g/11g
+Client: Health Net Inc., Woodland Hills, CA             Sep 2009-Aug2010
+Role : Business Analyst
+Health Net Inc. is a publicly traded managed care organization that delivers managed health care services
+through health plans and Government sponsored managed care plans. The project is about full life cycle
+implementations (SDLC) from project initiation to final deployment.
+Project1: This project mostly involved gathering Business Requirements for the Claims Business Area
+and updating EDI Transactions like EDI 837, 835, 277 and 276 with the system claim data. 
+Project 2: Customization of FACETS reports related to Medicare and Medicaid.
+
+
+Responsibilities:
+• Worked for the Enterprise Program Management Office (EPMO)
+• Department Gathered Business Requirements from the Subject Matter Experts (SMEs).
+• Evaluated business process requirements to ensure proper system configuration (i.e. identifying key 
+decisions, process changes, pain points, interface issues, training considerations, etc.)
+• Created Business Requirement Documents and Functional Requirement Documents as a result of 
+meetings with the Business Areas. Obtained business sign offs on the documents after reviewing the 
+final documents with them.
+• Worked with CMS1500 for claims from physicians.
+•  Created Functional specifications for the 834 enrolment files with their changed benefits in the 
+Medicare program.
+• Worked extensively with ASC X12N 837I and ASC X12N 837P
+• Captured data requirements for EOBs providing information about claim payment information and 
+patient responsibility amounts
+• Maintained the Traceability Matrix table to uniquely trace the identified business requirements to 
+general design to testing as proof that requirements requested have been developed into a solution 
+and that it has been tested and tracked
+• Developed Test Scripts using Test Director and coordinated with developers to quickly resolve the 
+defects associated with them.
+• Analyzed and evaluated User Interface Designs, Technical Design Documents and Quality Assurance
+Test Conditions the performance of the application from various dimensions.
+• Documented the UAT Plan for the project and worked with the UAT Team to ensure every 
+acceptance criteria for the requirements has been included in the UAT task plan
+• Worked with FACETS Team for HIPAA Claims Validation and Verification Process (Pre-
+Adjudication)
+Environment:  MS Visio, Word, Excel, PowerPoint, Rational Rose, Requisite Pro, Clear Case, Clear
+Quest, SQL, Oracle, Java, Facets 4.48
+Client: HMSInc, Nashville, TNAug 2008 -Sep 2009
+Role: Business Information Analyst             
+ Health Insurance Claims processing, is the strategic source for innovative revenue enhancement and
+recovery services to public healthcare programs and payers. HMS has consistently applied information
+management techniques to reduce client's program and administrative costs by enhancing their recoveries
+and providing valuable information services. The project was about Claims Processing Module and
+automated the scripts. 
+Responsibilities:
+• Analyzed user requirement documents (URD), software requirement specification document (SRS) 
+and prepared System test plan by dividing the application into manageable units.
+• Involved in writing Detailed Test Plan for the Application under Test (AUT).
+• Enhanced the Test Cases by analyzing the Specification Documents.
+• Developed, implemented and executed test methodologies and plans to ensure software product 
+quality as per the RATIONAL UNIFIED PROCESS (RUP) methodology. Test some of the 
+Extensions in Facets application manually.
+• Collected and processed quantitative and qualitative data analysis.
+
+
+• Prepared spreadsheets with the help of MICROSOFT OFFICE EXCEL to show like specific 
+geographic regions etc.Conducted several demos driven by MICROSOFT POWERPOINT 
+Presentations.
+• Reported status to the project manager weekly.
+• Involved with the business users, developers to make sure the reports were developed right to the 
+specification.
+• Documented existing applications with the creation of UML sequence diagram and class diagram to 
+document.
+• Involved in creating use case diagrams for the purpose of the team to understand the workflow of the 
+system.
+• Analyzed and formatted data to a consistent format using MEDSTAT TOOL.
+• Involved in the User Acceptance Testing to make sure the defects raised by the business users were 
+resolved up to the Management Expectation by the developer group. Prepared documentation using 
+MICROSOFT WORD.
+• Created reports in MS WORD for account processing of each client group.
+• Worked with the quality assurance group throughout the company identifying the major changes with
+the greatest opportunity for cost reduction. Involved in generating Test Plans, Test Scripts and Test 
+Cases manually in EXCEL.
+Environment:   UML,  Rational  Requisite Pro,  Rational Clear  quest, Rational Clear case, JAVA,
+Windows , Unix.
+Client: Premier Inc, Philadelphia, PA                                          July 2007 – Aug 2008
+ Role: Business Analyst
+ Premier provides its clients with clinically-based solutions for addressing over use, misuse and under use 
+of prescription drugs, and the consequences of such inappropriate utilization on healthcare costs. The 
+system involved is a complete solution for the clinics and hospitals as it can manage customer data like 
+case history, doctors' visiting hours, and other staff time tables including records of the treatment and 
+procedures done on a patient. Through clinical management, Premier engages members, their physicians 
+and pharmacists, in making better, more cost-effective use of prescription drugs.  The project was to 
+enroll new clients in this clinical management system base and allow them to customize it as per their 
+requirements. 
+Responsibilities:
+• Worked closely with Premier's Clients including Doctors, Assistants, Pharmacists, Technicians and 
+Process Analysts to understand the Business Process, gather Business Requirements, identified 
+process specifications and developed the Business Requirement Document.
+• Prepared Technical Design Documents &amp; Functional Requirement Specifications in accordance with 
+BRD.
+• Reverse Engineered and analyzed the existing system and developed GAP analysis document in 
+accordance with the Business rules to implement the system in most optimized way. 
+• Defined program and project goals, objectives, products, services, constraints, assumptions, risks and
+facilitated processes by working with the project team, sponsor, and stakeholders to baseline the 
+scope of the work.
+• Implemented the full project lifecycle phases including requirements gatherings, development and 
+quality assurance.
+
+
+• Designed and developed UML Use Case Diagrams, Class Diagrams, Activity Diagrams, Sequence 
+Diagrams, Data Flow Diagrams and Collaboration diagrams using MS Visio. 
+• Conducted Joint Application Development (JAD) sessions with development and other IT teams to 
+define the requirements and supported developers in the use of Change Management and Change 
+Control tools including Rational Requisite Pro and Clear Quest. 
+• Used Query Optimization to identify at the best suitable Query Plans for the system.  
+• Assisted Data Conversion team with Data Mapping and Data Extracting Strategies for data 
+migration.
+• Interacted with release management team to sketch out the timelines &amp; drafted estimation document.
+• Involved with the QA team to determine and develop test approaches and methods for unit testing, 
+integration and functional testing, load, and usability testing according to application complexity and 
+test requirement.
+• Involved in creating an on-line Help Document and tutorials for the system. 
+Environment: Windows XP/2000, Oracle9i, SQL, MS-Project, MS-Office,  MS Visio,  Mercury Test
+Director, Rational Rose, UML]]> </ResumeTextFormat></Resume>

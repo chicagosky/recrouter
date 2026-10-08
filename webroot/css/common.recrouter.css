@@ -1,0 +1,601 @@
+/*
+ * ---------------------------------------------
+ * SECTION: Font Family used through the website
+ * ---------------------------------------------
+ * Fonts - OpenSans
+ */
+@font-face {
+	font-family: "OpenSans";
+	src: url( '../fonts/OpenSans-Regular.eot?#iefix' ) format( 'embedded-opentype' ),
+	url( '../fonts/OpenSans-Regular.woff' ) format( 'woff' ),
+	url( '../fonts/OpenSans-Regular.ttf' ) format( 'truetype' ),
+	url( '../fonts/OpenSans-Regular.svg#copperplate_gothic_bolRg' ) format( 'svg' );
+}
+
+@font-face {
+	font-family: "OpenSans-Bold";
+	src: url( '../fonts/OpenSans-Bold.eot?#iefix' ) format( 'embedded-opentype' ),
+	url( '../fonts/OpenSans-Bold.woff' ) format( 'woff' ),
+	url( '../fonts/OpenSans-Bold.ttf' ) format( 'truetype' ),
+	url( '../fonts/OpenSans-Bold.svg#copperplate_gothic_bolRg' ) format( 'svg' );
+}
+
+@font-face {
+	font-family: "OpenSans-Light";
+	src: url( '../fonts/OpenSans-Light.eot?#iefix' ) format( 'embedded-opentype' ),
+	url( '../fonts/OpenSans-Light.woff' ) format( 'woff' ),
+	url( '../fonts/OpenSans-Light.ttf' ) format( 'truetype' ),
+	url( '../fonts/OpenSans-Light.svg#copperplate_gothic_bolRg' ) format( 'svg' );
+}
+
+@font-face {
+	font-family: "OpenSans-ExtraBold";
+	src: url( '../fonts/OpenSans-ExtraBold.eot?#iefix' ) format( 'embedded-opentype' ),
+	url( '../fonts/OpenSans-ExtraBold.woff' ) format( 'woff' ),
+	url( '../fonts/OpenSans-ExtraBold.ttf' ) format( 'truetype' ),
+	url( '../fonts/OpenSans-ExtraBold.svg#copperplate_gothic_bolRg' ) format( 'svg' );
+}
+
+/*
+ * -----------------------------
+ * SECTION: Commonly used styles
+ * -----------------------------
+ */
+html,
+body {
+	height: 100%;
+}
+
+body {
+    padding-top: 73px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+	/*font-family: 'Open Sans', sans-serif;*/
+	font-size: 12px;
+	/*font: 13px "OpenSans";*/
+	background: none repeat scroll 0% 0% #F9F9F9;
+}
+
+a.dashed-hyperlink {
+	text-decoration: none;
+	border-bottom: 1px dashed;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+input, select {
+	font-family: "OpenSans-Light";
+}
+
+.select-lg {
+	height: 46px;
+	line-height: 1.33;
+	font-size: 18px;
+}
+
+.bottom-border-dashed {
+	border-bottom: 1px dashed #CDCDCD;
+}
+
+a.save-user,
+a.cancel-add-user,
+.workflow-user .glyphicon-minus-sign {
+	cursor: pointer;
+}
+
+span.contract-model,
+span.tag,
+span.workflow-user {
+	background-color: rgb(104, 163, 213); 
+	display : inline;
+	padding: .2em .6em .3em;
+	font-weight: lighter;
+	font-size: 90%;
+	line-height: 1;
+	color: #ffffff;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: baseline;
+	border-radius: .25em;
+}
+
+span.workflow-user {
+	background-color: #E5E7E3;
+	color: #4D4D4D;
+	padding: 5px 5px;
+}
+
+span.tag {
+	background-color: rgb(129, 189, 130);
+}
+
+a.foot-note {
+	font-size: 9px;
+}
+
+/*
+ * CSS to indicate linked / unlinked status of jobs and candidates
+ */
+span.link a {
+	color: #CDCDCD;
+}
+
+span.link.linked a {
+	color: #428BCA;
+}
+
+.footer-link {
+	padding: 0 15px 0 0;
+	text-decoration: none;
+}
+
+.footer-link:hover {
+	text-decoration: none;
+}
+
+/*
+ *  Wrapper for page content to push down footer 
+ */
+#wrap {
+	min-height: 100%;
+    height: auto !important;
+    margin: 0 auto -60px; /* Negative indent footer by it's height */
+  	padding: 0 0 60px;  /* Pad bottom by footer height */
+}
+
+.footer {
+  position: relative;
+  clear:both;
+} 
+
+#ajax-loader {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: white;
+  opacity: 0.8;
+  z-index: 99;
+  display: none;
+  text-align: center;
+  width: 100%;
+  padding-top: 25px;
+}
+
+img#loading {
+	width: 128px;
+    height: 128px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -28px 0 0 -25px;
+}
+
+/*
+ * ----------------------------------
+ * SECTION: Top level navigation menu
+ * ----------------------------------
+ * Background and bottom border
+ */    
+.recrouter-navbar {
+	background: #fff;
+	border-bottom: 1px solid #cdcdcd;
+}
+
+/*
+ * Fixed width for menu items
+ */ 
+.recrouter-navbar-items {
+	width: 90px;
+}
+
+/*
+ * Different background for current page item
+ */ 
+.active-top-menu  {
+	background: none repeat scroll 0% 0% #F1F1F1; 
+	border-bottom: 4px solid #3B4246;
+}
+
+/*
+ * Font and style for site title
+ */
+.recrouter-site-title {
+	margin-right: 58px;
+	text-transform: uppercase;
+	font: 21px "OpenSans-ExtraBold";
+	color: #3B4346;
+}
+
+.recrouter-site-title a {
+	text-decoration: none;
+	color: #3B4346;
+}
+
+/*
+ * -----------------------
+ * SECTION: Website Footer
+ * -----------------------
+ * Basic margin and spacing
+ */
+.footer {
+	margin-top: 23px;
+    background: #fff;
+	border-top: 1px solid #cdcdcd;
+	padding-bottom: 10px;
+}
+
+/*
+ * Spacing & styling for footer-links
+ */
+.recrouter-footer-links {
+	float: right;
+	margin: 16px 121px 0 0;
+}
+
+.recrouter-footer-links a {
+	margin-right: 10px;
+	display: inline-block;
+	width: 36px;
+	height: 36px;
+	-moz-transition: opacity .5s ease-in-out;
+	-webkit-transition: opacity .5s ease-in-out;
+	-o-transition: opacity .5s ease-in-out;
+	-ms-transition: opacity .5s ease-in-out;
+	transition: opacity .5s ease-in-out;
+}
+
+.recrouter-footer-links a:hover {
+	opacity: .5;
+}
+
+.recrouter-footer-links a.facebook {
+	background: url( '/cake/img/sprites.png' ) -406px -57px no-repeat;
+}
+
+.recrouter-footer-links a.twitter {
+	background: url( '/cake/img/sprites.png' ) -455px -57px no-repeat;
+}
+
+.recrouter-footer-links a.youtube {
+	background: url( '/cake/img/sprites.png' ) -507px -57px no-repeat;
+}
+
+/*
+ * ------------------------------
+ * SECTION: Common spacing styles
+ * ------------------------------
+ */
+
+.row-top-buffer-xs {
+	padding-top:2px;
+}
+
+.row-top-buffer-sm {
+	padding-top:5px;
+}
+
+.row-top-buffer-md {
+	padding-top:8px;
+}
+
+.row-top-buffer-lg {
+	padding-top:15px;
+}
+
+.row-top-buffer-xl {
+	padding-top: 21px;
+}
+
+.row-top-buffer-xxl {
+	padding-top: 42px;
+}
+
+.row-bottom-buffer-xs {
+	padding-bottom: 2px;
+}
+
+.row-bottom-buffer-sm {
+	padding-bottom: 5px;
+}
+
+.row-bottom-buffer-md {
+	padding-bottom: 8px;
+}
+
+.row-bottom-buffer-lg {
+	padding-bottom: 15px;
+}
+
+.row-bottom-buffer-xl {
+	padding-bottom: 21px;
+}
+
+.row-bottom-buffer-xxl {
+	padding-bottom: 42px;
+}
+
+/*
+ * ---------------------
+ * SECTION: Modal Styles
+ * ---------------------
+ * Define a maximum height and scroll nature for Modal dialog content
+ */
+.recrouter-modal-body {
+    max-height: 420px;
+    overflow-y: auto;
+}
+
+.blue-modal-header {
+	background-color: #357EBD;
+	color: #FFFFFF;
+}
+
+.green-modal-header {
+	background-color: #5CB85C;
+	color: #FFFFFF;
+}
+
+.danger-modal-header {
+	background-color: #D9534F;
+	color: #FFFFFF;
+}
+
+/*
+ * ------------------
+ * SECTION: Titles
+ * ------------------
+ * Inline style for page and panel title 
+ */
+.inline-page-title {
+	display: inline-block;
+}
+
+.inline-title-button {
+	margin-left: 100px;
+	margin-bottom: 15px;
+	font-weight: 600;
+}
+
+/*
+ * ------------------
+ * SECTION: Panels
+ * ------------------
+ */
+.panel {
+	color: #566266;
+	box-sizing: border-box;
+	border: 1px solid #a1a1a1;
+	border-radius: 5px;
+	box-shadow: 0px 0px 9px 0px #d6d6d6;
+}
+
+.inline-panel-title {
+	display: inline-block;
+	text-transform: capitalize;
+	font-variant: small-caps;
+}
+
+.panel-body {
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+.bold-panel-title {
+	font-weight: bold;
+}
+
+.resume-panel-body {
+	height: 350px;
+}
+
+/*
+ * side-text for instructions and general commentary
+ * used for example in Group view and bulk upload view
+ */
+.side-text h6 {
+	font-weight: 600;
+	font-size: 14px;
+	margin-bottom: 20px;
+	margin-left: 10px;
+}
+
+.side-text p {
+	margin-left: 10px;
+	font-size: 13px;
+	line-height: 21px;
+}
+
+
+/*
+ * -----------------------------
+ * SECTION: Button styles
+ * -----------------------------
+ */
+
+/* White Flat button */
+.btn-flat.white {
+	color: #626263;
+	background: #fff;
+	border: 1px solid #d0dde9;
+}
+
+/* Green Flat button */
+.btn-flat.success {
+	background: #96bf48;
+	border: 1px solid #7ea13d;
+	text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.3);
+	font-weight: 600;
+	box-shadow: 0px 0px 9px 0px #d6d6d6;
+}
+
+/*
+ * Flat Button Style
+ * Generall CSS for tree nodes - default color of blue
+ */
+.btn-flat {
+	display: inline-block;
+	margin: 0;
+	line-height: 15px;
+	vertical-align: middle;
+	font-size: 12px;
+	text-shadow: none;
+	box-shadow: none;
+	background-image: none;
+	border: 0 none;
+	color: #fff;
+	font-weight: 500;
+	border-radius: 4px;
+	background: #4387bf;
+	border: 1px solid #3883c0;
+	cursor: pointer;
+	padding: 7px 14px;
+	-webkit-transition: all .1s linear;
+	-moz-transition: all .1s linear;
+	transition: all .1s linear;
+}
+
+a.btn-flat {
+	margin-bottom: 15px;
+	text-decoration: none;
+}
+
+a.btn-flat.success:hover {
+	color: #fff;
+	font-weight: 600;
+	text-decoration: none;
+}
+
+.btn-group > .btn.glow.dropdown-toggle {
+	padding: 6px 9px;
+}
+
+.btn-group > .btn.glow {
+	font-size: 12px;
+	float: left;
+	font-weight: 500;
+	padding: 6px 14px;
+	color: #313d4c;
+	line-height: 14px;
+	border: 1px solid #d0dde9;
+}
+
+.btn-group button.glow {
+	float: left;
+	font-size: 11px;
+	font-family: "Open sans", Helvetica, Arial;
+	color: #313d4c;
+	font-weight: 700;
+	padding: 5px 10px;
+	line-height: 14px;
+	background: #fefefe;
+	background: -moz-linear-gradient(top, #fefefe 0%, #f7f7f7 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #fefefe), color-stop(100%, #f7f7f7));
+	background: -webkit-linear-gradient(top, #fefefe 0%, #f7f7f7 100%);
+	background: -o-linear-gradient(top, #fefefe 0%, #f7f7f7 100%);
+	background: -ms-linear-gradient(top, #fefefe 0%, #f7f7f7 100%);
+	background: linear-gradient(to bottom, #fefefe 0%, #f7f7f7 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fefefe', endColorstr='#f7f7f7',GradientType=0 );
+	border: 1px solid #d0dde9;
+	transition: color .1s linear;
+	-moz-transition: color .1s linear;
+	-webkit-transition: color .1s linear;
+	-o-transition: color .1s linear;
+}
+
+.btn-group .dropdown-menu > li > a {
+	font-size: 12px;
+}
+
+/*
+ * -----------------------------
+ * SECTION: Slider Button
+ * -----------------------------
+ */
+.slider-frame {
+	position: relative;
+	display: inline-block;
+	margin: 0 auto;
+	width: 67px;
+	background-color: #d5dde4;
+	height: 23px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	box-shadow: inset 0px 1px 5px 0px rgba(0, 0, 0, 0.3);
+}
+
+.slider-frame.primary {
+	background-color: rgba(91, 158, 214, 0.9);
+}
+
+.slider-button {
+	display: block;
+	width: 37px;
+	height: 23px;
+	line-height: 23px;
+	background: #fff;
+	border: 1px solid #d0dde9;
+	-moz-border-radius: 9px;
+	border-radius: 9px;
+	-webkit-transition: all 0.25s ease-in-out;
+	-moz-transition: all 0.25s ease-in-out;
+	transition: all 0.25s ease-in-out;
+	color: #000;
+	font-family: sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: center;
+	cursor: pointer;
+}
+
+.slider-button.on {
+	margin-left: 29px;
+}
+
+/*
+ * -----------------------------
+ * SECTION: Bootstrap overrides
+ * -----------------------------
+ */
+.popover-title {
+	color: #313D4C;
+}
+
+/* Status */
+
+.label-override {
+	font-size: 90%;
+}
+
+.form-group-override {
+	margin-bottom: 0px;
+	padding: 15px 0 15px 0;
+	border-bottom: 1px dashed #CDCDCD;
+}
+
+/* Scrollable dropdown */
+.recrouter-scrollable-menu {
+    height: auto;
+    max-height: 200px;
+    overflow-x: hidden;
+}
+
+/* Disabled dropdown */
+
+a.disabled-link,
+a.disabled-link:visited ,
+a.disabled-link:active,
+a.disabled-link:hover {
+    background-color:#d9d9d9 !important;
+    color:#aaa !important;
+}
+
+/* commonly used generic CSS */
+.recrouter-display-hidden {
+	display: none;
+}
+
+/* pagination block */
+.recrouter-pagination {
+	margin: 10px 0 10px 0;
+}

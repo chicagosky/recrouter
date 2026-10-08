@@ -1,0 +1,85 @@
+/** Easy Tree style */
+.easy-tree {
+    min-height: 20px;
+    margin-bottom: 20px;
+    background-color: #FFFFFF;
+    color: #4D4D4D;
+    border: none;
+    border-top: none;
+    padding-bottom: 15px;
+}
+
+.easy-tree > ul {
+   padding-left: 0px;
+}
+
+.easy-tree li {
+    list-style-type: none;
+    margin: 0;
+   padding: 30px 10px 0 50px;
+    position: relative
+}
+
+.easy-tree li::before, .easy-tree li::after {
+    content: '';
+    left: -30px;
+    position: absolute;
+    right: auto
+}
+
+.easy-tree li::before {
+    border-left: 1px solid #888e97;
+    bottom: 50px;
+    height: 100%;
+    top: 0;
+    width: 1px
+}
+
+.easy-tree li::after {
+    border-top: 1px solid #888e97;
+    height: 20px;
+    top: 45px;
+    width: 80px;   
+}
+
+.easy-tree > ul > li::before, .easy-tree > ul > li::after {
+    border: 0
+}
+
+.easy-tree li:last-child::before {
+   height: 45px;
+}
+
+.easy-tree li > span {
+	height: 36px;
+	padding: 8px 16px 8px 4px;
+	line-height: 1.33;
+    border: 1px solid #CDCDCD;
+    border-radius: 6px;
+    display: inline-block;
+    font-size: 14px;
+    text-decoration: none
+}
+
+.easy-tree li.parent_li > span {
+    cursor: pointer
+}
+
+.easy-tree li.parent_li > span:hover, .easy-tree li.parent_li > span:hover + ul li span {
+    background: #CDCDCD;
+    color: #4D4D4D;
+}
+
+.easy-tree li.parent_li > span:hover + ul li.li_selected span {
+    background: #CDCDCD;
+    color: #4D4D4D;
+}
+
+.easy-tree li > span > a {
+    color: #4D4D4D;
+    text-decoration: none;
+}
+
+.easy-tree li > span > span.glyphicon-folder-close, .easy-tree li > span > span.glyphicon-folder-open {
+    margin-right: 5px;
+}

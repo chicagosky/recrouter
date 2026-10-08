@@ -1,0 +1,165 @@
+/*
+ * SECTION: Search bar
+ * -------------------
+ * Negative top margin to prevent gap between search bar and
+ * top level navigation menu
+ */
+.recrouter-search {
+	margin-top: -21px;
+	margin-bottom: 0px;
+}
+
+.search-btn {
+	padding-top: 23px;
+}
+
+/*
+ * Color, style & height
+ */
+.search-criterias {
+	background-color: #3B4346;
+	height: 100px;
+}
+
+.recrouter-search-label {
+	font: 11px "OpenSans";
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+
+/*
+ * Search filter (contract models, favorites etc)
+ * Height, color and border
+ */
+.search-filters {
+	height: 40px;
+	background-color: #FFFFFF;
+	border-bottom: 1px solid #CDCDCD;
+}
+
+/* Tags Input plugin over-ride */
+
+.bootstrap-tagsinput {
+    width: 100% !important;
+    height: 34px;
+}
+
+span.twitter-typeahead {
+	display:inline !important;
+}
+
+.tt-input {
+	background-color: #FFF !important;
+}
+
+.tag.label {
+	font-size: 90%;
+}
+
+/*
+ * -----------------------
+ * SECTION: Search Results
+ * -----------------------
+ */
+.search-result-item {
+	padding: 10px 0 10px 0;
+	border-bottom: 1px dashed #CDCDCD;
+}
+
+.search-result-item:hover {
+	background: #f1f1f1;
+	border-top: 1px solid #cdcdcd;
+	border-bottom: 1px solid #cdcdcd;
+}
+
+.search-result-item:last-child {
+	border-bottom: none;
+}
+
+.search-result-title {
+	color: #4d4d4d;
+	text-decoration: none;
+}
+
+.search-result-title a {
+	font-weight: bold;
+	font-size: 14px;
+	color: #4d4d4d;
+	text-decoration: none;
+}
+
+.search-result-title a:hover {
+	color: #B34C36;
+	text-decoration: none;
+}
+
+.recrouter-search-result-item.invisible {
+	display: none;
+}
+
+/* Search Result Favorite - Star Icon */
+.star {
+	cursor: pointer;
+	margin: 2px 0 0 5px;
+	font-size: large;
+	text-align: center;
+	color: lightgray;
+}
+
+.star.checked {
+	color: #FFD700;
+}
+
+/*
+ * Responsive layout
+ */
+@media (max-width: 768px) {
+	.search-criteria {
+		padding-top: 5px;
+	}
+	
+	.search-btn {
+		padding-top: 13px;
+	}
+	
+	.search-filter-contract,
+	.search-filter-favorite {
+		width: 100%;
+		padding-top: 7px;
+		text-align: left;
+	}
+	
+	.search-filter-favorite {
+		padding-top:20px;
+	}
+	
+	.search-filters {
+		height: 80px;
+	}
+	
+	.search-criterias {
+		height: 250px;
+	}
+	
+	.search-count {
+		padding-top: 5px;
+	}
+	
+	.search-result-item .link-indicator,
+	.search-result-item .department-name {
+		padding-top: 0px;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+	.search-filter-favorite {
+		text-align: right;
+	}
+}
+
+@media (min-width: 979px) {
+	.search-result-item .link-indicator,
+	.search-result-item .department-name {
+		padding-top: 8px;
+	}
+}

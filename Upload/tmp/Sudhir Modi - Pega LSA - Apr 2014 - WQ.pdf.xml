@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Resume><ResumeId ResumeParserProductName="RecruitPlus Resume Parser"><ResumeParserOrgName>ITCONS e-Solutions Private Limited</ResumeParserOrgName></ResumeId><StructuredXMLResume><ContactInfo><PersonName><FullName>Sudhir Modi</FullName><GivenName>Sudhir</GivenName><MiddleName /><FamilyName>Modi</FamilyName></PersonName><ContactMethod><Telephone><PhoneBasic>9132448785</PhoneBasic></Telephone><Mobile><phone_Mobile /></Mobile><Fax><FaxPhone /></Fax><InternetEmailAddress /><InternetEmailAddress /><PostalAddress><CountryName /><Region /><City /><PostalCode /><DeliveryAddress><AdressLine1 /><AdressLine2 /></DeliveryAddress></PostalAddress></ContactMethod></ContactInfo><ExecutiveSummary>Sudhir is certified as a Lead BPM Architect (CLSA), Methodology Black Belt (CMBB) and
+Project  Management  Professional  (PMP)  with  experience  in  CRM,   BPM,   BRE,   and  rules
+technologies.  Sudhir has more than 16 years of experience in the Information Technology industry with strong abilities in leadership, software architect, program management, data management, and
+product delivery. Sudhir is excellent at analyzing and resolving critical situations within tight
+deadlines and utilizes strong personal and communication skills to develop relationships needed to
+resolve cross-functional problems. He has worked extensively with (XML.Net, SharePoint 2010,
+App Servers, WebServices, Databases) technologies and enterprise architectures.
+Sudhir has specific domain knowledge and experience with Finance, Pharmaceutical, Retail, and
+Supply Chain. Sudhir has strong leadership, program management, communication skills. Sudhir's
+biggest assets are his abilities to absorb business objectives and to learn new technologies rapidly.</ExecutiveSummary><Objective /><Role /><FunctionalArea /><IndustryType>Accounting/Finance</IndustryType><EmploymentHistory><TotalExperience>18Year(s) &amp; 3Month(s)</TotalExperience><TotalProjectExperience>11Year(s) &amp; 6Month(s)</TotalProjectExperience><CurrentSalary /><ExpectedSalary /><EmployerOrg><EmployerOrgName>ServiceNet</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>North America using SharePoint</Title><OrgName><OrgName>ServiceNet</OrgName></OrgName><Description>North America using SharePoint 2010.  Assisted senior management and business units in focusing on key performance indicators to assist in gauging program effectiveness and ROI  Provide management, oversight and technical direction for SharePoint projects.  Define strategy to implement Global Intranet portal for Teva North America in Share Point</Description><StartDate><AnyDate>1/1/2010</AnyDate></StartDate><EndDate><Anydate>12/31/2010</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Franklin Templeton Investments</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Lead System Architect/ Engagement Lead</Title><OrgName><OrgName>Franklin Templeton Investments</OrgName></OrgName><Description>Client Franklin Templeton Investments Role Lead System Architect/ Engagement Lead Organization Financial Duration Jan 2010  to Dec 2010       	  .  Team Size 8 Environment:  PRPC 5.5 SP1 on Weblogic 10.3 with Oracle 10g database. Project Description:  Case Management is responsible for processing Shareholders, Financial Advisors and Dealer's service requests like New Accounts, Payments, Exchanges, Legal Transfers, Correspondence etc. Its automate processes associated with Case, letter generation, approval process and ongoing real- time customer service management. The application is primarily used by Customer Operations (CO),   Customer  Services  (CS),   Main  Office  Services  (MOS)   and  few  groups   from  other departments AML, LTSS, TAC etc Responsibilities and Contribution:  Lead the business team in gathering requirements and choosing the best way to implement  requirements leveraging the Pegasystem software. Insure adherence to Franklin Templeton requirement &amp; use case standards of detail for the  level of detail captured for objectives and requirements. Conducted feasibility studies and impact assessment for new business ideas / initiatives  Conducted regular DCO sessions to capture requirements.  Conducted DCO sessions with the Business users to demonstrate the developments.  Help to insure the documented Use Cases adequately represent the needs of the business and  meet all requirements Help to insure that the enterprise standards are adhered to including storage of artifacts,  traceability, version control and change control Help to document business rules  Assist with class structure design from the perspective of the business needs  Design and configure rules and flows. Analyze business data.  Guide the customer on test and report strategy  Co-ordinate with process specialists across all lines of business, and drive architectural  approaches to business process. Provide architect approach documents for different process.  Provide understanding of PRPC architecture to business group.  Provide technical direction to development/design teams (Onside &amp; Offshore).  Designed and implemented reusable integration modules for SOAP web service.  Advised and trained the client developers with PRPC best practices.  Project Experience P   N:  E   C   M   S , ROJECT AME NTERPRISE ONTENT ANAGEMENT YSTEM E   HR   S ,   E   S     M NTERPRISE YSTEM NTERPRISE ALES AND ARKETING  YSTEM INANCE HECK EQUEST YSTEM S , F  C  R  S</Description><StartDate><AnyDate>1/1/2010</AnyDate></StartDate><EndDate><Anydate>12/1/2010</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Teva Pharmaceuticals</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Lead Architect</Title><OrgName><OrgName>Teva Pharmaceuticals</OrgName></OrgName><Description>Client Teva Pharmaceuticals Role Lead Architect Duration Jan 2007 to Dec 2009 (36 Months) Team Size 15       	  .  Environment:  Software Database: Oracle Microsoft ASP.Net, Web Tools: Seibel, Oracle Financials, Share Point services, WCF/REST Project Description - (Enterprise Content Management System):  Our goal was to develop Enterprise wide Corporate Content Management, System should facilitate   content   management   objective   for   multiple   business   units   and   their   respective departments. System should integrate with company's other enterprise system like Siebel, Oracle financials, HRIS for information exchange. System should have security and authentication feature for all user groups that can be maintained by the application administrators. Project Description - (Enterprise HR System):  Our goal was to develop dynamic HR application that includes company's whole HR process and system should be flexible enough to allow multi company merger and interact and integrate with company's other system like Finance, SIEBEL (Sales, Call Center, Account management, etc). System should have security and authentication feature for all user groups that can be maintained by the application administrators.  Project Description - (CRM Enterprise Sales and Marketing System):  Our goal was to develop dynamic Marketing application that includes company's Sales and Marketing process, system should be facilitate company's marketing strategy development based on information collected by company's sales force, system should integrate with company's other system like SIEBEL (Sales, Call Center, Marketing, etc). System should have security and authentication feature for all user groups that can be maintained by the application administrators. Project Description - (Finance Check Request System):  Our goal was to develop Check Request System for company's finance department, system should be facilitate company's finance department to communicate with outside financial institute to process financial transactions,  system should integrate with company's other system like Oracle Financials. System should have security and authentication feature for all user groups that can be maintained by the application administrators. Responsibilities and Contribution:  Performing Lead Architect role to develop and implement full life cycle of various corporate business applications for Teva North America (ASP.Net, C#, Web Services (SOAP, WCF), VB.Net, Oracle 9i, SQL server 2005/2008).  Define and implemented strategy and delivered architecture to interface web applications with Oracle Financials, SIEBEL - 8 CRM (Sales, Marketing, Medical Affairs, Call Center, Account management, etc).  Performing Lead Architect role to develop and implement global intranet portal for Teva</Description><StartDate><AnyDate>1/1/2007</AnyDate></StartDate><EndDate><Anydate>12/1/2009</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>concepts</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Team Site, Enterprise</Title><OrgName><OrgName>concepts</OrgName></OrgName><Description>2010       	  .  Implementing various SharePoint concepts like Collaboration Portal, Team Site, Enterprise Content Management, Custom workflows, Custom webs parts, Share Point Object Model, Business Connectivity Service for Line Of Business (Siebel, Oracle Financials).  Develops and leads key programs ($1 Million and higher) in support of internal and client facing IT initiatives  Facilitated the requirements gathering and review processes using JAD sessions with project managers and executive stakeholders and prepared SOW.  Prepared SOW, project scope project requirement documents, network diagrams, cost estimation for IS applications using PMI standards P  N: S  C  S , O  P  O  S , ROJECT AME UPPLY HAIN YSTEM NLINE ART RDER YSTEM  ICENSING YSTEM ILLING YSTEM EDI L  S , EDI B  S</Description><StartDate><AnyDate>1/1/2010</AnyDate></StartDate><EndDate><Anydate>12/31/2010</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>IBS Software</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Lead Architect - Consultant</Title><OrgName><OrgName>IBS Software</OrgName></OrgName><Description>Client IBS Software Role Lead Architect - Consultant Duration 37 Months (Dec 2003 - Jan 2007) Team Size 5 Environment:  Software Database: SQL Server 2000/2005 Micorsoft Visual Studio Tools: EDI 2.0 Project Description -(Supply Chain System):  it's a revolutionary business integration eCommerce project for Auto Glass Industry. This project has designed with the concept of business integration between auto glass retailers and distributors of the United States. System would allow all registered retailer to get and compare price between registered distributors from all over the USA. Retailer can save thousands of dollars in just one transaction. System is designed from retailer and distributor aspects so both can track and manage their business through system. As a project lead my responsibilities included to follow project management lifecycle, architecting and designing this system including its database, also heavily involved in coding part of the system. Project Description -(Online Part Order System):  eCommerce System was made to provide facility for Kryger Glass's retail customers to order Auto Glass through Internet. System has facility to accept credit card transaction, system has facility to manage customer's part order and part return history, and system also provide day to day analysis for their business. System is continuously interacting with IBM AS400 for data mining. Project Description - (EDI Licensing System):  System was made to manage Customer's Licensing information. System has facility to check customer's licensing information for new customer while using PC based EDI (Electronic data Invoice) System. Project Description - (EDI Billing System):  System was made to manage Customer's Billing information. System has facility to calculate customer's EDI billing based on their monthly EDI transactions and send Email to individual customer every month and facility to broadcast customer detail information via companies' internet so customer can see their billing detail.       	  .  Responsibilities and Contribution:  Hired to manage, architect and integrate various corporate software applications.  Challenged to deliver integration of scope, requirements, schedules, procurement, cost, quality, communication, risk, and closure for a large-scale software applications and their database design, which includes Auto Glass Supply Chain System, Kryger Glass Online Ordering System, Corporate Intranet system, Corporate Internet application, and EDI Licensing system, EDI Billing system, and Data Vault etc.  Performed lead developer role for global portal implementation in SharePoint 2007.  Developed team site for different business groups in Share Point 2007.  Facilitated the requirements gathering and review processes using JAD sessions with project managers and executive stakeholders and prepared SOW.</Description><StartDate><AnyDate>12/1/2003</AnyDate></StartDate><EndDate><Anydate>1/1/2007</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Tata Chemicals Ltd</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Manager</Title><OrgName><OrgName>Tata Chemicals Ltd</OrgName></OrgName><Description>Client Tata Chemicals Ltd - India Role IS Delivery Manager Duration 48 Months (Aug 1996 - Aug 2000) Team Size 15 Environment:  Software Database: SQL Server 2000/ Oracle 7i Micorsoft/SAP/ ASP, VB 6.0 Tools: SAP R3, MS Visio, MS Project Oracle  Challenged with the task of ensuring all projects were commensurate with the corporate vision and followed the architectural model defined by the PMO.  Responsible for planning, implementation and delivery of the web application used for company's Inventory Management and Warehouse Management.  Responsible for planning, implementation and delivery of the financial business application used and integrated with SAP FICO module.  Facilitated Object Oriented UML reviews. Provided leadership and architectural expertise to the Software Development Group, Project Managers, and Project Leaders.  Facilitated working sessions with various business units to identified key requirements of cross-functional business units and actualized those requirements with new applications.  Conducted numerous JAD sessions and developed use cases, class diagrams, and object interaction diagrams to define requirements, assumptions, issues, risks, and dependencies.  Heavily involved in contract negotiations with vendor, identifying intellectual property, service level agreements and operational level agreements.</Description><StartDate><AnyDate>8/1/1996</AnyDate></StartDate><EndDate><Anydate>8/1/2000</Anydate></EndDate></PositionHistory></EmployerOrg></EmploymentHistory><EducationHistory><SchoolOrInstitution SchoolType="University"><School><SchoolName>University Of</SchoolName></School><SchoolLocation>Usa</SchoolLocation><Degree DegreeType="Graduate/ Undergraduate"><IsHighestDegee>True</IsHighestDegee><DegreeName>Master</DegreeName><DegreeDate><AnyDate>12/1/2002</AnyDate></DegreeDate><DegreeMajor><Name /></DegreeMajor><EducationDetails /><DegreeMeasure><EducationMeasure><MeasureSystem /><MeasureValue><StringValue /></MeasureValue></EducationMeasure></DegreeMeasure><DateofAttendance><StartDate><AnyDate>8/1/1996</AnyDate></StartDate><EndDate><AnyDate>12/1/2002</AnyDate></EndDate></DateofAttendance><EducationDescription>University Of  Master of Science in Computer Science Dec 2002
+ Nebraska, USA
+ Gujarat Uni, India Bachelors with Electrical Engineering Aug 1996</EducationDescription></Degree></SchoolOrInstitution></EducationHistory><LicensesAndCertifications><LicenseOrCertification /><Name>PMP</Name></LicensesAndCertifications><Qualifications><Competency Name="PMP"><LastUsedDate></LastUsedDate></Competency><Competency Name=" CRM"><LastUsedDate>12/1/2009</LastUsedDate></Competency><Competency Name=" Databases"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Retail"><LastUsedDate></LastUsedDate></Competency><Competency Name=" CPM"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Oracle"><LastUsedDate>12/31/2010</LastUsedDate></Competency><Competency Name=" Pega"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Case Management"><LastUsedDate></LastUsedDate></Competency><Competency Name=" New Accounts"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Payments"><LastUsedDate>12/1/2010</LastUsedDate></Competency><Competency Name=" Correspondence"><LastUsedDate>12/1/2010</LastUsedDate></Competency><Competency Name=" Its"><LastUsedDate>12/1/2010</LastUsedDate></Competency><Competency Name=" MOS"><LastUsedDate></LastUsedDate></Competency><Competency Name=" AML"><LastUsedDate>12/1/2010</LastUsedDate></Competency><Competency Name=" Use Cases"><LastUsedDate></LastUsedDate></Competency><Competency Name=" SOAP"><LastUsedDate>12/1/2010</LastUsedDate></Competency><Competency Name=" SOAP"><LastUsedDate>12/1/2010</LastUsedDate></Competency><Competency Name=" ASP.Net"><LastUsedDate>12/1/2009</LastUsedDate></Competency><Competency Name=" Seibel"><LastUsedDate>12/1/2009</LastUsedDate></Competency><Competency Name=" Share Point"><LastUsedDate></LastUsedDate></Competency><Competency Name=" WCF"><LastUsedDate>12/1/2009</LastUsedDate></Competency><Competency Name=" Siebel"><LastUsedDate>12/1/2009</LastUsedDate></Competency><Competency Name=" HRIS"><LastUsedDate>12/1/2009</LastUsedDate></Competency><Competency Name=" Marketing"><LastUsedDate>12/1/2009</LastUsedDate></Competency><Competency Name=" Financials"><LastUsedDate>12/1/2009</LastUsedDate></Competency><Competency Name=" VB.Net"><LastUsedDate>12/1/2009</LastUsedDate></Competency><Competency Name=" SQL"><LastUsedDate>12/1/2009</LastUsedDate></Competency><Competency Name=" ROI"><LastUsedDate>12/31/2010</LastUsedDate></Competency><Competency Name=" SharePoint"><LastUsedDate>12/31/2010</LastUsedDate></Competency><Competency Name=" Content Management"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Million"><LastUsedDate>12/31/2010</LastUsedDate></Competency><Competency Name=" JAD"><LastUsedDate>12/31/2010</LastUsedDate></Competency><Competency Name=" PMI"><LastUsedDate>12/31/2010</LastUsedDate></Competency><Competency Name=" EDI"><LastUsedDate>12/31/2010</LastUsedDate></Competency><Competency Name=" SQL Server 2000"><LastUsedDate></LastUsedDate></Competency><Competency Name=" SAP"><LastUsedDate>8/1/2000</LastUsedDate></Competency><Competency Name=" ASP"><LastUsedDate>8/1/2000</LastUsedDate></Competency><Competency Name=" MS Project"><LastUsedDate></LastUsedDate></Competency></Qualifications><languages><language><languagesCode /></language></languages></StructuredXMLResume><ResumeAdditionalItems><ResumeAdditionalItem type="Personal"><FatherName /><DateOfBirth /><Age /><Gender>Unspecified</Gender><Nationality /><MaritalStatus>Unspecified</MaritalStatus><PassportNo /><VisaStatus /><Currentlocation /></ResumeAdditionalItem><ResumeAdditionalItem type="Resume Parsing Information"><ResumeParsingStartDate>11/12/2014 12:00:00 AM</ResumeParsingStartDate><ResumeParsingExpiryDate>11/27/2014 12:00:00 AM</ResumeParsingExpiryDate><NumberOfParsedResume>26</NumberOfParsedResume><MaxLimitOfParsedResume>100</MaxLimitOfParsedResume></ResumeAdditionalItem></ResumeAdditionalItems><ResumeContext>The candidate is working as  with a good working Experience of 18Year(s) &amp; 3Month(s) and Skilled in PMP, CRM, Databases, Retail, CPM, Oracle, Pega, Case Management, New Accounts, Payments, Correspondence, Its, MOS, AML, Use Cases, SOAP, SOAP, ASP.Net, Seibel, Share Point, WCF, Siebel, HRIS, Marketing, Financials, VB.Net, SQL, ROI, SharePoint, Content Management, Million, JAD, PMI, EDI, SQL Server 2000, SAP, ASP, MS Project. The Current Salary:  and Expected Salary: . Candidate's Functional Area seems to be:  and Industry is Accounting/Finance; Currently located at . The candidate posses Master with major as </ResumeContext><ResumeTextFormat> <![CDATA[Sudhir Modi
+Lead BPM/CRM Architect - Consultant
+913-244-8785
+Professional Summary
+Sudhir is certified as a Lead BPM Architect (CLSA), Methodology Black Belt (CMBB) and
+Project  Management  Professional  (PMP)  with  experience  in  CRM,   BPM,   BRE,   and  rules
+technologies.  Sudhir has more than 16 years of experience in the Information Technology industry
+with strong abilities in leadership, software architect, program management, data management, and
+product delivery. Sudhir is excellent at analyzing and resolving critical situations within tight
+deadlines and utilizes strong personal and communication skills to develop relationships needed to
+resolve cross-functional problems. He has worked extensively with (XML.Net, SharePoint 2010,
+App Servers, WebServices, Databases) technologies and enterprise architectures. 
+Sudhir has specific domain knowledge and experience with Finance, Pharmaceutical, Retail, and
+Supply Chain. Sudhir has strong leadership, program management, communication skills. Sudhirs
+biggest assets are his abilities to absorb business objectives and to learn new technologies rapidly.
+Technical Skills
+Languages ASP.Net, C#, VB.Net, ASP, PL-SQL, T-SQL, JavaScript, Java,
+J2EE
+Databases Oracle 7i to 11i, SQL Server 2000/2005/2008, JDBC, ODBC
+Web Related HTML, XML, Microsoft Web Service, WCF
+Tools &amp; Utilities SharePoint 2010, SSIS, SSRS, MS Visio
+Enterprise Software Content   Management,   SharePoint   2010,   Siebel   CRM,   Oracle
+Financials,  SAP
+Domain Knowledge Financial   Services,   Pharmaceuticals,   Warehouse   Management,
+Supply Chain,  Call Center services, Human Resources Services
+BPM Tools PRPC v5.5,  PRPC 6.1, PRPC 6.2 SP2
+Frameworks Pega Customer Process Manager (CPM), IIF 4.1, PMF, TMF
+Web/App Servers IIS, TOMCAT,  WebSphere, WebLogic
+PRPC Project Experience
+Client Fortune 100 Financial Bank/ Credit Card Company
+Role Lead System Architect  BPM/CRM
+Page 1  .
+
+
+Project Benefit Claim System
+Duration March 2012 to March2013
+Team Size 15
+Environment:  Software: Database: Oracle
+Pega / Siebel/ 
+PRPC 6.2 SP1
+Tools: PRPC
+Microsoft 
+Insurance framework 4.1
+WCF/REST
+Project Description:
+Our goal is to develop Enterprise Claim application to serve BPP/LPP benefits system for Bank of
+America. This system will be used by BoA Benefit support team. 
+Responsibilities and Contribution:
+
+Demonstrated  thought  leadership  to  discuss   and  present  Enterprise Architecture  for
+Clients  claim system.
+
+Took leadership to develop high level architecture to integrate PRPC with other bank
+systems.
+
+Took Leadership to develop detail architecture for data conversion from old Siebel system
+to PRPC.
+
+Took leadership to develop detail architecture for new claim system and its data model.
+
+Developed and designed the Enterprise Class Structure and RuleSets for the enterprise
+application.
+
+Conducted DCO sessions with the business users to demonstrate the developments.
+
+Provide understanding of PRPC architecture to business group.
+
+Developed numerous declarative rules, activities, data transform rules, service rules,
+Agent Rules, and decision rules etc. to accommodate functional requirements.
+
+Developed data model and its integration to communicate with Clients Legacy systems
+
+Developed UI Component to facilitate business requirements.
+Client Standard &amp; Poors
+Role Lead System Architect - BRE
+Project Economy Scorecard System
+Duration Aug 2011 to March 2012
+Team Size 4
+Environment:  Software: Database: Oracle
+Pega, Microsoft
+PRPC 6.2 SP2
+Tools: PRPC
+Web services
+Project Description:
+Our goal is to develop Enterprise application for Economy score card system for Standard &amp;
+Poors. This system will be used by S&amp;Ps financial analysts and their committee members
+(Traders) worldwide. 
+Responsibilities and Contribution:
+
+Demonstrated thought leadership to discuss and present Enterprise Architecture in front of
+S&amp;Ps executives.
+
+Took leadership to facilitated DCO sessions and Operational Walkthroughs with the
+business sponsors and stakeholders.
+
+Developed and Designed the Enterprise Class Structure and RuleSets for the enterprise
+application.
+
+Implemented security model based on business requirements.
+Page 2  .
+
+
+
+Developed numerous declarative rules and decision rules to accommodate functional
+requirements to implement mathematical algorithms.
+
+Developed data model and its integration to communicate with external tables
+
+Developed PRPC activities to facilitate mathematical calculations and data exchange
+functionality.
+
+Developed UI Component to facilitate business requirements.
+
+Installed and configured PRPC 6.2 SP2 on Weblogic 10.3.3 and configured it with Oracle
+11i on client side.
+Project Experience
+P  N : LG E   CPM
+ROJECT AME NTITLEMENTS
+Client ServiceNet
+Role Lead System Architect- CPM/CRM
+Duration Dec 2010 to Aug 2011
+Team Size 6
+Environment:  Software Database: Oracle
+Pega, Microsoft 
+Pega PRPC 6.1 sp2
+Tools: PRPC 
+Web services
+Project Description  (LG/Sony Entitlements  CPM / PRPC 6.1 sp2):
+ Our goal is to develop Enterprise wide multi user, multi concurrent process, and scalable CPM
+system. The multiple phases of the project consisted of more than 200+ complex business Flows.
+System should facilitate customer representative to answer the customers call and server the LG
+customer for their extended warranty issues. PRPC communicate with their external client via web
+services. 
+Responsibilities and Contribution:
+
+Led and facilitated several DCO sessions and Operational Walkthroughs with the business
+sponsors and stakeholders at the client site
+
+Created the DCO documentation during the inception phase by developing both technical
+and business use cases from requirements 
+
+Developed and Designed the Enterprise Class Structure and RuleSets for the entire
+application while inheriting from Pegas IIF and Product Configuration framework.
+
+Implemented File Listener, File Service to process enrollment files.
+
+Implemented Email Listener to process customers email using CPM.
+
+Created service processes and customized the UI for the requirements.
+
+Implemented SOAP services to add, update and retrieve work objects
+
+Mentor client resources (provided best practice to use with PRPC)
+
+Led the development team to successful completion of multiple slivers
+Project Name: Case Management
+Client Franklin Templeton Investments 
+Role Lead System Architect/ Engagement Lead
+Organization Financial
+Duration Jan 2010  to Dec 2010
+Page 3  .
+
+
+Team Size 8
+Environment:  PRPC 5.5 SP1 on Weblogic 10.3 with Oracle 10g database.
+Project Description: 
+Case Management is responsible for processing Shareholders, Financial Advisors and Dealers
+service requests like New Accounts, Payments, Exchanges, Legal Transfers, Correspondence etc.
+Its automate processes associated with Case, letter generation, approval process and ongoing real-
+time customer service management. The application is primarily used by Customer Operations
+(CO),   Customer  Services  (CS),   Main  Office  Services  (MOS)   and  few  groups   from  other
+departments AML, LTSS, TAC etc
+Responsibilities and Contribution:
+Lead the business team in gathering requirements and choosing the best way to implement
+
+requirements leveraging the Pegasystem software.
+Insure adherence to Franklin Templeton requirement &amp; use case standards of detail for the
+
+level of detail captured for objectives and requirements.
+Conducted feasibility studies and impact assessment for new business ideas / initiatives
+
+Conducted regular DCO sessions to capture requirements.
+
+Conducted DCO sessions with the Business users to demonstrate the developments.
+
+Help to insure the documented Use Cases adequately represent the needs of the business and
+
+meet all requirements
+Help to insure that the enterprise standards are adhered to including storage of artifacts,
+
+traceability, version control and change control
+Help to document business rules
+
+Assist with class structure design from the perspective of the business needs
+
+Design and configure rules and flows.
+
+Analyze business data.
+
+Guide the customer on test and report strategy
+
+Co-ordinate with process specialists across all lines of business, and drive architectural
+
+approaches to business process.
+Provide architect approach documents for different process.
+
+Provide understanding of PRPC architecture to business group.
+
+Provide technical direction to development/design teams (Onside &amp; Offshore).
+
+Designed and implemented reusable integration modules for SOAP web service.
+
+Advised and trained the client developers with PRPC best practices.
+
+Project Experience
+P   N :  E   C   M   S ,
+ROJECT AME NTERPRISE ONTENT ANAGEMENT YSTEM
+E   HR   S ,   E   S     M
+NTERPRISE YSTEM NTERPRISE ALES AND ARKETING
+S , F  C  R  S
+YSTEM INANCE HECK EQUEST YSTEM
+Client Teva Pharmaceuticals
+Role Lead Architect
+Duration Jan 2007 to Dec 2009 (36 Months)
+Team Size 15
+Page 4  .
+
+
+Environment:  Software Database: Oracle
+Microsoft
+ASP.Net, Web 
+Tools: Seibel, Oracle Financials, Share Point 
+services, 
+WCF/REST
+Project Description  (Enterprise Content Management System):
+  Our goal was to develop Enterprise wide Corporate Content Management, System should
+facilitate   content   management   objective   for   multiple   business   units   and   their   respective
+departments. System should integrate with companys other enterprise system like Siebel, Oracle
+financials, HRIS for information exchange. System should have security and authentication feature
+for all user groups that can be maintained by the application administrators.
+Project Description  (Enterprise HR System) :
+Our goal was to develop dynamic HR application that includes companys whole HR process and
+system should be flexible enough to allow multi company merger and interact and integrate with
+companys other system like Finance, SIEBEL (Sales, Call Center, Account management, etc).
+System should have security and authentication feature for all user groups that can be maintained
+by the application administrators.
+.
+Project Description  (CRM Enterprise Sales and Marketing System):
+Our goal was to develop dynamic Marketing application that includes companys Sales and
+Marketing process, system should be facilitate companys marketing strategy development based
+on information collected by companys sales force, system should integrate with companys other
+system like SIEBEL (Sales, Call Center, Marketing, etc). System should have security and
+authentication feature for all user groups that can be maintained by the application administrators.
+Project Description  (Finance Check Request System):
+Our goal was to develop Check Request System for companys finance department, system should
+be facilitate companys finance department to communicate with outside financial institute to
+process financial transactions,  system should integrate with companys other system like Oracle
+Financials. System should have security and authentication feature for all user groups that can be
+maintained by the application administrators.
+Responsibilities and Contribution:
+
+Performing Lead Architect role to develop and implement full life cycle of various 
+corporate business applications for Teva North America (ASP.Net, C#, Web Services 
+(SOAP, WCF), VB.Net, Oracle 9i, SQL server 2005/2008).
+
+Define and implemented strategy and delivered architecture to interface web applications 
+with Oracle Financials, SIEBEL- 8 CRM (Sales, Marketing, Medical Affairs, Call Center, 
+Account management, etc).
+
+Performing Lead Architect role to develop and implement global intranet portal for Teva 
+North America using SharePoint 2010.
+
+Assisted senior management and business units in focusing on key performance indicators 
+to assist in gauging program effectiveness and ROI
+
+Provide management, oversight and technical direction for SharePoint projects.
+
+Define strategy to implement Global Intranet portal for Teva North America in Share Point
+2010
+Page 5  .
+
+
+
+Implementing various SharePoint concepts like Collaboration Portal, Team Site, Enterprise
+Content Management, Custom workflows, Custom webs parts, Share Point Object Model, 
+Business Connectivity Service for Line Of Business (Siebel, Oracle Financials).
+
+Develops and leads key programs ($1 Million and higher) in support of internal and client 
+facing IT initiatives
+
+Facilitated the requirements gathering and review processes using JAD sessions with 
+project managers and executive stakeholders and prepared SOW. 
+
+Prepared SOW, project scope project requirement documents, network diagrams, cost 
+estimation for IS applications using PMI standards
+P  N : S  C  S , O  P  O  S ,
+ROJECT AME UPPLY HAIN YSTEM NLINE ART RDER YSTEM
+EDI L  S , EDI B  S
+ICENSING YSTEM ILLING YSTEM
+Client IBS Software
+Role Lead Architect - Consultant
+Duration 37 Months (Dec 2003 - Jan 2007)
+Team Size 5
+Environment:  Software Database: SQL Server 2000/2005
+Micorsoft
+Visual Studio 
+Tools: EDI 
+2.0
+Project Description (Supply Chain System):
+ its a revolutionary business integration eCommerce project for Auto Glass Industry. This project
+has designed with the concept of business integration between auto glass retailers and distributors
+of the United States. System would allow all registered retailer to get and compare price between
+registered distributors from all over the USA. Retailer can save thousands of dollars in just one
+transaction. System is designed from retailer and distributor aspects so both can track and manage
+their business through system. As a project lead my responsibilities included to follow project
+management lifecycle, architecting and designing this system including its database, also heavily
+involved in coding part of the system. 
+Project Description (Online Part Order System):
+eCommerce System was made to provide facility for Kryger Glasss retail customers to order Auto
+Glass through Internet. System has facility to accept credit card transaction, system has facility to
+manage customers part order and part return history, and system also provide day to day analysis
+for their business. System is continuously interacting with IBM AS400 for data mining.
+Project Description  (EDI Licensing System):
+System was made to manage Customers Licensing information. System has facility to check
+customers licensing information for new customer while using PC based EDI (Electronic data
+Invoice) System.
+Project Description  (EDI Billing System):
+System was made to manage Customers Billing information. System has facility to calculate
+customers EDI billing based on their monthly EDI transactions and send Email to individual
+customer every month and facility to broadcast customer detail information via companies internet
+so customer can see their billing detail. 
+Page 6  .
+
+
+Responsibilities and Contribution:
+
+Hired to manage, architect and integrate various corporate software applications.
+
+Challenged to deliver integration of scope, requirements, schedules, procurement, cost, 
+quality, communication, risk, and closure for a large-scale software applications and their 
+database design, which includes Auto Glass Supply Chain System, Kryger Glass Online 
+Ordering System, Corporate Intranet system, Corporate Internet application, and EDI 
+Licensing system, EDI Billing system, and Data Vault etc. 
+
+Performed lead developer role for global portal implementation in SharePoint 2007.
+
+Developed team site for different business groups in Share Point 2007.
+
+Facilitated the requirements gathering and review processes using JAD sessions with 
+project managers and executive stakeholders and prepared SOW. 
+Client Tata Chemicals Ltd- India
+Role IS Delivery Manager
+Duration 48 Months (Aug 1996 - Aug 2000)
+Team Size 15
+Environment:  Software Database: SQL Server 2000/ Oracle 7i
+Micorsoft/SAP/
+ASP, VB 6.0
+Tools: SAP R3, MS Visio, MS Project
+Oracle
+
+Challenged with the task of ensuring all projects were commensurate with the corporate 
+vision and followed the architectural model defined by the PMO. 
+
+Responsible for planning, implementation and delivery of the web application used for 
+companys Inventory Management and Warehouse Management.
+
+Responsible for planning, implementation and delivery of the financial business application
+used and integrated with SAP FICO module.
+
+Facilitated Object Oriented UML reviews. 
+
+Provided leadership and architectural expertise to the Software Development Group, 
+Project Managers, and Project Leaders. 
+
+Facilitated working sessions with various business units to identified key requirements of 
+cross-functional business units and actualized those requirements with new applications.
+
+Conducted numerous JAD sessions and developed use cases, class diagrams, and object 
+interaction diagrams to define requirements, assumptions, issues, risks, and dependencies.  
+
+Heavily involved in contract negotiations with vendor, identifying intellectual property, 
+service level agreements and operational level agreements.
+Education
+University  Degree Obtained Date
+Page 7  .
+
+
+University Of  Master of Science in Computer Science Dec 2002
+Nebraska, USA
+Gujarat Uni, India Bachelors with Electrical Engineering Aug 1996
+Certifications
+
+PRPC System Architect (Version 6.1)
+
+PRPC Senior System Architect (Version 5.5)
+
+PRPC Lead System Architect  (Version 5.5)
+
+Smart BPM  Agile Methodology Black Belt
+
+Project Management Professionals - PMP (Since 2006- Active)
+Specialized Training
+Title Conducted by: Duration
+Fast Track  (PRPC 6.1) Pegasystems 5 days
+Bootcamp (PRPC 6.1 ) Pegasystems 5 days
+Agile  Smart BPM Methodology  Pegasystems 3 days
+CPM/CRM Architect Pegasystems 3 days
+CSSA Immersion Program (PRPC 5.5) Pegasystems 2 Weeks
+CLSA Immersion Program (PRPC 5.5) Pegasystems 4 Weeks
+Page 8  .]]> </ResumeTextFormat></Resume>

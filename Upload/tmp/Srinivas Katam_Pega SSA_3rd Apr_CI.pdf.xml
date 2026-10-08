@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Resume><ResumeId ResumeParserProductName="RecruitPlus Resume Parser"><ResumeParserOrgName>ITCONS e-Solutions Private Limited</ResumeParserOrgName></ResumeId><StructuredXMLResume><ContactInfo><PersonName><FullName>Srinivas Katam</FullName><GivenName>Srinivas</GivenName><MiddleName /><FamilyName>Katam</FamilyName></PersonName><ContactMethod><Telephone><PhoneBasic>(480)6393041</PhoneBasic></Telephone><Mobile><phone_Mobile /></Mobile><Fax><FaxPhone /></Fax><InternetEmailAddress>srinikatam@gmail.com</InternetEmailAddress><InternetEmailAddress /><PostalAddress><CountryName /><Region /><City /><PostalCode /><DeliveryAddress><AdressLine1 /><AdressLine2 /></DeliveryAddress></PostalAddress></ContactMethod></ContactInfo><ExecutiveSummary>Over 7 years of experience working in Software Development Life Cycle (SDLC) through
+requirements analysis, design specification, code development, testing and maintenance of
+applications using Java and PEGA PRPC.
+
+Industry experience in various project roles such as onsite Technical Lead, Senior System
+Architect, offshore Technical Lead, System Architect and Java Developer
+
+Over 7 years of experience in Analysis, Design, Development and Migration of various
+Business Process Management (BPM) solutions using PEGA Rules Process Commander
+(PRPC) and working for more than 3 years at client location.
+
+Over 4 years of Experience in Smart Dispute Framework working with the client Bank of
+America
+
+Excellent working experience in Onsite/Offshore model.
+
+Expertise working in Scrum methodology and Waterfall Model and have been using PMF from
+more than a year
+
+Handled the team of 4 people and I was successful in delivering the code and till the post
+deployment support in the last two projects
+
+Effectively worked in Client locations and handled client interactions in an efficient manner.
+
+Excellent communication skills, leadership skills, documentation skills, problem solving
+ability, analytical and programming skills and ability to lead a team and work well in a diverse
+team as well as independently
+
+Proficient in creating and transforming business requirements into functional requirements and
+designing business models using UML.
+
+Built the custom flows for Chargeback, Arbitration, Compliance, Accounting etc... on top of
+Smart Dispute Framework Layer and implemented those functionalities.
+
+Expertise in developing and managing Workflows, Class structures design, developing User
+Interface (UI), creating various Process Flows, Activities, Decision rules, Declarative rules and Security management.
+
+Expertise in generating the outbound files, parsing the inbound files, monitoring the Agents and their schedules using JSC tools.
+
+Experience in developing access role objects, privileges, configuring agents and Listeners.
+
+Well versed on SMA, DCO, SLA, Correspondence and Validation rules.
+
+Experience in building and implementing SOAP web services and consuming external web
+services from PEGA PRPC by creating Service and Connect SOAP rules.
+
+Experience in troubleshooting &amp; performance tuning of PRPC applications using Rules
+Inspector, Clipboard, Tracer, PAL and Log analyzer.
+
+Experience in creating List View and Summary View reports in PEGA.
+
+Experience in external database configuration and creating RDB rules to query external
+database.
+
+Experience in writing HTML, JSP, HTML fragments and Java code in PRPC.
+
+Good work experience in Java, J2EE, XML, JDBC, JSP, and Servlets.
+
+Involved in the full development lifecycle from requirements gathering through development and support for Banking, Financial and Insurance Industries.</ExecutiveSummary><Objective /><Role /><FunctionalArea /><IndustryType>Accounting/Finance | Banking | Insurance | Security/Law Enforcement</IndustryType><EmploymentHistory><TotalExperience>7Year(s) &amp; 5Month(s)</TotalExperience><TotalProjectExperience>Year(s) &amp; Month(s)</TotalProjectExperience><CurrentSalary /><ExpectedSalary /><EmployerOrg><EmployerOrgName>Bank of America</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>PEGA System Architect/ Senior Developer</Title><OrgName><OrgName>Bank of America</OrgName></OrgName><Description>Bank of America, India      May 2009 - Jul 2010 PEGA System Architect/ Senior Developer Consumer Claims Management System - Bank of America  develops a web application - CCMS for its debit &amp; credit card customers. It enables card issuers and acquirers to manage disputes and chargeback's from initiation through resolution-delivering a comprehensive rules-based and image-enabled solution that dramatically reduces the cost by maximizing productivity, minimizing training time and reducing write- offs. CCMS is being built on top of Pega's Smart Dispute Framework that comes with credit card reason codes for Visa &amp; MasterCard. SD framework has been extended to accommodate debit card reason codes for Visa &amp; MC as well as the ones for various networks. CCMS will provide claims management functionality for the following LOBs:  Debit/ATM Fraud Claims (including Heloc / eloc, eCheck) Debit/ATM Non-Fraud Claims (including Heloc/eloc, eCheck, SafeSend) ACH (Automated Clearing House) ODS (overdraft services) CTS (Customer Transaction Solutions) The system shall provide ability to grant User access to Claims system, data, and functionality via Role based access controls. It will replace the existing OSCAR interfaces to applications outside PRPC. New automated processes will be introduced which involve creation of new workflows and correspondence. Responsibilities:  Assigned with set of use cases and come up with good design approach, and after peer reviews implemented them by adhering to PEGA Guard Rails.  Developed Activities, Decision and Declarative rules in workflow development.  Developed the correspondence rules, Fragments, Paragraphs as per the letter documents.  Developed User Interface Rules (Harness, Section) as required by the application.  Worked on external database configuration and RDB rules to query external database  Created validation rules and workflows to implement business logic validation.  Developed various SOAP Connectors and Services for integration with External systems.  Developed SLAs (Service level Agreements) in Workflows.  Implemented various Agents to generate few reports and files that we need to send to other systems.  Configured File listeners and implemented various parsing rules to store the data in our system and triggered some functionality as per our requirements.  Involved in Unit Testing, System Integration Testing and provided support during and after the PROD Deployment. Environment:: PRPC V5.4 SP2, MS Visio, Web logic Application Server, Java, J2EE, JSP, JDBC, CSS, Java Script, HTML, XML, SQL, PL/SQL, Oracle, SOAP, Web services, Windows XP, Unix.</Description><StartDate><AnyDate>5/1/2009</AnyDate></StartDate><EndDate><Anydate>7/1/2010</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Contemporary</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>PEGA Senior System Architect</Title><OrgName><OrgName>Contemporary</OrgName></OrgName><Description>Bank of New York, NY, USA      Dec 2011 - Mar 2013 PEGA Senior System Architect Video Teller Machine (VTM) - Contemporary customers desire more convenience for support of their traditional banking center teller type transactions than ever before. Yet, at present banking center hours of service remain generally unchanged mimicking the traditional availability of 9AM to 5PM five days per week, with some service hours at some locations on Saturdays.  Bank of New York desires to exceed customer expectations for those customers in need of a teller to assist with transactions beyond "traditional" service hours, while at the same time reducing the cost to serve for those types of transactions.  Lowering the cost to serve while creating greater access to the bank for the highly routine Over-The-Counter (OTC) type transactions in banking centers promises to exceed customer needs and ensure the Banks competitive advantage Responsibilities:  Participated in Design Discussions in elaboration phase and UI development.  Worked closely with the business analyst and LSA to understand source data and to develop technical solutions.  Involved in designing High Level Class structure in the Application.  Assigned with set of use cases and come up with good design approach, and after peer reviews implemented them by adhering to PEGA Guard Rails.  Developed Activities, Decision and Declarative rules in workflow development.  Developed the correspondence rules, Fragments, Paragraphs as per the letter documents.  Developed User Interface Rules (Harness, Section) as required by the application.  Worked on external database configuration and RDB rules to query external database  Created validation rules and workflows to implement business logic validation.  Developed various SOAP Connectors and Services for integration with External systems.  Developed SLAs (Service level Agreements) in Workflows.  Intensively worked with Clipboard and Tracer for troubleshooting the issues.  Implemented various Agents to generate few reports and files that we need to send to other systems.  Configured File listeners and implemented various parsing rules to store the data in our system and triggered some functionality as per our requirements.  Involved in Unit Testing, System Integration Testing.  Provided the support during and after the PROD Deployment and fixed so many critical issues on the fly and good coordination with offshore team to achieve the targeted deliveries. Environment:: PRPC V6.1, MS Visio, Web logic Application Server, Java, J2EE, JSP, JDBC, CSS, Java</Description><StartDate><AnyDate>12/1/2011</AnyDate></StartDate><EndDate><Anydate>3/1/2013</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Wachovia</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Script</Title><OrgName><OrgName>Wachovia</OrgName></OrgName><Description>Script, HTML, XML, SQL, PL/SQL, Oracle, SOAP, Web services, Windows XP, Unix. Wachovia - Englewood Cliffs, NJ      Aug 2010 - Nov 2011 PEGA System Architect/ Senior Developer Impact Mortgage Application enhances paperless Mortgage Loan Process experience for Consumers and Provides Speed and Convenience to Mortgage Application which is used by Wachovia to process 1st Mortgage and 2nd Mortgage, Refinance and FHA Mortgage Loans. Wachovia's new Loan Impact feature allows data capture and replication for re-use down the line to continue marketing to customers after a session has been interrupted. Mortgage Calculator to save different scenarios of mortgage loan to compare Down payment, APR, Monthly payment and calculate application fees and Closing Costs. A rules-based pricing engine with component-based system architecture is flexible to the needs of any channel and the new system supports all fee scenarios regardless of complexity, Property value information, property evaluation. The Escrow Management feature offers accurate and timely loan disbursements. Responsibilities:  Involved in studying the Current Legacy Systems, User Requirement and Creating Design Document.  Involved in Installation and configuration of Weblogic Application Server.  Working with the Business users, Business Leads, and Business Analysts to define business requirements for designing, testing, and building Pega systems solutions to meet requirements.  Involved in development of Technical Requirements to provide end state requirements for line of business and development team.  Creation of HTML rules, Properties (Data types), Embedded Pages and Correspondences.  Participated extensively in designing application security which involves setting up Access groups, Access Roles, Operators, Application ID, Org Divisions, Org Units and Work groups  Developed and designed class structure, workflows as well as integration between systems for smooth and optimized operation of systems.  Implementation of Decision tables, Decision Maps and Declarative expressions.  Developed and tested solutions based on the design requirements.  Understanding various components of the system configuration and applying knowledge to conversion issues.  Developed artifacts and workflows while following company standards and guidelines.  Design and development of User Interfaces using JSP, HTML, Java script and CSS.  Used Struts Framework with Hibernate to map to Oracle database.  Developing Action classes, those are used to delegate the request for Business processing.  Developed the application using Servlets, Struts Action classes, Action Forms, JSP and Session Beans.  Form Validation using Struts Validation framework.  Developed Web services and written SOAP and created WSDL for web services.  Developed   Stored   procedures,   Packages,   Functions,   cursors   and   database   Triggers   and implemented Scrollable Result sets.  Successfully implemented the MVC pattern by writing the JSF's as a view and Managed Beans as a model and Faces Servlet is the controller.  Involved in the creation of Custom Validators and Configured in Faces-config.xml.  Developed Sequence, Use Case Diagrams and Process Flow Diagrams. Environment: PRPC V6.1, MS Visio, Web logic Application Server, Java, J2EE, JSP, JDBC, CSS, Java Script, HTML, XML, SQL, PL/SQL, Oracle, SOAP, Web services, Windows XP, Unix.</Description><StartDate><AnyDate>8/1/2010</AnyDate></StartDate><EndDate><Anydate>11/1/2011</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>AIG</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Java Developer</Title><OrgName><OrgName>AIG</OrgName></OrgName><Description>AIG, Chennai, India June 2007 - Nov 2007 Java Developer American   International   Workers   Compensation   System   ( AIWCS)   - The   Specialty   Workers Compensation Group  proposes   to  offer  its   customers  a   new  premium  payment  plan for  Workers Compensation Insurance. This Plan will tie the amount and the due date of periodic premium payments directly to the premium earned, in accordance with customer's payroll cycles. It is a variable installments plan, based on voluntary self-reporting of payrolls by the customer or its payroll service company at the end of each of its payroll periods. The earned premium will be calculated and the sum will be notified back to the customer by electronic invoice in e-mails. The customer will be directed to place funds in that amount into an electronic-funds-transfer-enabled (EFT or ACH) account or to pay the due amount by check. The funds will be pulled promptly if EFT or ACH account is available. After the policy expires, a premium audit will be performed, any premium adjustment will be booked, and the difference between the total earned premium and the paid premium will be invoiced to the customer. Responsibilities:  Requirement analysis and System Design  Attend review meetings for scheduling, implementation and resolving issues in software development cycle.  Developed code for the assigned requirements using MVC architecture and used Servlets and JSP.  Designed the User Interface to the Client using HTML, JavaScript.  Developed the Server side programs using Servlets, Java Server pages and Java.  Development of JavaScript for client end data entry validations.  Developed and maintained PL/SQL Stored Procedures  Involved in unit testing by writing test cases, system testing, integration testing and user acceptance testing.  Enhanced the performance of the whole application using the Stored Procedures and Prepared Statements.  Environment: Java, J2EE, Servlets, JSP, HTML, JavaScript, PL/SQL, JDBC, Tomcat, SQL Server.</Description><StartDate><AnyDate>6/1/2007</AnyDate></StartDate><EndDate><Anydate>11/1/2007</Anydate></EndDate></PositionHistory></EmployerOrg></EmploymentHistory><EducationHistory><SchoolOrInstitution SchoolType="College"><School><SchoolName>JNTU College of Engineering</SchoolName></School><SchoolLocation>Hyderabad</SchoolLocation><Degree DegreeType="Graduate/ Undergraduate"><IsHighestDegee>True</IsHighestDegee><DegreeName>Bachelors</DegreeName><DegreeDate><AnyDate /></DegreeDate><DegreeMajor><Name /></DegreeMajor><EducationDetails /><DegreeMeasure><EducationMeasure><MeasureSystem /><MeasureValue><StringValue /></MeasureValue></EducationMeasure></DegreeMeasure><DateofAttendance><StartDate><AnyDate /></StartDate><EndDate><AnyDate /></EndDate></DateofAttendance><EducationDescription>Bachelors in Electronics and Communications from JNTU College of Engineering, Hyderabad.</EducationDescription></Degree></SchoolOrInstitution></EducationHistory><LicensesAndCertifications><LicenseOrCertification /><Name /></LicensesAndCertifications><Qualifications /><languages /></StructuredXMLResume><ResumeAdditionalItems><ResumeAdditionalItem type="Personal"><FatherName /><DateOfBirth /><Age /><Gender>Unspecified</Gender><Nationality /><MaritalStatus>Unspecified</MaritalStatus><PassportNo /><VisaStatus>&amp; MasterCard. SD framework has been extended to accommodate debit </VisaStatus><Currentlocation /></ResumeAdditionalItem><ResumeAdditionalItem type="Resume Parsing Information"><ResumeParsingStartDate>11/12/2014 12:00:00 AM</ResumeParsingStartDate><ResumeParsingExpiryDate>11/27/2014 12:00:00 AM</ResumeParsingExpiryDate><NumberOfParsedResume>25</NumberOfParsedResume><MaxLimitOfParsedResume>100</MaxLimitOfParsedResume></ResumeAdditionalItem></ResumeAdditionalItems><ResumeContext>The candidate is working as  with a good working Experience of 7Year(s) &amp; 5Month(s) and Skilled in . The Current Salary:  and Expected Salary: . Candidate's Functional Area seems to be:  and Industry is Accounting/Finance | Banking | Insurance | Security/Law Enforcement; Currently located at . The candidate posses Bachelors with major as </ResumeContext><ResumeTextFormat> <![CDATA[         Srinivas Katam
+Contact: (480)639-3041
+Email: srinikatam@gmail.com
+ 
+                                         
+                                                           
+            SUMMARY 
+
+Over 7 years of experience working in Software Development Life Cycle (SDLC) through 
+requirements analysis, design specification, code development, testing and maintenance of 
+applications using Java and PEGA PRPC.
+
+Industry experience in various project roles such as onsite Technical Lead, Senior System 
+Architect, offshore Technical Lead, System Architect and Java Developer
+
+Over 7 years of experience in Analysis, Design, Development and Migration of various 
+Business Process Management (BPM) solutions using PEGA Rules Process Commander 
+(PRPC) and working for more than 3 years at client location.
+
+Over 4 years of Experience in Smart Dispute Framework working with the client Bank of 
+America
+
+Excellent working experience in Onsite/Offshore model.
+
+Expertise working in Scrum methodology and Waterfall Model and have been using PMF from
+more than a year
+
+Handled the team of 4 people and I was successful in delivering the code and till the post 
+deployment support in the last two projects
+
+Effectively worked in Client locations and handled client interactions in an efficient manner.
+
+Excellent communication skills, leadership skills, documentation skills, problem solving 
+ability, analytical and programming skills and ability to lead a team and work well in a diverse
+team as well as independently
+
+Proficient in creating and transforming business requirements into functional requirements and
+designing business models using UML.
+
+Built the custom flows for Chargeback, Arbitration, Compliance, Accounting etc on top of 
+Smart Dispute Framework Layer and implemented those functionalities.
+
+Expertise in developing and managing Workflows, Class structures design, developing User 
+Interface (UI), creating various Process Flows, Activities, Decision rules, Declarative rules 
+and Security management.
+
+Expertise in generating the outbound files, parsing the inbound files, monitoring the Agents 
+and their schedules using JSC tools.
+
+Experience in developing access role objects, privileges, configuring agents and Listeners.
+
+Well versed on SMA, DCO, SLA, Correspondence and Validation rules.
+
+Experience in building and implementing SOAP web services and consuming external web 
+services from PEGA PRPC by creating Service and Connect SOAP rules.
+
+Experience in troubleshooting &amp; performance tuning of PRPC applications using Rules 
+Inspector, Clipboard, Tracer, PAL and Log analyzer.
+
+Experience in creating List View and Summary View reports in PEGA.
+
+Experience in external database configuration and creating RDB rules to query external 
+database.
+
+Experience in writing HTML, JSP, HTML fragments and Java code in PRPC.
+
+Good work experience in Java, J2EE, XML, JDBC, JSP, and Servlets.
+
+Involved in the full development lifecycle from requirements gathering through development 
+and support for Banking, Financial and Insurance Industries.
+
+EDUCATION
+
+Bachelors in Electronics and Communications from JNTU College of Engineering, Hyderabad.
+
+
+
+CERTIFICATIONS
+
+PRPC v5.5 Certified Senior System Architect.
+
+    INS 21 - Property and Liability Insurance Principles - (AICPCU&amp;IIA Certification) .
+
+AML, Card Tech, Security Management- Internal certification exams conducted by Bank of 
+America.
+
+SKILL SET
+
+Smart BPM Suite  PEGA Rules Process Commander V4.2 to 6.x,      
+                                                                               PEGA Smart Dispute Framework
+
+Languages  Java/J2EE, PL/SQL(Stored Procedures), 
+XML, Java Script, C, C++
+
+Web Technologies  HTML, XML, SOAP,CSS,XSLT
+
+Web/Application Servers  Web Logic, Web Sphere, Tomcat
+
+Databases  DB2, Oracle 10g/11i, SQL Server 2000/2005
+
+Design Tools  Microsoft Visio 2003/2007 Professional, UML
+
+Operating Systems  Windows NT, Windows 98/2000/XP/7, UNIX
+
+Domain Knowledge  Banking and Insurance
+PROFESSIONAL EXPERIENCE   
+Bank of America, Phoenix, AZ, USA                       April 2013  Till date
+PEGA Senior System Architect/ Team Lead
+Consumer Claims Management System-Bank of America develops a web application- CCMS for its 
+debit &amp; credit card customers. It enables card issuers and acquirers to manage disputes and chargebacks 
+from initiation through resolution-delivering a comprehensive rules-based and image-enabled solution that 
+dramatically reduces the cost by maximizing productivity, minimizing training time and reducing write-
+offs. 
+CCMS is being built on top of Pegas Smart Dispute Framework that comes with credit card 
+reason codes for Visa &amp; MasterCard. SD framework has been extended to accommodate debit 
+card reason codes for Visa &amp; MC as well as the ones for various networks. CCMS will provide 
+claims management functionality for the following 
+LOBs: 
+Debit/ATM Fraud Claims (including Heloc / eloc, eCheck)
+Debit/ATM Non-Fraud Claims (including Heloc/eloc, eCheck, SafeSend)
+ACH (Automated Clearing House)
+ODS (overdraft services)
+CTS (Customer Transaction Solutions)
+The system shall provide ability to grant User access to Claims system, data, and functionality via Role 
+based access controls. It will replace the existing OSCAR interfaces to applications outside PRPC. New 
+automated processes will be introduced which involve creation of new workflows and correspondence.
+Responsibilities:
+
+Participated in Design Discussions in elaboration phase and UI development.
+
+Worked closely with the business analysts and LSA to understand source data and to develop
+technical solutions.
+
+Provided a detailed estimate for the CCMS 3.0 application
+
+
+
+Preparing and maintaining technical documentation
+
+Risks and issues management
+
+Contacted Pega Systems support team to report platform issues, request hot fixes, evaluating and
+deployment of hot fixes
+
+Conducting demos and presentations for business users
+
+Effectively managed the PMF and participated in the touch base calls every day
+
+Worked on external database configuration and RDB rules to query external database
+
+Conducting code reviews and providing feedback
+
+Created validation rules and workflows to implement business logic validation. 
+
+Developed various SOAP Connectors and Services for integration with External systems.
+
+Configured email listeners and worked on message queues as per the application need.
+
+Developed SLAs (Service level Agreements) in Workflows.
+
+Implemented various Agents to generate few reports and files that we need to send to other
+systems.
+
+Configured File listeners and implemented various parsing rules to store the data in our system and
+triggered some functionality as per our requirements.
+
+Involved in Unit Testing, System Integration Testing.
+
+Provided the support during and after the PROD Deployment and fixed so many critical issues on 
+the fly and good coordination with offshore team to achieve the targeted deliveries.
+
+I am the SME for few core functionalities of CCMS like PNP, Image Files, MasterCard and few 
+back office processing.
+
+Set up the calls with Team Members and get the status and discussing any issues.
+
+Daily meeting with Manager/other Leads to give the status updates and discuss project level issues
+Environment: : PRPC V6.2, MS Visio, Web logic Application Server, Java, J2EE, JSP, JDBC, CSS, Java
+Script, HTML, XML, SQL, PL/SQL, Oracle, SOAP, Web services, Windows XP, Unix.
+Bank of New York, NY, USA                                   Dec 2011  Mar 2013
+PEGA Senior System Architect
+Video Teller Machine (VTM) - Contemporary customers desire more convenience for support of their 
+traditional banking center teller type transactions than ever before. Yet, at present banking center hours of 
+service remain generally unchanged mimicking the traditional availability of 9AM to 5PM five days per 
+week, with some service hours at some locations on Saturdays.  Bank of New York desires to exceed 
+customer expectations for those customers in need of a teller to assist with transactions beyond 
+traditional service hours, while at the same time reducing the cost to serve for those types of 
+transactions.  Lowering the cost to serve while creating greater access to the bank for the highly routine 
+Over-The-Counter (OTC) type transactions in banking centers promises to exceed customer needs and 
+ensure the Banks competitive advantage
+Responsibilities:
+
+
+
+Participated in Design Discussions in elaboration phase and UI development.
+
+Worked closely with the business analyst and LSA to understand source data and to develop
+technical solutions.
+
+Involved in designing High Level Class structure in the Application.
+
+Assigned with set of use cases and come up with good design approach, and after peer reviews
+implemented them by adhering to PEGA Guard Rails.
+
+Developed Activities, Decision and Declarative rules in workflow development.
+
+Developed the correspondence rules, Fragments, Paragraphs as per the letter documents.
+
+Developed User Interface Rules (Harness, Section) as required by the application.
+
+Worked on external database configuration and RDB rules to query external database
+
+Created validation rules and workflows to implement business logic validation. 
+
+Developed various SOAP Connectors and Services for integration with External systems.
+
+Developed SLAs (Service level Agreements) in Workflows.
+
+Intensively worked with Clipboard and Tracer for troubleshooting the issues.
+
+Implemented various Agents to generate few reports and files that we need to send to other
+systems.
+
+Configured File listeners and implemented various parsing rules to store the data in our system and
+triggered some functionality as per our requirements.
+
+Involved in Unit Testing, System Integration Testing.
+
+Provided the support during and after the PROD Deployment and fixed so many critical issues on 
+the fly and good coordination with offshore team to achieve the targeted deliveries.
+Environment: : PRPC V6.1, MS Visio, Web logic Application Server, Java, J2EE, JSP, JDBC, CSS, Java
+Script, HTML, XML, SQL, PL/SQL, Oracle, SOAP, Web services, Windows XP, Unix.
+Wachovia  Englewood Cliffs, NJ                                               Aug 2010  Nov 2011
+PEGA System Architect/ Senior Developer
+Impact Mortgage Application enhances paperless Mortgage Loan Process experience for Consumers and
+Provides Speed and Convenience to Mortgage Application which is used by Wachovia to process 1st
+Mortgage and 2nd Mortgage, Refinance and FHA Mortgage Loans. Wachovias new Loan Impact feature
+allows data capture and replication for re-use down the line to continue marketing to customers after a
+session has been interrupted. Mortgage Calculator to save different scenarios of mortgage loan to compare
+Down payment, APR, Monthly payment and calculate application fees and Closing Costs. A rules-based
+pricing engine with component-based system architecture is flexible to the needs of any channel and the
+new system supports all fee scenarios regardless of complexity, Property value information, property
+evaluation. The Escrow Management feature offers accurate and timely loan disbursements. 
+Responsibilities:
+
+Involved in studying the Current Legacy Systems, User Requirement and Creating Design
+Document.
+
+
+
+Involved in Installation and configuration of Weblogic Application Server.
+
+Working with the Business users, Business Leads, and Business Analysts to define business
+requirements for designing, testing, and building Pega systems solutions to meet requirements.
+
+Involved in development of Technical Requirements to provide end state requirements for line of
+business and development team.
+
+Creation of HTML rules, Properties (Data types), Embedded Pages and Correspondences.
+
+Participated extensively in designing application security which involves setting up Access groups,
+Access Roles, Operators, Application ID, Org Divisions, Org Units and Work groups
+
+Developed and designed class structure, workflows as well as integration between systems for
+smooth and optimized operation of systems.
+
+Implementation of Decision tables, Decision Maps and Declarative expressions.
+
+Developed and tested solutions based on the design requirements. 
+
+Understanding various components of the system configuration and applying knowledge to
+conversion issues.
+
+Developed artifacts and workflows while following company standards and guidelines.
+
+Design and development of User Interfaces using JSP, HTML, Java script and CSS.
+
+Used Struts Framework with Hibernate to map to Oracle database.
+
+Developing Action classes, those are used to delegate the request for Business processing.
+
+Developed the application using Servlets, Struts Action classes, Action Forms, JSP and Session
+Beans.
+
+Form Validation using Struts Validation framework.
+
+Developed Web services and written SOAP and created WSDL for web services.
+
+Developed   Stored   procedures,   Packages,   Functions,   cursors   and   database   Triggers   and
+implemented Scrollable Result sets.
+
+Successfully implemented the MVC pattern by writing the JSFs as a view and Managed Beans as
+a model and Faces Servlet is the controller.
+
+Involved in the creation of Custom Validators and Configured in Faces-config.xml.
+
+Developed Sequence, Use Case Diagrams and Process Flow Diagrams.
+Environment: PRPC V6.1, MS Visio, Web logic Application Server, Java, J2EE, JSP, JDBC, CSS, Java
+Script, HTML, XML, SQL, PL/SQL, Oracle, SOAP, Web services, Windows XP, Unix.
+
+
+Bank of America, India                                                                 May 2009  Jul 2010
+PEGA System Architect/ Senior Developer
+Consumer Claims Management System- Bank of America
+ 
+develops a web application- CCMS for its 
+debit &amp; credit card customers. It enables card issuers and acquirers to manage disputes and chargebacks 
+from initiation through resolution-delivering a comprehensive rules-based and image-enabled solution that 
+dramatically reduces the cost by maximizing productivity, minimizing training time and reducing write-
+offs. 
+CCMS is being built on top of Pegas Smart Dispute Framework that comes with credit card 
+reason codes for Visa &amp; MasterCard. SD framework has been extended to accommodate debit 
+card reason codes for Visa &amp; MC as well as the ones for various networks. CCMS will provide 
+claims management functionality for the following 
+LOBs: 
+Debit/ATM Fraud Claims (including Heloc / eloc, eCheck)
+Debit/ATM Non-Fraud Claims (including Heloc/eloc, eCheck, SafeSend)
+ACH (Automated Clearing House)
+ODS (overdraft services)
+CTS (Customer Transaction Solutions)
+The system shall provide ability to grant User access to Claims system, data, and functionality via Role 
+based access controls. It will replace the existing OSCAR interfaces to applications outside PRPC. New 
+automated processes will be introduced which involve creation of new workflows and correspondence.
+Responsibilities:
+
+Assigned with set of use cases and come up with good design approach, and after peer reviews
+implemented them by adhering to PEGA Guard Rails.
+
+Developed Activities, Decision and Declarative rules in workflow development.
+
+Developed the correspondence rules, Fragments, Paragraphs as per the letter documents.
+
+Developed User Interface Rules (Harness, Section) as required by the application.
+
+Worked on external database configuration and RDB rules to query external database
+
+Created validation rules and workflows to implement business logic validation. 
+
+Developed various SOAP Connectors and Services for integration with External systems.
+
+Developed SLAs (Service level Agreements) in Workflows.
+
+Implemented various Agents to generate few reports and files that we need to send to other
+systems.
+
+Configured File listeners and implemented various parsing rules to store the data in our system and
+triggered some functionality as per our requirements.
+
+Involved in Unit Testing, System Integration Testing and provided support during and after the 
+PROD Deployment.
+Environment: : PRPC V5.4 SP2, MS Visio, Web logic Application Server, Java, J2EE, JSP, JDBC, CSS,
+Java Script, HTML, XML, SQL, PL/SQL, Oracle, SOAP, Web services, Windows XP, Unix.
+AIG, Chennai, India
+                                                       Dec 2007  Apr 2009
+PEGA System Architect
+Medical   Underwriting   Review   System-  Underwriters   from   Medical   Underwriting   Review,   Life
+Settlements and Premium Finance Plus to use the same system while processing associated requests
+
+
+relative to the Risk Finance Practice. Claim requests are received through multiple means like Phone,
+email, mobile, which will be created by Front Office user. PEGA interfaces with the document and
+imaging database to retrieve claim application information and validate data based on pre-defined business
+rules which is stored in a rules repository, categorize claims and automatically allot claims to adjusters,
+automatically routes high value claims to Underwriters. After a decision is taken by Underwriter, claim
+routed to operation user for further processing which will be either Resolved or Reopened.
+               
+Responsibilities:
+
+Created Validation rules and Implemented business logic.
+
+Created Activities and used several methods and defining Rule-Utility-Function for common 
+processing.
+
+Implemented Decision tables, Decision Maps and Declarative expressions for auto calculations.
+
+Creating List View and Summary View for reporting purposes.
+
+Creating reports for PAL to display the data in proper format.
+
+Testing and debugging using Tracer, Clipboard and Rules Inspector.
+
+Created several flows to support core functionalities
+
+Worked on all types of rules like Activities, list views, file listeners, Decision and Declarative
+rules, circumstance rules and all kind of Data Instances.
+
+Developed new Application Rule sets, Class Group, Data classes etc.
+
+Defining Harness and Section rules for GUI features.
+
+Creating and tailoring Portals, Gadgets as per the clients requirement.
+
+Created properties and data models for the classes.
+
+Created HTML UI using Rule-HTML harness rules.
+
+Did the code reviews for so many external applications and used the tools like IPMF to log and 
+track any issues.
+Environment: PRPC V4.2 SP4, MS Visio, Web logic Application Server, Java, J2EE, JSP, JDBC, CSS,
+Java Script, HTML, XML, SQL, PL/SQL, Oracle, Windows XP.
+AIG, Chennai, India
+                                                          June 2007  Nov 2007
+Java Developer
+American   International   Workers   Compensation   System   (
+AIWCS)   -  
+The   Specialty   Workers
+Compensation Group  proposes   to  offer  its   customers  a   new  premium  payment  plan for  Workers
+Compensation Insurance. This Plan will tie the amount and the due date of periodic premium payments
+directly to the premium earned, in accordance with customers payroll cycles. It is a variable installments
+plan, based on voluntary self-reporting of payrolls by the customer or its payroll service company at the
+end of each of its payroll periods. The earned premium will be calculated and the sum will be notified back
+to the customer by electronic invoice in e-mails. The customer will be directed to place funds in that
+amount into an electronic-funds-transfer-enabled (EFT or ACH) account or to pay the due amount by
+check. The funds will be pulled promptly if EFT or ACH account is available. After the policy expires, a
+premium audit will be performed, any premium adjustment will be booked, and the difference between the
+total earned premium and the paid premium will be invoiced to the customer.
+Responsibilities:
+
+Requirement analysis and System Design 
+
+Attend review meetings for scheduling, implementation and resolving issues in software 
+development cycle.
+
+Developed code for the assigned requirements using MVC architecture and used Servlets and JSP.
+
+Designed the User Interface to the Client using HTML, JavaScript.
+
+Developed the Server side programs using Servlets, Java Server pages and Java.
+
+
+
+Development of JavaScript for client end data entry validations.
+
+Developed and maintained PL/SQL Stored Procedures
+
+Involved in unit testing by writing test cases, system testing, integration testing and user 
+acceptance testing.                 
+
+Enhanced the performance of the whole application using the Stored Procedures and Prepared 
+Statements.  
+  
+Environment: Java, J2EE, Servlets, JSP, HTML, JavaScript, PL/SQL, JDBC, Tomcat, SQL Server.]]> </ResumeTextFormat></Resume>

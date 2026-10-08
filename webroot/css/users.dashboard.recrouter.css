@@ -1,0 +1,139 @@
+.avatar {
+	float: left;
+	margin-right: 14px;
+	max-width: 45px;
+	position: relative;
+	top: 8px;
+}
+
+.avatar-box {
+	padding-right: 40px;
+}
+
+.avatar-box img {
+	border: 3px solid #c3cddb;
+	margin-bottom: 28px;
+}
+
+.avatar-box p {
+	font-weight: 700;
+	margin-bottom: 12px;
+}
+
+img {
+	vertical-align: middle;
+}
+
+.name {
+	color: #3389d1;
+	display: block;
+	font-weight: 600;
+	font-size: 14px;
+	margin: 15px 0 0 0;
+}
+
+.username {
+	font-size: 12px;
+	margin-left: 0;
+	color: #778391;
+	font-style: italic;
+	margin-top: 0;
+}
+
+table td {
+	color: #526273;
+	border-top-color: #edf2f7 !important;
+	vertical-align: middle !important;
+}
+
+table thead {
+	border-top: 1px solid #dee3ea;
+}
+
+table thead th {
+	font-weight: bold;
+	position: relative;
+	padding-bottom: 20px !important;
+	padding-top: 5px !important;
+	text-transform: uppercase;
+	font-size: 11px;
+	vertical-align: top !important;
+	border-bottom: 0px !important;
+}
+
+table {
+	font-size: 12px;
+}
+
+.left-border {
+	border-left: 1px solid #edeff1;
+	box-shadow: inset 3px 0px 4px -1px #fafafa;
+}
+
+.personal-info label {
+	display: inline-block;
+	float: left;
+	font-weight: 600;
+	font-size: 13px;
+	cursor: auto;
+	width: 20%;
+	margin-right: 10px;
+	text-align: left;
+}
+
+.personal-info .actions {
+	margin-bottom: 25px;
+	margin-top: 20px;
+	width: 100%;
+	padding-right: 70px;
+	float: left;
+	text-align: right;
+}
+
+.personal-info .actions input.submit {
+	text-transform: uppercase;
+	color: #7e91aa;
+	font-weight: 600;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 2px 0 8px;
+}
+
+.personal-info input.reset {
+	color: #7e91aa;
+	font-weight: 500;
+}
+
+/* responsive */
+@media (max-width: 768px) {
+	.avatar-box {
+		text-align: center;
+	}
+	
+	.personal-info {
+		border: 0 none;
+		box-shadow: none;
+		margin-top: 40px;
+	}
+	
+	.personal-info .actions {
+		text-align: center;
+	}
+	
+	.personal-info form {
+		margin-left: 0;
+		padding: 0px 10px 0px 10px;
+	}
+}
+@media (min-width: 768px) and (max-width: 979px) {
+
+	.avatar-box {
+		text-align: center;
+		margin-bottom: 20px;
+	}
+
+	.personal-info {
+		border-left: 0px;
+		box-shadow: none;
+	}
+}

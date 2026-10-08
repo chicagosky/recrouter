@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Resume><ResumeId ResumeParserProductName="RecruitPlus Resume Parser"><ResumeParserOrgName>ITCONS e-Solutions Private Limited</ResumeParserOrgName></ResumeId><StructuredXMLResume><ContactInfo><PersonName><FullName>Sachin Mantri</FullName><GivenName>Sachin</GivenName><MiddleName /><FamilyName>Mantri</FamilyName></PersonName><ContactMethod><Telephone><PhoneBasic>5133992528</PhoneBasic></Telephone><Mobile><phone_Mobile /></Mobile><Fax><FaxPhone /></Fax><InternetEmailAddress>sachin.mantri@gmail.com</InternetEmailAddress><InternetEmailAddress /><PostalAddress><CountryName>Usa</CountryName><Region>in </Region><City /><PostalCode /><DeliveryAddress><AdressLine1>Recent Appreciation's, </AdressLine1><AdressLine2 /></DeliveryAddress></PostalAddress></ContactMethod></ContactInfo><ExecutiveSummary /><Objective /><Role /><FunctionalArea /><IndustryType /><EmploymentHistory><TotalExperience>11Year(s) &amp; 5Month(s)</TotalExperience><TotalProjectExperience>11Year(s) &amp; 1Month(s)</TotalProjectExperience><CurrentSalary /><ExpectedSalary /><EmployerOrg><EmployerOrgName>Wipro Technologies</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Technology Manager/ Sr.Architect</Title><OrgName><OrgName>Wipro Technologies</OrgName></OrgName><Description>2.  Technology Manager/ Sr.Architect  at  Chemical &amp; sales distribution company, USA (Aug'11 to Dec'12)  Project Description: Co Managed project by customer and Wipro. This is a green field initiative involving setup of new datacenter. On integration front - setup of new integration environment, upgrading (wM 7.1 to wM 8.2) and development covering 400+ Interfaces and 150 Partners. This is a fixed price project of $2.5 M  Responsibility:    Immediately after sales, Instrumental in kicking of the Due Diligence phase of the project. Helped discovered majority of the unknowns during initial phase of this green field project   Responsible for discussion with technical and business team to collate the requirement and perform important POVs   Responsible for providing Recommendations to customer on webMethods components to be purchased.   Responsible for Architecture and Design.    Responsible for overall planning, setup and Build the team of 30+ people, mentored and got the project Implementation phase kicked off from Offshore Wipro center.   Responsible for Defect free delivery with every changing requirement for $1.7 M Project  Team Size: 32 - 40 Technology Environment: webMethods Integration server ,  Broker, TN, Integration server, JDBC, SAP, Adapters,</Description><StartDate><AnyDate>8/1/2011</AnyDate></StartDate><EndDate><Anydate>12/1/2012</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>CIDX, Elemica, VAN</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Manager</Title><OrgName><OrgName>CIDX, Elemica, VAN</OrgName></OrgName><Description>9.  Project Manager at a Sugarcane Company, firm, USA      (Jan '08 - June'08) Florida Crystals is one of the First fully integrated Sugarcane Company in the United States, taking products from its farms to the table. Florida Crystals are the pioneers of organic rice and organic sugar in USA. Their current EDI implementation is in GENTRAN EDI tool. To meet up with their steadily growing partners and for varied Business requirements of data exchange with partners; they have chosen webMethods for their new EDI Implementations. As part of this new implementation, Florida Crystals EDI Migration project, 40+ EDI maps will be moved to the webMethods Environment from GENTRAN. This would also involve providing a robust EDI and Error Handling Framework keeping in view their future needs. Responsibilities    Responsible for project initiation.    Responsible for setting up the project execution guideline to be followed for project tracking and Developer.   Responsible for delivery from offshore.   Responsible for estimation, project plan, resource planning, and allocation.   Responsible for setting up the quality process, at the same time responsible to make sure that team follows quality process and best development practices   Responsible for ramping up a team of resources with specialized skill sets (webMethods 7.1.2)   Responsible for setting up the Quality process and Risk Management approach. Team Size: 3 Technology Environment: webMethods 7.1.2, Broker, SAP Adapter, JDBC Adapter and TN. 10. Project Manager at a Telecom firm, UK      (Aug '07 - Dec '07) COLT is a leading provider of data, voice and managed services to business and government customers in Europe. This is a high visibility project in colt and knows as ‘COLT Online'. This provide feature like view bills, download call detail records, manage tickets and track orders/services to customers. Responsibilities    Responsible for project initiation.   Responsible for estimation, project plan, resource planning, and allocation.   Responsible for setting up the project execution guideline to be followed for project tracking and Developer.   Responsible for complete project delivery from design, development, SIT, UAT, Pre-prod Till Go-live.   Responsible for setting up the quality process, at the same time responsible to make sure that team follows quality process and best development practices   Responsible for setting up the Quality process and Risk Management approach.   Responsible for customer resources and other Vendor resource Team Size: 7 Technology Environment: WebMethods Integration Server 6.5, JDBC adapter, Remedy Adapter (Custom Adapter), Broker.</Description><StartDate><AnyDate>1/1/2008</AnyDate></StartDate><EndDate><Anydate>6/1/2008</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Roles</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Electronics Manufacturing Services</Title><OrgName><OrgName>Roles</OrgName></OrgName><Description>1.  Project Lead at a leader in Electronics Manufacturing Services, USA (March '06 - July '07) Avnet, Inc.  Is one of the world's largest B2B distributors of semiconductors, interconnect, passive and electromechanical components, enterprise network and computer equipment, and embedded subsystems from leading manufacturers. Serving customers in 70 countries. This project is mainly involved in Implementation of sales and distribution business area to enabled Avnet to set up a user-friendly, self-service interface for customers to place and manage their own orders. It contains customer Supplier B2B as well as A2A interfaces like Customer supplier, DataNotifications. Responsibilities    Responsible for setting up the project execution guideline to be followed for project tracking and Developer.   Responsible for design and code delivery.   Requirement and GAP Analysis.    Responsible for setting up the onsite-offshore model.   Responsible for setting up the quality process, at the same time responsible to make sure that team follows quality process and best development practices Team Size: 6 Technology Environment: WebMethods Integration Server 6.5, JDBC adapter, Service Net, Glue, Solstice Integra.</Description><StartDate><AnyDate>3/1/2006</AnyDate></StartDate><EndDate><Anydate>7/1/2007</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>dealers. The dealer</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Benefit Recovery System</Title><OrgName><OrgName>dealers. The dealer</OrgName></OrgName><Description>June ‘03 -  June ‘04 IBRS is a consolidated Benefit Recovery System application that shall maintain all clients, Budget, claims and payment data on a single, web-enabled platform for the purpose of simplifying the claims, collections, accounting and reporting activities of the Benefit Recovery management and staff. The new system shall make the determination of overpayment and collection of the overpaid funds efficient and effective. It shall minimize errors and improve the amount of collections by reducing manual tracking, repetition and rote tasks. It shall provide historical, demographic and budget data in an easy to access form. The development requires invoking some of the FLORIDA transactions held on the Mainframe system (OS/390). JAM connectivity from Web Logic server to Mainframe would enable invoking real and batch transactions on the FLORIDA mainframe services.  10  Responsibilities:    Developer,   Onsite module lead for JAM testing   Onsite UAT support Team Size: 12 Technology  Environment:  EJB2.0,  Servlet2.2,  JSP1.1,  MS  SQL  Server  2000,  Weblogic  7.0,  JAM5.0,  JDK1.2, Eclipse</Description><StartDate><AnyDate>6/1/2003</AnyDate></StartDate><EndDate><Anydate>6/1/2004</Anydate></EndDate></PositionHistory></EmployerOrg></EmploymentHistory><EducationHistory /><LicensesAndCertifications><LicenseOrCertification /><Name>PMP,Project Management Professional</Name></LicensesAndCertifications><Qualifications><Competency Name="Retail"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Pipeline"><LastUsedDate></LastUsedDate></Competency><Competency Name=" JDBC"><LastUsedDate>12/1/2012</LastUsedDate></Competency><Competency Name=" Due Diligence"><LastUsedDate></LastUsedDate></Competency><Competency Name=" SAP"><LastUsedDate>12/1/2012</LastUsedDate></Competency><Competency Name=" Blaze"><LastUsedDate></LastUsedDate></Competency><Competency Name=" ODS"><LastUsedDate></LastUsedDate></Competency><Competency Name=" EDI"><LastUsedDate>6/1/2008</LastUsedDate></Competency><Competency Name=" GENTRAN"><LastUsedDate>6/1/2008</LastUsedDate></Competency><Competency Name=" Telecom"><LastUsedDate>6/1/2008</LastUsedDate></Competency><Competency Name=" UAT"><LastUsedDate>6/1/2008</LastUsedDate></Competency><Competency Name=" WebMethods"><LastUsedDate>6/1/2008</LastUsedDate></Competency><Competency Name=" CSR"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Requirement Analysis"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Rational Rose"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Test Support"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Budget"><LastUsedDate>6/1/2004</LastUsedDate></Competency><Competency Name=" Mainframe"><LastUsedDate>6/1/2004</LastUsedDate></Competency><Competency Name=" JAM"><LastUsedDate>6/1/2004</LastUsedDate></Competency><Competency Name=" Web Logic"><LastUsedDate></LastUsedDate></Competency><Competency Name=" SQL"><LastUsedDate>6/1/2004</LastUsedDate></Competency><Competency Name=" Weblogic"><LastUsedDate>6/1/2004</LastUsedDate></Competency><Competency Name=" Eclipse"><LastUsedDate>6/1/2004</LastUsedDate></Competency><Competency Name=" PMP"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Oracle"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Solaris"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Databases"><LastUsedDate></LastUsedDate></Competency><Competency Name=" JBuilder"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Jboss"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Java"><LastUsedDate></LastUsedDate></Competency><Competency Name=" SOAP"><LastUsedDate></LastUsedDate></Competency><Competency Name=" SOAP"><LastUsedDate></LastUsedDate></Competency><Competency Name=" XML"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Rational"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Mercury"><LastUsedDate></LastUsedDate></Competency><Competency Name=" PM"><LastUsedDate></LastUsedDate></Competency><Competency Name=" Microsoft Project"><LastUsedDate></LastUsedDate></Competency></Qualifications><languages><language><languagesCode /></language></languages></StructuredXMLResume><ResumeAdditionalItems><ResumeAdditionalItem type="Personal"><FatherName /><DateOfBirth /><Age /><Gender>Unspecified</Gender><Nationality /><MaritalStatus>Unspecified</MaritalStatus><PassportNo /><VisaStatus /><Currentlocation /></ResumeAdditionalItem><ResumeAdditionalItem type="Resume Parsing Information"><ResumeParsingStartDate>11/12/2014 12:00:00 AM</ResumeParsingStartDate><ResumeParsingExpiryDate>11/27/2014 12:00:00 AM</ResumeParsingExpiryDate><NumberOfParsedResume>21</NumberOfParsedResume><MaxLimitOfParsedResume>100</MaxLimitOfParsedResume></ResumeAdditionalItem></ResumeAdditionalItems><ResumeContext /><ResumeTextFormat> <![CDATA[ 
+Sachin Mantri
+:  
+www.linkedin.com/pub/sachin-mantri/4/667/958
+ 
+ 
+Sachin  Mantri  is  currently  a  Technology  Manager/  Sr.  Architect  in  Wipro  Technologies  responsible  for  leading  and 
+implementing large integration projects involving webMethods product suite. He brings 11 yrs of experience in application 
+integration space, with 5+ years of project management and 10+ yrs of Design/development experience in implementation 
+of  middleware  solutions  using  webMethods.  He  has  managed,  designed,  architected  and  implemented  large-scale 
+integration  solutions  using  the  webMethods  suite  of  products.  Sachin  has  worked  closely  with  senior  executives,  IT 
+managers,  Developers  and  Testers  to  arrive  at  a  comprehensive  solution  to  address  Integration  complexities.  He 
+possesses  rich  and  practical  knowledge  of  full  Integration  activities  -  from  requirement  gathering,  designing,  coding, 
+testing (unit/system/integration/UAT), implementation and post implementation support. He is responsive to change and 
+innovation,  very  keen  on  processes  and  development.  He  is  result  driven  professional.  During  his  consulting  and 
+customer facing experience, Sachin has conducted several training sessions to his peers, sub ordinates and customer IT 
+teams. 
+Sachin has ability to deal with complex, detailed technical and business requirements and effectively manage the client 
+expectations in large projects. He is experienced in driving productivity and operational excellence to identify opportunities 
+for improvement. He has rich experience in initiation of new customer engagements working at various customer locations 
+managing  multiple  projects.  He  is  also  been  involved  in  various  proposal  activities,  pre-sales  activity  and  client 
+engagement presentations and discussions for various new potential clients with a  high success rate of converting it to 
+long term relationship. 
+Contact Information: 
+1.  Mobile @ 513-399-2528 
+2.  Email : sachin.mantri@gmail.com 
+Recent Appreciation’s: 
+3.  2012:  Project  Received  the  Best  executed  project  award  within  BU,  WIPRO.  Also  received  number  of 
+appreciation at Practice Level eg : feather in Cap’July 12 
+4.  2011: Sachin has received a ‘SPOT LIGHT’ Award from Member of Executive Board, SoftwareAG for Delivery of 
+a highly Business Important project with great Quality and on Time, this was involving BPMS and CAF. This 
+project was used as ‘Showacase’ project by SoftwareAG sales to win number of deals. 
+ACADEMIC BACKGROUND 
+PG in Systems 
+    
+Symbiosis
+ 
+Center of Information Technology, Pune (2001-2003) 
+Certifications 
+1.
+  Certified Project Management Professional (PMP : 1411844
+)
+ 
+2.  Wipro Certified Project Management Professional 
+3.  webMethods 8 &amp; 7 Certified Integration Developer 
+4.  webMethods 8 &amp; 7 Certified BPMS Developer 
+Sachin Mantri   
+1
+ 
+1 
+
+
+EXPERIENCE SUMMARY 
+Wipro Technologies                                                                Aug’2011 – Till Date
+ 
+Roles 
+ 
+Technology Manager/ Sr. Architect
+ 
+ 
+Key Projects Includes : 
+1.  Technology Manager/ Sr.Architect  at  world leader in Retail / Wholesale Banking, USA ( Jan’13 – Till date)  
+ 
+  Project Name  : WebMethods Competency center (WMCC) 
+  Project Description:  
+ 
+a.  Pipeline management and Scoping: Early involvement WMCC resources for project scoping and estimations 
+will help streamline and coordinate project team initiations. WMCC also provides a framework for the support 
+model for all integration applications developed and deployed for Fifth Third. WMCC will assess the 
+requirements, develop the SOWs and spins-off support projects.  
+b.  Support Project Implementations and post-implementation support models : WMCC spins-off the project for 
+onshore-offshore execution. This changes its role to be a monitoring and consulting group to project teams. 
+WMCC will assist project teams in all phases to ensure smooth execution and deployment of projects 
+c.  To maintain the repository of knowledge management: WebMethods Competency center will maintain the 
+repository of knowledge management – collection of documents, reusable code, and learning’s. The objective 
+will be to reuse the learning’s and code across projects. Following activities would be in scope. 
+ 
+  Responsibilities: 
+ 
+  Coordination among various groups and stakeholders for successful project execution 
+  Requirements gathering from end uses and developing Business, Functional and non-Functional 
+requirements 
+  Participating in Architectural and Functional reviews 
+  Develop webMethods solution using webservices, pub-sub mechanism. 
+  Coordinating with offshore counterparts for technical deliverables 
+  Quality, Issue and Risk Management and corrective, preventive planning 
+ 
+Supporting for User Accepting Testing
+ 
+ 
+Team Size: 15 - 20 
+ 
+Technology Environment: webMethods Integration server ,  Broker, Integration server, JDBC, SAP Adapters, FIX 
+etc 
+ 
+2.  Technology Manager/ Sr.Architect  at  Chemical &amp; sales distribution company, USA (Aug’11 to Dec’12) 
+ 
+Project Description: Co Managed project by customer and Wipro. This is a green field initiative involving setup of 
+new datacenter. On integration front – setup of new integration environment, upgrading (wM 7.1 to wM 8.2) and 
+development covering 400+ Interfaces and 150 Partners. This is a fixed price project of $2.5 M 
+ 
+Responsibility: 
+ 
+  Immediately after sales, Instrumental in kicking of the Due Diligence phase of the project. Helped discovered 
+majority of the unknowns during initial phase of this green field project  
+  Responsible for discussion with technical and business team to collate the requirement and perform important 
+POVs 
+  Responsible for providing Recommendations to customer on webMethods components to be purchased. 
+  Responsible for Architecture and Design. 
+Sachin Mantri   
+1
+ 
+2 
+
+
+  Responsible for overall planning, setup and Build the team of 30+ people, mentored and got the project 
+Implementation phase kicked off from Offshore Wipro center. 
+  Responsible for Defect free delivery with every changing requirement for $1.7 M Project 
+ 
+Team Size: 32 - 40 
+Technology Environment: webMethods Integration server ,  Broker, TN, Integration server, JDBC, SAP, Adapters, 
+CIDX, Elemica, VAN 
+Software AG                                                                             Aug 2007 – Aug 2011
+ 
+Roles 
+ 
+Technical Project Manager, Onsite Lead
+ 
+ 
+Key Projects include: 
+1.  Technical Project Manager at a Software Product company , Germany 
+(Oct’10 – Aug’11) 
+Responsibilities
+: 
+  Responsible for understanding the requirement and designing the process model for the companies Product 
+development Process.  
+  Responsible for project end to end delivery – Requirement gathering, Design, Development, testing, quality. 
+Team Size: 10 
+Technology Environment: webMethods 8 Broker, BPMS, CAF JDBC Adapter and webservices 
+ 
+2.  Technical Project Manager For Media picture company, USA 
+(Aug’10 – Oct’10) 
+Responsibilities
+: 
+  Responsible for UI Development using CAF. 
+  Responsible for understanding the requirement and designing the process model for the companies Product 
+development  Process.  
+  Responsible for project end to end delivery – Requirement gathering, Design, Development, testing, quality. 
+Team Size: 12 
+Technology Environment: webMethods 8 Broker, BPMS, CAF JDBC Adapter and webservices
+ 
+ 
+3.  Technical Project Manager at a Software Product company , Germany 
+(May’10 – Aug’10) 
+Responsibilities
+: 
+  Responsible for UI Development using CAF. 
+  Responsible for understanding the requirement and designing the process model for the companies HR Process.  
+  Responsible for project end to end delivery – Requirement gathering, Design, Development, testing, quality. 
+Team Size: 4 
+Technology Environment: webMethods 8 Broker, BPMS, CAF JDBC Adapter and webservices 
+ 
+4.  Project Manager at a world leader in Wholesale Banking , UK 
+(Jan’10 – Arpil’10) 
+It  is migration of the current risk settlement engine from the old technology to BPMS product suit.  
+Sachin Mantri   
+1
+ 
+3 
+
+
+Responsibilities
+: 
+  Responsible for Stakeholder/ Business management. 
+  Involved in estimation, project plan, resource planning, and allocation. 
+  Responsible for enhancing  the quality process, at the same time responsible to make sure that team follows 
+quality process and best development practices    
+  Responsible for project end to end delivery – Requirement gathering, Design, Development, testing, quality. 
+Team Size: 12  
+Technology Environment: webMethods 7.1.2, Broker, BPMS, CAF JDBC Adapter and webservices , Blaze 
+5.  Integration  Manager at a world leader in semiconductor company, France 
+(April’09 – Dec’09) 
+Over the period customer started using different systems as a part of enterprise and lately realize the necessity of 
+same information across the Enterprise, without replacing any of the existing system. This project is aims at getting 
+ODS (DB) and MOdelN share the data real time and have real time information available across the enterprise 
+irrespective of the system. 
+Responsibilities
+: 
+  Responsible for scoping out  the interface requirements from among the overall requirements 
+  Involved in estimation, project plan, resource planning, and allocation. 
+  Responsible for enhancing  the quality process, at the same responsible to make sure that team follows quality 
+process and best development practices    
+  Responsible for project end to end delivery – Development, testing, quality. 
+  Responsible for overall design and development. 
+Team Size: 3 Client resources 
+Technology Environment: webMethods 7.1.2, Broker, JDBC Adapter and webservices  Adapter.  
+ 
+6.  Account/Delivery/Resource Manger for following accounts (Jan’08 – Mar’09) 
+Team Size: 30 
+ 
+6.1.  World leader in Electronics Manufacturing Services, USA –  (July’08- Mar’09) 
+Responsibilities
+: 
+  Responsible for Project initiation, execution and on-time delivery. 
+  Responsible to review and validate the estimation and work allocation. 
+  Single point of contact for all the Escalations. 
+  Responsible for setting up the governance, communication, reporting process. 
+ 
+6.2.  A global expert services and consulting firm, USA   – (July’08- Mar’09) 
+Responsibilities
+: 
+  Responsible for Project initiation and on-time delivery. 
+  Responsible to review and validate the estimation and work allocation. 
+  Single point of contact for all the Escalations. 
+  Responsible for setting up the governance, communication, reporting process. 
+Sachin Mantri   
+1
+ 
+4 
+
+
+ 
+6.3.  Major semiconductor firm, France      – (July’08- Mar’09) 
+Responsibilities
+: 
+  Responsible for proposal creation and presentation for one of the high priority ERP SAP implementation for 
+customer. 
+  Responsible to review and validate the estimation against the scope of work. 
+  Responsible to resource the BPM consultants. 
+  Single point of contact for all the Escalations. 
+  Responsible for setting up the governance, communication, reporting process. 
+ 
+6.4.  Semiconductor networking solutions firm, USA  – (Nov’08- Mar’09) 
+This is one of the first offshore driven support and Maintenance project with a long term contract for PS India. 
+Responsibilities
+: 
+  Responsible for Project initiation and on-time delivery. 
+  Responsible to review and validate the estimation against the scope of work. 
+  Single point of contact for all the Escalations. 
+  Responsible for setting up the governance, communication, reporting, transition process. 
+ 
+As per customer requirement responsible for more resources for different project
+ 
+ 
+6.5.  webMethods Education Services resources Manager - ( July’08 – Mar’09) 
+ 
+Responsibilities
+: 
+  Responsible to understand customer expectation and suggest them the best suited course for their team. 
+  Identify the best resource to deliver the course. 
+  Single point of contact for all the Escalations. 
+ 
+During H2, 2008 delivered 12-15 courses which were a significant increase in number of training delivered in 
+the past.
+ 
+ 
+6.6.  Customer Presentations                   - ( Jan’08 – Mar’09) 
+Responsibilities
+: 
+  Understand the customer requirement. 
+  Prepare presentation with good idea of customer requirement. 
+  Present the presentation to customer showcasing PS India capabilities and Delivery maturity  
+ 
+Successful in converting most of these presentations to long term deals.  
+ 
+7.  Project Manager at a world leader in digital media creation tools company, USA 
+(Feb’09 – March’09) 
+Sachin Mantri   
+1
+ 
+5 
+
+
+Over the period customer started using different systems as a part of enterprise and lately realize the necessity of 
+same information across the Enterprise, without replacing any of the existing system. This project is aims at getting 
+ERP (SAP), ODS (DB) and SFDC share the data real time and have real time information available across the 
+enterprise irrespective of the system. 
+Responsibilities
+: 
+  Responsible for project initiation. 
+  Responsible for scoping out  the interface requirements from among the overall requirements 
+  Involved in estimation, project plan, resource planning, and allocation. 
+  Responsible for setting up the quality process, at the same responsible to make sure that team follows quality 
+process and best development practices    
+  Responsible for ramping up a team of resources with specialized skill sets (webMethods 7.1.2) 
+  Responsible for project end to end delivery – Development, testing, quality and testing. 
+  Responsible for Quality, Risk Management. 
+Team Size: 5 
+Technology Environment: webMethods 7.1.2, Broker, SAP Adapter, JDBC Adapter and SFDC Adapter.  
+ 
+8.  Project Manager at a world leader in manufacturing of home improvement and building products 
+firm, USA 
+(July ’08 – Jan’09) 
+EDI Migration of 250 unique maps over a very short period of 5 months, with most maps are medium to highly 
+complex. 
+Responsibilities
+: 
+  Responsible for project initiation. 
+  Responsible for setting up the project execution guideline to be followed for project tracking and Developer. 
+  Responsible for delivery from offshore. 
+  Provided input on offshore estimation, project plan, resource planning, and allocation. 
+  Responsible for setting up the quality process, at the same time responsible to make sure that team follows 
+quality process and best development practices    
+  Responsible for ramping up a team of resources with specialized skill sets (webMethods 7.1.2) 
+  Responsible for setting up the Quality process and Risk Management approach. 
+Team Size: 5 
+Technology Environment: webMethods 7.1.2, Broker, SAP Adapter, JDBC Adapter and TN . 
+ 
+9.  Project Manager at a Sugarcane Company, firm, USA              (Jan ’08 – June’08) 
+Florida Crystals is one of the First fully integrated Sugarcane Company in the United States, taking products from its 
+farms to the table. Florida Crystals are the pioneers of organic rice and organic sugar in USA. Their current EDI 
+implementation is in GENTRAN EDI tool. To meet up with their steadily growing partners and for varied Business 
+requirements of data exchange with partners; they have chosen webMethods for their new EDI Implementations. As 
+part of this new implementation, Florida Crystals EDI Migration project, 40+ EDI maps will be moved to the 
+webMethods Environment from GENTRAN. This would also involve providing a robust EDI and Error Handling 
+Framework keeping in view their future needs. 
+Responsibilities
+: 
+  Responsible for project initiation. 
+Sachin Mantri   
+1
+ 
+6 
+
+
+  Responsible for setting up the project execution guideline to be followed for project tracking and Developer. 
+  Responsible for delivery from offshore. 
+  Responsible for estimation, project plan, resource planning, and allocation. 
+  Responsible for setting up the quality process, at the same time responsible to make sure that team follows 
+quality process and best development practices    
+  Responsible for ramping up a team of resources with specialized skill sets (webMethods 7.1.2) 
+  Responsible for setting up the Quality process and Risk Management approach. 
+Team Size: 3 
+Technology Environment: webMethods 7.1.2, Broker, SAP Adapter, JDBC Adapter and TN. 
+10. Project Manager at a Telecom firm, UK      (Aug ’07 – Dec ’07) 
+COLT is a leading provider of data, voice and managed services to business and government customers in Europe. 
+This is a high visibility project in colt and knows as ‘COLT Online’. This provide feature like view bills, download call 
+detail records, manage tickets and track orders/services to customers. 
+Responsibilities
+: 
+  Responsible for project initiation. 
+  Responsible for estimation, project plan, resource planning, and allocation. 
+  Responsible for setting up the project execution guideline to be followed for project tracking and Developer. 
+  Responsible for complete project delivery from design, development, SIT, UAT, Pre-prod Till Go-live. 
+  Responsible for setting up the quality process, at the same time responsible to make sure that team follows 
+quality process and best development practices    
+  Responsible for setting up the Quality process and Risk Management approach. 
+  Responsible for customer resources and other Vendor resource 
+Team Size: 7 
+Technology Environment: WebMethods Integration Server 6.5, JDBC adapter, Remedy Adapter (Custom Adapter), 
+Broker. 
+ 
+ 
+ 
+FCS (Frontline consulting services)                                       March ‘06 – July ‘07
+ 
+Roles 
+ 
+Project Lead
+ 
+ 
+1.  Project Lead at a leader in Electronics Manufacturing Services, USA (March ’06 – July ’07) 
+Avnet, Inc.  Is one of the world's largest B2B distributors of semiconductors, interconnect, passive and 
+electromechanical components, enterprise network and computer equipment, and embedded subsystems from 
+leading manufacturers. Serving customers in 70 countries. This project is mainly involved in Implementation of sales 
+and distribution business area to enabled Avnet to set up a user-friendly, self-service interface for customers to place 
+and manage their own orders. It contains customer Supplier B2B as well as A2A interfaces like Customer supplier, 
+DataNotifications. 
+Responsibilities
+: 
+  Responsible for setting up the project execution guideline to be followed for project tracking and Developer. 
+  Responsible for design and code delivery. 
+  Requirement and GAP Analysis. 
+Sachin Mantri   
+1
+ 
+7 
+
+
+  Responsible for setting up the onsite-offshore model. 
+  Responsible for setting up the quality process, at the same time responsible to make sure that team follows 
+quality process and best development practices    
+Team Size: 6 
+Technology Environment: WebMethods Integration Server 6.5, JDBC adapter, Service Net, Glue, Solstice Integra. 
+ 
+ 
+Caritor India Pvt Ltd (now Keane)                                              May ‘03 – Feb ‘06
+ 
+Roles 
+ 
+Module Lead 
+ 
+ 
+1. 
+Project Lead at a Major telecom company, Uk (ERP Retail)
+ 
+April ‘05 – Feb ‘06
+ 
+All Data sent from SAP to PCMS is master data, which is sent nightly (if new or changed Information is available). The 
+effect of a delay in data reaching the Till is that new products / prices / promotions etc will not be available in the 
+morning to the store. All error recovery procedures are set to ensure data is re-sent before the next nightly run to 
+ensure the new data is in the stores by the next morning. The maximum delay to the business should therefore be 
+one day. 
+Responsibilities
+: 
+  Implemented change request,  
+  Bug fixing and implementation of the same to production. 
+  Follow best development practices    
+Team Size: 6 
+Technology Environment: WebMethods (MQ Adapter,  SAP Adapter, Integration Server 6.0/6.1) 
+ 
+2. 
+Project Lead at a Major telecom company, Uk (PAYG Registration Refresh)
+ 
+July ‘05 – Oct ‘05
+ 
+The Orange’s major retail partners have highlighted the in-store processes for PAYG as a  
+Key factor limiting sales of PAYG handsets. The project is to improve the in-store experience for dealers by delivering  
+  Activation of a pre-activated sim on first top-up, or on first in-bound connected call 
+  Avoid the need for the dealer to swap the pre-activated sim in the handset box with a non-activated sim from 
+a sim-only pack when processing an upgrade 
+  Remove the need for an in-store CSR call in order to process an upgrade, i.e. to automate the in-store 
+upgrade process 
+  Allow rollout of improvements to the in-store process to all non-direct sales channels by providing sufficient 
+capacity for pre-activation and for the additional sim dormancy levels that are expected 
+Responsibilities
+: 
+  Requirement Analysis,  
+  High Level Design,  
+  Onsite Coordinator  
+Team Size: 15 
+Sachin Mantri   
+1
+ 
+8 
+
+
+Technology Environment: WebMethods (MQ Adapter, EJB Adapter, SOAP Services, Modeler, Broker, Integration 
+Server 6.0/6.1, Rational Rose) 
+ 
+ 
+3.  Designer at a Major telecom company, Uk (PAYG Tariff Refresh) 
+June ‘05 – Aug ‘05
+ 
+The Tariff Refresh project is part of the Pay As You Go (PAYG) Refresh programme. PAYG revenue has been 
+declining since Q2 2004; this has been attributed in part to the perception that Orange core tariffs are inflexible and 
+uncompetitive. The purpose of this project is to deliver a new more competitive core tariff which can be combined with 
+one of three types of ‘rewards’ (High Value Reward, Airtime Credit, and Online Offer).  
+Responsibilities
+: 
+  Requirement Analysis,  
+  Design,  
+  Implementation development,  
+  Test Support,  
+ 
+Team Size: 1 
+Technology Environment: WebMethods (MQ Adapter, EJB Adapter, SOAP Services, Broker, Integration Server 
+6.0/6.1,Rational Rose) 
+ 
+4. 
+Designer at a Major telecom company, Uk (ISHOP)
+ 
+Dec ‘04 – May ‘05 
+The Integrated Shop project is to provide a strategic web shop based upon key Orange. Technologies and delivering 
+integration with backend systems such that orders are validated while the customer is on-line and the processing of 
+orders are automated 
+Responsibilities: 
+  Architect  
+Team Size: 7 
+Technology Environment: WebMethods (MQ Adapter, EJB Adapter, JDBC Adapter, SAP Adapter, SOAP Services, 
+Modeller, Integration Server 6.0/6.1) 
+ 
+5. 
+Technical Lead at a Major telecom company, Uk (Enable Evolution Upgrade)
+ 
+Dec ‘04 – May ‘05 
+Enable Evolution upgrade was developed to be the centralized online. Upgrade system for dealers. The dealer can 
+directly interact with the Enable system using a browser-based client over the Internet. 
+Responsibilities: 
+  Requirement Analysis,  
+  Design,  
+  Onsite Coordinator,  
+  Test Support,  
+  implementation 
+Team Size: 6 
+Sachin Mantri   
+1
+ 
+9 
+
+
+Technology Environment: WebMethods (MQ Adapter, EJB Adapter, Integration Server 6.0/6.1) 
+ 
+6.  Sr.Developer/ Technical Lead at a Major telecom company, Uk (SBSS(Small Business self services 
+)) 
+Oct ‘04 – Nov ‘04 
+The objective of this project is to exploit the business benefits of self service in the small business sector. These 
+benefits can be summarized as lower cost to serve, improved and more direct customer relationship, increased 
+marketing opportunities through more frequent contact, all leading to an improvement in the perception of Oranges 
+abilities in this market sector. This will effectively translate as tailoring the existing Consumer Self Service system to 
+the specific needs of the Small Business community. 
+. 
+Responsibilities: 
+  Requirement Analysis,  
+  Design,  
+  Development, 
+  Test Support,  
+  implementation 
+Team Size: 2 
+Technology Environment: WebMethods (MQ Adapter, EJB Adapter, JDBC Adapter, Integration Server 6.0) 
+ 
+7.  Sr.Developer at a Major telecom company, Uk (D2SAP(Direct to SAP)) 
+July ‘04 – Sept ‘04 
+The project was formulated to design the flat files for the daily IDOC generated by SAP System for purchase order, 
+Delivery note, Material Master Etc.It was also designed to create IDOC for the supplied in flat files for 
+StockStatusChange, StorageLocationMove
+)
+. 
+. 
+Responsibilities: 
+  LLD Design,  
+  Development,  
+  Test Support ,  
+  implementation  
+Team Size: 1 
+Technology Environment: WebMethods (SAP Adapter, Flat File Adapter, Broker, Integration Server 6.1) 
+8.  Module Lead/ Developer at a Public sector firm Florida, US ((IBRS integrated Benefit recovery 
+system)) 
+June ‘03 –  June ‘04 
+IBRS is a consolidated Benefit Recovery System application that shall maintain all clients, Budget, claims and 
+payment data on a single, web-enabled platform for the purpose of simplifying the claims, collections, accounting and 
+reporting activities of the Benefit Recovery management and staff. The new system shall make the determination of 
+overpayment and collection of the overpaid funds efficient and effective. It shall minimize errors and improve the 
+amount of collections by reducing manual tracking, repetition and rote tasks. It shall provide historical, demographic 
+and budget data in an easy to access form. The development requires invoking some of the FLORIDA transactions 
+held on the Mainframe system (OS/390). JAM connectivity from Web Logic server to Mainframe would enable 
+invoking real and batch transactions on the FLORIDA mainframe services. 
+Sachin Mantri   
+1
+ 
+10 
+
+
+. 
+Responsibilities: 
+  Developer,  
+  Onsite module lead for JAM testing 
+  Onsite UAT support  
+Team Size: 12 
+Technology  Environment:  EJB2.0,  Servlet2.2,  JSP1.1,  MS  SQL  Server  2000,  Weblogic  7.0,  JAM5.0,  JDK1.2, 
+Eclipse 
+TECHNICAL PROFICIENCY 
+Systems Software, Applications and Standards 
+  webMethods 7.x/6.x/4.x Platform  webMethods Trading Networks 
+JDBC,  Oracle  Applications,    EDI,  OAG 
+Windows 95/98/NT/2000, Solaris - UNIX 
+standards , JDBC adapter, SAP adapter 
+Databases (Oracle, SQLServer)  Eclipse, JBuilder (IDE’s) 
+Application servers (Weblogic, Jboss)  Java, SOAP, XML, SQL 
+Rational  Clear  Case,  Microsoft  Visual      
+Source  Safe,  Mercury  Test  Director,   
+Subversion 
+Management PROFICIENCY 
+  Understand  and  implemented  PM 
+Microsoft Project plan 
+methodology 
+Understand  and  implemented  Prince2 
+ 
+methodology 
+Sachin Mantri   
+1
+ 
+11 ]]> </ResumeTextFormat></Resume>

@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Resume><ResumeId ResumeParserProductName="RecruitPlus Resume Parser"><ResumeParserOrgName>ITCONS e-Solutions Private Limited</ResumeParserOrgName></ResumeId><StructuredXMLResume><ContactInfo><PersonName><FullName>Sunitha Madanu</FullName><GivenName>Sunitha</GivenName><MiddleName /><FamilyName>Madanu</FamilyName></PersonName><ContactMethod><Telephone><PhoneBasic /></Telephone><Mobile><phone_Mobile>5177754050</phone_Mobile></Mobile><Fax><FaxPhone /></Fax><InternetEmailAddress>sunitha.us@gmail.com</InternetEmailAddress><InternetEmailAddress /><PostalAddress><CountryName /><Region /><City /><PostalCode /><DeliveryAddress><AdressLine1 /><AdressLine2 /></DeliveryAddress></PostalAddress></ContactMethod></ContactInfo><ExecutiveSummary>Experienced Sun Certified Java/JEE professional Developer with 9+ year of IT experience in
+systems Analysis, Design, development, testing, implementation and maintenance and support for
+small, medium and large scale systems.
+
+7+ Years of Experience in Java, J2EE, Struts, JSP, JSF, Servlets, EJB, Hibernate, spring, Swing,
+AWT, XML, UML, WebServices, Portal Development.
+
+GUI design &amp; development using JSP, HTML, DHTML, JavaScript, AJAX and Swing
+
+Working knowledge of Web2.0 (AJAX, DoJo and DWR).
+
+Back-end application development using different databases: DB2 UDB, Oracle, SQL Server and
+MySQL
+
+Extensively worked on various Application/Web Servers: WebSphere, WebLogic, JBoss, Sun One and Tomcat.
+
+Analysis and design using SDLC, UML, RUP, RSA, Agile, and MVC based frameworks like Jakarta- Struts, JSF and spring using J2EE.
+
+Worked with different kind of portlets like JSP/HTML portlet, Java portlet, page flow portlet, Struts
+portlet and Remote portlet.
+
+Having Strong knowledge of SOA and WebServices and has technical understanding on SOAP
+protocol, REST, WSDL, XSD, XSLT.
+
+Developed and Implemented WebServices using Eclipse, WSAD, Weblogic Workshop, RSA and
+NetBeans, finally deployed the WebServices in different application/web servers like Tomcat,
+JBoss, WebSphere, Weblogic and Sun One.
+
+Involved in code review process, giving code review comments, code reuse tips and giving
+suggestion to the team and helping them to solve the production issues.
+
+Used Log4J tool to print the logging, debugging, warning and info of the entire application written to a log file and displayed on the server console as needed.
+
+Worked on Source code control systems like Perforce, PVCS, CVS and MS Visual SourceSafe</ExecutiveSummary><Objective /><Role /><FunctionalArea /><IndustryType /><EmploymentHistory><TotalExperience>9Year(s) &amp; 8Month(s)</TotalExperience><TotalProjectExperience>Year(s) &amp; Month(s)</TotalProjectExperience><CurrentSalary /><ExpectedSalary /><EmployerOrg><EmployerOrgName>Whole Sale</EmployerOrgName><PositionHistory><CurrentEmplyor>True</CurrentEmplyor><Title>Senior JEE Developer</Title><OrgName><OrgName>Whole Sale</OrgName></OrgName><Description>Client Wells Fargo, Whole Sale San Francisco, CA Project System CEO Mobile service Role Senior JEE Developer Duration April 2012 to Till Date Technologies Eclipse Juno, Java 1.5,J2EE, Spring Core, Spring MVC, SOA, Spring AOP, Hibernate 3.0,Jquery,Jquery Mobile Framework, HTML 5,CSS 3.0,JSTL, XML, JAXP API, XSLT,XSD,Restful WS,JAX-WS, BEA Weblogic Application Server 10.0, Oracle 10g, SVN, Jira, Easy Mock, Selenium Framework,SLF4j 2.0, Unix &amp; Windows XP Project description The CEO Mobile service is a convenient, secure way to access many of your CEO portal services. Mobile access lets you monitor your accounts, approve transactions, and make important banking decisions when and where you need to. And the same security features that protect the CEO portal are built into the CEO Mobile service - including secure sessions, advanced encryption, authentication, and stringent access controls. Responsibilities  Perform end to end requirement analysis and work with the Business Analyst (BA) for clarifications  Use agile methodology for the software development process.  Develop rich user interface using Jquery Mobile framework which supports different devices like Iphone, IPAD , HTC and  Black Berry  Integrate JQM with Spring MVC Tags and used Jquery for validation of page data  Use Restful and JAX-WS web services for various functionalities of the application  Configure Spring JMS (MDB) for providing email notifications to the Customers.  Use Hibernate ORM framework to communicate with database Oracle to achieve persistence and maintain data easily  Create the Component Design document by using UML Class, Sequence diagrams  Use WSDL and SOAP protocol for Web Services implementation  Use Easy Mock framework for unit testing and configured SLF4J for logging  Use Maven for build and deployment of applications on different environments and Eclipse as IDE  Configure Spring JMS (MDB) for providing email notifications to the manufacturers  Involve in code review meetings and refactor code in the legacy applications  Involve in developing automated test scripts using Selenium Framework  Project Various projects Client United Guarantee Greensboro, NC</Description><StartDate><AnyDate>4/1/2012</AnyDate></StartDate><EndDate><Anydate>11/15/2014</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName /><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Senior JEE Developer</Title><OrgName><OrgName /></OrgName><Description>Role Senior JEE Developer Duration Nov 2009 - Nov 2010 Technologies Rational Application Developer (RAD) 7.0, J2EE 1.4,HTML,CSS, Spring 1.2, Hibernate, JSTL, IBM MQ Series 5.2, , XML, JAXP API, XSLT, XSD, IBM Web Sphere Application Server 6.1, Oracle 10g, Rational Rose, CM Synergy6.5, Jira, JUnit 4.0, Log4j 2.0, Unix &amp; Windows XP Project description The EFM application is developed for check processing in Federal Reserve Bank. It has DTMStatusEventMessage Processing, Notification Messages Processing and Handshake Messages Processing Modules. DTMStatusEventMessage are raised in process of file processing by FRBIncoming and FRBOutgoing. Notification Messages are the status of the files delivered to IPD (IBM Payment Director Gateway). Handshake messages are the receipt of the file delivery in check processing. The EFM application processes the messages sent by the FRB Incoming/Outgoing applications. In message processing handler sends the alerts if there is invalid handshake message that is based on handshake message data. Various reports developed for different analysis. Responsibilities  Involved in designing the application in N-tier fashion.  Used MVC architecture/pattern and Spring for implementing the web interfaces.  Implemented a variety of Spring Controller classes that coordinate the flow of control from the presentation tier to the Middle tier. These controller classes handle multiple request types by extending the behavior of Spring Controller classes  Used Hibernate Session Factory, Hibernate mapping files, dependencies between delegate classes, DAOs, controller classes, validation classes and the domain Objects are configured as part of the spring configuration file.  Configured   WebSphere   Application   Server   (WAS)   on   multiple   platforms   and   deployed   the application on server.  Responsible for design and development of JMS messages.  Used JMS packages to develop MQ Series interfaces that interact with the application.  Used Message Driven Beans as listeners to the queue.  Used DOM for parsing the messages. Used Service Locator pattern for lookup of the beans.  Used Command Design pattern to execute the sequence of events.  Designed and Implemented Data Access Objects to store the message into the DB.  Used VO pattern that is populated from message and stores in db.  Used Java Mailing Service APIs for mailing the alerts in message processing based on message dat  Used Factory pattern that creates DAO objects.  Wrote JUnit test cases for testing the functionality of the code  Used Jira for Bug tracking. Involved in Configuring ejb-jar.xml, Data sources and MQ queues.  Used Apache Log4j Logging framework for logging of trace and Auditing.  Developed the automatic build scripts using ANT for the application to deploy and test.  Other responsibilities include Devolvement, Code Reviews, JUnit Test creation, Design Review Client Verizon(VSO), Irving, TX</Description><StartDate><AnyDate>11/1/2009</AnyDate></StartDate><EndDate><Anydate>11/1/2010</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Project Invoice</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Senior JEE Developer</Title><OrgName><OrgName>Project Invoice</OrgName></OrgName><Description>Project Invoice Role Senior JEE Developer Duration Nov 2008 - Nov 2009 Technologies J2EE, JDK 1.5, RAD 6.x, JBOSS 5, JDBC 2.0, JNDI 1.2, Servlets 2.3, JSP 1.2, ,Log4j , Spring MVC,EJB 2.0, JMS, MQ Series,Web Services, SOAP, Hibernate 2.0,</Description><StartDate><AnyDate>11/1/2008</AnyDate></StartDate><EndDate><Anydate>11/1/2009</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Oracle</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Rational</Title><OrgName><OrgName>Oracle</OrgName></OrgName><Description>Bean,Goxml Transformations, JavaScript, Apache Ant, Oracle 9i, PL/SQL, Toad, UML/Rational Rose 2000, Cvs. Project description The Deal processing was an ongoing project that I was part of. The system's primary purpose was to perform and facilitate the process of approving or declining requests for home loan and home equity clients and consumers. I was involved in the CORE project which involved creating the new interface between the front-end and backend starting with Home Mortgage Division of the company and later implementing them companywide Responsibilities  Wrote   technical   design   specifications   and   detailed   level   design   specifications   for   server components  Design, development, testing and implementation of the system  Used Hula framework in Obtain Lender CaseId Service and vendor connect Service.  Installed Weblogic Server and configured the JDBC Connection pool.  Used Design patterns (Singleton pattern) for Application configuration Initialization  Developed Session and Entity EJBs to handle business logic and create DTOs and DAOs to provide interface between EJBs and database, deployed into Application server  Utilized XML Bean tool to serialize and de-serialize Java object  Provided Fidelity loan numbers and FDR loan numbers to EO client  Joined with the foreign JMS server to send message to request queue and got response from reply queue  Implemented data access object and singleton class for database operations  Created databases Objects like tables, views, sequences and indexes in Oracle database  Developed database stored procedures and functions to pull the data from the back end and invoke in Java application using callable statements using JDBC  Developed Applications using Java, Java Servlets, Java Beans, WebLogic and Oracle database  Performed Unit testing using JUnit framework Created automated deployment process and project builds using ANT Scripts  Worked with IntelliJ IDEA to develop and deploy complete application components</Description><StartDate><AnyDate>1/1/2000</AnyDate></StartDate><EndDate><Anydate>12/31/2000</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Duratio</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Senior JEE Developer</Title><OrgName><OrgName>Duratio</OrgName></OrgName><Description>Role Senior JEE Developer Duration Oct 2007 - Nov 2008 Technologies J2SE, J2EE, JDK 1.5, RAD 6.x, Websphere 5.x, JDBC 2.0, JNDI 1.2, Servlets 2.3, JSP 1.2, Struts Tile, Log4j, EJB 2.0, JMS 1.0.2, Web Services, SOAP, Hibernate 2.0, LDAP, AJAX,DOJO,DWR, Junit HTML, DHTML, CSS, XML, XSL, XSLT, JavaScript,</Description><StartDate><AnyDate>10/1/2007</AnyDate></StartDate><EndDate><Anydate>11/1/2008</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Oracle</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Senior JEE Developer</Title><OrgName><OrgName>Oracle</OrgName></OrgName><Description>Role Senior JEE Developer Duration May 2006 - Oct 2007 Technologies J2SE, J2EE, JDK 1.5, Netbeans, GlassFish, JDBC 2.0, Servlets 2.3, JSP 1.2, Struts 1.0.1/1.0.2, Log4j , EJB 2.0, JMS 1.0.2, Web Services, SOAP, Hibernate 2.0, LDAP,</Description><StartDate><AnyDate>5/1/2006</AnyDate></StartDate><EndDate><Anydate>10/1/2007</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName /><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>JMS, MQ Series, Web Services, SOAP, LDAP, AJAX, Junit XML, XSL, XSLT, Xml</Title><OrgName><OrgName /></OrgName><Description>Duration Mar 2005 - May 2006 Technologies Java, J2EE, JDK 1.5, Eclipse 3.4 Weblogic 8.1, JDBC 2.0, JNDI 1.2, Log4j , EJB 2.0, JMS,MQ Series, Web Services, SOAP, LDAP, AJAX, Junit XML, XSL, XSLT,Xml</Description><StartDate><AnyDate>3/1/2005</AnyDate></StartDate><EndDate><Anydate>5/1/2006</Anydate></EndDate></PositionHistory></EmployerOrg></EmploymentHistory><EducationHistory /><LicensesAndCertifications><LicenseOrCertification /><Name /></LicensesAndCertifications><Qualifications /><languages /></StructuredXMLResume><ResumeAdditionalItems><ResumeAdditionalItem type="Personal"><FatherName /><DateOfBirth /><Age /><Gender>Unspecified</Gender><Nationality /><MaritalStatus>Unspecified</MaritalStatus><PassportNo /><VisaStatus /><Currentlocation>San Francisco</Currentlocation></ResumeAdditionalItem><ResumeAdditionalItem type="Resume Parsing Information"><ResumeParsingStartDate>11/12/2014 12:00:00 AM</ResumeParsingStartDate><ResumeParsingExpiryDate>11/27/2014 12:00:00 AM</ResumeParsingExpiryDate><NumberOfParsedResume>19</NumberOfParsedResume><MaxLimitOfParsedResume>100</MaxLimitOfParsedResume></ResumeAdditionalItem></ResumeAdditionalItems><ResumeContext /><ResumeTextFormat> <![CDATA[ Sunitha Madanu
+Cell: 517 775 4050
+Email ID: sunitha.us@gmail.com
+SUMMARY
+
+Experienced Sun Certified Java/JEE professional Developer with 9+ year of IT experience in
+systems Analysis, Design, development, testing, implementation and maintenance and support for
+small, medium and large scale systems.
+
+7+ Years of Experience in Java, J2EE, Struts, JSP, JSF, Servlets, EJB, Hibernate, spring, Swing,
+AWT, XML, UML, WebServices, Portal Development.
+
+GUI design &amp; development using JSP, HTML, DHTML, JavaScript, AJAX and Swing
+
+Working knowledge of Web2.0 (AJAX, DoJo and DWR).
+
+Back-end application development using different databases: DB2 UDB, Oracle, SQL Server and
+MySQL
+
+Extensively worked on various Application/Web Servers: WebSphere, WebLogic, JBoss, Sun One
+and Tomcat.
+
+Analysis and design using SDLC, UML, RUP, RSA, Agile, and MVC based frameworks like Jakarta-
+Struts, JSF and spring using J2EE.
+
+Worked with different kind of portlets like JSP/HTML portlet, Java portlet, page flow portlet, Struts
+portlet and Remote portlet.
+
+Having Strong knowledge of SOA and WebServices and has technical understanding on SOAP
+protocol, REST, WSDL, XSD, XSLT.
+
+Developed and Implemented WebServices using Eclipse, WSAD, Weblogic Workshop, RSA and
+NetBeans, finally deployed the WebServices in different application/web servers like Tomcat,
+JBoss, WebSphere, Weblogic and Sun One.
+
+Involved in code review process, giving code review comments, code reuse tips and giving
+suggestion to the team and helping them to solve the production issues.
+
+Used Log4J tool to print the logging, debugging, warning and info of the entire application written
+to a log file and displayed on the server console as needed.
+
+Worked on Source code control systems like Perforce, PVCS, CVS and MS Visual SourceSafe
+CERTIFICATIONS/EDUCATION
+ Sun Certified Web Component Developer for the J2EE
+ Sun Certified Programmer for the Java Platform, Standard Edition 5.0
+ B-Tech, Jawaharlal Nehru Technological University
+TECHNICAL SKILLS
+C, C++, Java, HTML, DHTML, JavaScript, DOJO, CSS, iText, Shell Script, 
+Languages/APIs
+Ajax
+JEE Technologies JSP, Servlets, JSF, Custom Tags, JDBC, JMS, XML, SAX, DOM, JSon, EJB
+Rules Engine Drools
+Web Frameworks Struts, Spring
+Persistence Frameworks Hibernate, iBatis
+Test Frameworks Junit
+Database Oracle, DB2,  My SQL, MS SQL Server
+App &amp; Web Servers Web Sphere, Web Logic, JBoss, Sun One,  Tomcat
+SOA Web Services (SOAP, UDDI, WSDL), SOAPUI, JAX-WS, Adobe, JCAPS, ESB
+Intercepting Filter, Front Controller, View Helper, Composite View, Service-
+Design patterns
+to-worker, Dispatcher View, Business delegate, VO, Service Locator, DAO
+Gang of Four patterns Abstract Factory, Singleton, Façade, Command, Decorator
+Ant, Maven, Log4J, JProbe, Adobe Life Cycle Designer, IBM Heap Analyzer
+Tools
+Cruise Control, SQL Wave
+DB Tools Toad, SQL Developer, PL/SQL Developer, AQT
+Reporting Tools Jasper Reports and iReport tool
+Version Control SVN, 
+ 
+Perforce, CVS,  PVCS, VSS, 
+ 
+Rational ClearCase
+Eclipse, Net Beans, WSAD, RAD, RSA, Web logic Workshop, IntelliJ IDEA, 
+IDEs
+Edit plus, Text Pad, J Builder, XML Spy
+Defect tracking tools HP Quality Center, Rational Clear Quest,  PR-Tracker, JIRA, BugZilla
+OS Windows XP/NT,2000,2003, UNIX, Linux, Sun Solaris
+
+
+PROFESSIONAL EXPERIENCE
+Client Wells Fargo, Whole Sale San Francisco, CA
+Project System CEO Mobile service
+Role Senior JEE Developer
+Duration April 2012 to Till Date
+Technologies Eclipse Juno, Java 1.5,J2EE, Spring Core, Spring MVC, SOA, Spring AOP, Hibernate 
+3.0,Jquery,Jquery Mobile Framework, HTML 5,CSS 3.0,JSTL, XML, JAXP API, 
+XSLT,XSD,Restful WS,JAX-WS, BEA Weblogic Application Server 10.0, Oracle 10g, 
+SVN, Jira, Easy Mock, Selenium Framework,SLF4j 2.0, Unix &amp; Windows XP
+Project description
+The CEO Mobile service is a convenient, secure way to access many of your CEO portal services. 
+Mobile access lets you monitor your accounts, approve transactions, and make important banking 
+decisions when and where you need to. And the same security features that protect the CEO portal are
+built into the CEO Mobile service  including secure sessions, advanced encryption, authentication, 
+and stringent access controls.
+Responsibilities
+ Perform end to end requirement analysis and work with the Business Analyst (BA) for clarifications
+ Use agile methodology for the software development process.
+ Develop rich user interface using Jquery Mobile framework which supports different devices like 
+Iphone, IPAD , HTC and  Black Berry
+ Integrate JQM with Spring MVC Tags and used Jquery for validation of page data
+ Use Restful and JAX-WS web services for various functionalities of the application
+ Configure Spring JMS (MDB) for providing email notifications to the Customers.
+ Use Hibernate ORM framework to communicate with database Oracle to achieve persistence and 
+maintain data easily
+ Create the Component Design document by using UML Class, Sequence diagrams
+ Use WSDL and SOAP protocol for Web Services implementation
+ Use Easy Mock framework for unit testing and configured SLF4J for logging
+ Use Maven for build and deployment of applications on different environments and Eclipse as IDE
+ Configure Spring JMS (MDB) for providing email notifications to the manufacturers
+ Involve in code review meetings and refactor code in the legacy applications
+ Involve in developing automated test scripts using Selenium Framework
+Client United Guarantee Greensboro, NC
+Project Various projects
+Role Senior JEE Developer
+Duration Nov 2010 to April 2012
+Technologies Java, J2EE 1.5,SOA, HTML 5,CSS 3.0,Jquery,EJB 3.0,Spring Core, Spring MVC, 
+JSP,Ajax,Jquery,Web Sphere 7.0, Oracle, Hibernate 3.0,  RAD 6.0, MQ Series, 
+RabbitMQ,JMS,Message Broker,Web Services(Axis 1.4), XML, XSL, XSLT, Extjs, J2EE 
+design patterns, Junit, Ant, SVN, Windows.
+Project description
+Getting an instant MI quote is easy with Rate Runner, United Guarantys online rate calculator.
+Once you enter your loan information into Rate Runner, you can get an instant quote, save the quote
+for future reference, and use our MI Compare tool to run side-by-side comparisons to pick the MI
+option thats best for your customer. You can even compare our rates to FHA!
+Rate Runner is designed to be used for first mortgages only. 
+The rate information provided is for informational purposes only, and is not intended to represent
+results that may be outside of our underwriting guidelines. It is possible that one or more of the
+variables   within   your   criteria   are   outside   of   our   underwriting   guidelines.   Loans   with   these
+characteristics may not be eligible for United Guaranty mortgage insurance. A final rate will be
+provided when the commitment of insurance is obtained from United Guaranty Residential Insurance
+Company.  Rates   are   subject   to   change.   Please   contact   your   Account   Executive   for   additional
+information.
+United Guaranty is a marketing term for United Guaranty Corporation and its subsidiaries.
+Responsibilities
+
+Developed the application using Spring framework based on MVC architecture.
+
+Designed and developed rich user interface using Spring mvc Tags and used JavaScript for
+validation of page data.
+
+Helped the team for Hibernate Session Factory, Hibernate mapping files, dependencies between
+delegate classes, DAOs, controller classes, validation classes and the domain Objects that are
+configured as part of the spring configuration file
+
+Developed and deployed the application on Web Sphere application server.
+
+Developed EJB's and deployed on the web Sphere application server.
+
+
+
+Used AXIS web service in the application
+
+Used Hibernate ORM framework as persistence engine, configured O/R mapping and wrote
+hibernate queries.
+
+Listener container for asynchronous processing of inbound messages.
+
+Used WSDL and SOAP protocol for Web Services implementation.
+
+Used Junit framework for unit testing and configured Log4J for logging.
+
+Used Ant Scripts for build and deployment of applications on different environments and Eclipse as
+IDE.
+
+Attended the Tech Design Review meetings and presented the design
+Client Federal Reserve Bank Irving, TX
+Project EFM  Check processing
+Role Senior JEE Developer
+Duration Nov 2009 - Nov 2010
+Technologies Rational Application Developer (RAD) 7.0, J2EE 1.4,HTML,CSS, Spring 1.2, 
+Hibernate, JSTL, IBM MQ Series 5.2, , XML, JAXP API, XSLT, XSD, IBM Web Sphere 
+Application Server 6.1, Oracle 10g, Rational Rose, CM Synergy6.5, Jira, JUnit 4.0, 
+Log4j 2.0, Unix &amp; Windows XP
+Project description
+The EFM application is developed for check processing in Federal Reserve Bank. It has 
+DTMStatusEventMessage Processing, Notification Messages Processing and Handshake Messages 
+Processing Modules. DTMStatusEventMessage are raised in process of file processing by FRBIncoming 
+and FRBOutgoing. Notification Messages are the status of the files delivered to IPD (IBM Payment 
+Director Gateway). Handshake messages are the receipt of the file delivery in check processing. The 
+EFM application processes the messages sent by the FRB Incoming/Outgoing applications. In message 
+processing handler sends the alerts if there is invalid handshake message that is based on handshake 
+message data. Various reports developed for different analysis.
+Responsibilities
+
+Involved in designing the application in N-tier fashion.
+
+Used MVC architecture/pattern and Spring for implementing the web interfaces.
+
+Implemented a variety of Spring Controller classes that coordinate the flow of control from the 
+presentation tier to the Middle tier. These controller classes handle multiple request types by 
+extending the behavior of Spring Controller classes
+
+Used Hibernate Session Factory, Hibernate mapping files, dependencies between delegate classes, 
+DAOs, controller classes, validation classes and the domain Objects are configured as part of the 
+spring configuration file. 
+
+Configured   WebSphere   Application   Server   (WAS)   on   multiple   platforms   and   deployed   the
+application on server.
+
+Responsible for design and development of JMS messages.
+
+Used JMS packages to develop MQ Series interfaces that interact with the application.
+
+Used Message Driven Beans as listeners to the queue.
+
+Used DOM for parsing the messages.
+
+Used Service Locator pattern for lookup of the beans.
+
+Used Command Design pattern to execute the sequence of events.
+
+Designed and Implemented Data Access Objects to store the message into the DB.
+
+Used VO pattern that is populated from message and stores in db.
+
+Used Java Mailing Service APIs for mailing the alerts in message processing based on message dat
+
+Used Factory pattern that creates DAO objects.
+
+Wrote JUnit test cases for testing the functionality of the code
+
+Used Jira for Bug tracking.
+
+Involved in Configuring ejb-jar.xml, Data sources and MQ queues.
+
+Used Apache Log4j Logging framework for logging of trace and Auditing.
+
+Developed the automatic build scripts using ANT for the application to deploy and test.
+
+Other responsibilities include Devolvement, Code Reviews, JUnit Test creation, Design Review
+Client Verizon(VSO), Irving, TX
+Project Invoice
+Role Senior JEE Developer
+Duration Nov 2008 - Nov 2009
+Technologies J2EE, JDK 1.5, RAD 6.x, JBOSS 5, JDBC 2.0, JNDI 1.2, Servlets 2.3, JSP 1.2, 
+,Log4j , Spring MVC,EJB 2.0, JMS, MQ Series,Web Services, SOAP, Hibernate 2.0, 
+
+
+AJAX, Junit HTML, DHTML, CSS, XML, XSL, XSLT, JavaScript, Apache Ant, Oracle 10g
+,PL/SQL, Toad, UML/Rational Rose 2000, Linux, Svn
+Project description
+The companies will submit the details of products required through standard forms of the Verizon 
+Organization Services. Then, the requests will be verified and processed. Next, responses will be 
+noticed to the companies based on set criterions.
+Responsibilities
+
+Gathered &amp; analyzed requirements from the customer and written requirements, technical and
+design specifications
+
+Developed Controller for request, response paradism by SimpleFormController using Spring-mvc.
+
+Configured the URL mappings and bean classes using Springapp-servlet.xml.
+
+Developed the Deal application using IBM RAD 6.0 IDE.
+
+Hands on experience in deployment of J2EE applications on WebSphere Application Servers
+6.0(WAS).
+
+Developed Validators for application components using the spring validation framework.
+
+Used CSS to control the page layout, look and feel of WebPages
+
+Developed applications using Hibernate persistent framework, developed persistent classes, 
+hibernate-mapping files .hbm.xml file, hibernate query language
+
+Used AJAX to asynchronous data transfer (HTTP requests) between the browser and the web
+server, allowing web pages to request small bits of information from the server instead of whole
+pages
+
+Developed XML Schema using XML Spy, using JAXB API converted XML schema to Java code ,
+parsed XML to Java objects and vice versa
+
+Implemented several design patterns like Session Façade, Service Locator, Data Access Object
+(DAO), Data Transfer Objects (DTO) and Value Objects (VO).
+
+Designed WSDL files, generated Java Bean Skeleton code using Top-Down approach and written
+the Java code to meet the business requirement, finally deployed the WebService on the server.
+
+Designed   and   developed   a   WebService   interfaces,   generated   WSDL   files   using   Bottom-Up
+approach, deployed the WebServices into the application server. 
+
+Generated Client Stubs using WSDL files and Invoked the WebService to get the data from the
+service.
+
+Worked with support team to fix bugs and push the latest code to the production server.
+
+Documented necessary steps to produce the problem in the dev local environment and functional
+solution to the problem and written unit test case to make sure that the problem should not occur
+again in the future.
+
+Developed PL/SQL stored procedures, functions, created tables, indexes, sequences and debugged
+PL/SQL stored procedures
+
+Used agile methodology for the software development process.
+Client Route One-Finance, Farmington Hills, MI
+Project
+Role Senior JEE Developer
+Duration Oct 2007  Nov 2008
+Technologies J2SE, J2EE, JDK 1.5, RAD 6.x, Websphere 5.x, JDBC 2.0, JNDI 1.2, Servlets 2.3, JSP
+1.2, Struts Tile, Log4j, EJB 2.0, JMS 1.0.2, Web Services, SOAP, Hibernate 2.0, 
+LDAP, AJAX,DOJO,DWR, Junit HTML, DHTML, CSS, XML, XSL, XSLT, JavaScript, 
+Apache Ant, Oracle 10g, PL/SQL, Toad, UML/Rational Rose 2000, Linux ,Svn.
+Project description
+Route one was credit application management software created to accelerate the automotive finance 
+process for dealers and their finance sources. It was a web-based joint venture created by Daimler 
+Chrysler Services, Ford Motor Credit Company, General Motors Acceptance Corporation and Toyota 
+Financial Services and open to all indirect lenders.   Route One was a web-based credit application 
+management tool that aggregated multiple finance sources into a single access point for dealers. 
+Route One developed a completely integrated Internet solution that included the four largest captive 
+finance sources as well as indirect access to a multitude of independent finance sources
+Responsibilities
+
+Gathered user requirements, written requirements and high level design specifications
+
+Prepared detailed level design specifications for server components
+
+Designed new User Interfaces and modify the existing Interfaces using HTML and CSS.
+
+Developed applications  using Java,  J2EE, EJB, JSP, JDBC, MQ Series, WebServices, Struts,
+Hibernate, Spring, JavaScript, CSS, Eclipse 3.2, XML, SAX, DOM, Ant, RAD, Websphere App
+Server(WAS) and Oracle 10g.
+
+Configuring   WebSphere   Application   Server   (WAS)   on   multiple   platforms   and   deployed   the
+
+
+application on server.
+
+Developed User Interface using Struts JSTL and Tiles framework. 
+
+Implementing Struts/Tiles based framework to present the data to the user. 
+
+Created DataSource Name, JMS ConnectionFactory Name, Queue names using Websphere Admin
+Console.
+
+Designed database objects and written database stored procedures, and functions to pull the data
+from database and integrated with Java components 
+
+Used JUnit framework to develop unit test cases
+
+Created  XML schema using XML Spy, using JAXB API converted XML schema to Java code , parsed
+XML to Java objects and vice versa..
+
+Wrote Hibernate configuration file, Hibernate mapping files and defined persistence classes.
+
+Scripted sql queries with Hibernate HQL. 
+
+Generated Client Stubs using WSDL files and Invoked the WebService to get the data from the
+service.
+
+Installed, Configured, maintained, Debugging, diagnosing issues, profilers, detection pools on a
+Websphere server.
+
+Developed applications using Hibernate persistent frame work, developed persistent classes,
+hibernate-mapping files .hbm.xml file, Hibernate Query Language (HQL)
+
+Used MQ Series as message middleware between back office system and J2EE web interface.
+Developed MQ Series listener which listens on queue reads data in XML format and parses into
+Java object and updates database
+
+Utilized   various   Java/J2EE   Design   patterns   like   Service   Locator,  Session   Facade,   Business
+Delegate, and Adapter pattern, Factory, DAO, Value Objects and Singleton.
+
+Used agile methodology to support and fix the bug on weekly and monthly releases.
+Client 6Brodart , Williamsport, PA
+Project
+Role Senior JEE Developer
+Duration May 2006  Oct 2007
+Technologies J2SE, J2EE, JDK 1.5, Netbeans, GlassFish, JDBC 2.0, Servlets 2.3, JSP 1.2, Struts 
+1.0.1/1.0.2, Log4j , EJB 2.0, JMS 1.0.2, Web Services, SOAP, Hibernate 2.0, LDAP, 
+AJAX, Junit HTML, DHTML, CSS, XML, XSL, XSLT, JavaScript, Apache Ant, Oracle 
+10g, PL/SQL, Toad, UML/Rational Rose 2000, Svn.
+Project description
+Brodart was one of the world's largest suppliers of books to libraries. However, books were just the 
+beginning. Libraries of all sizes including small school and large metropolitan libraries could choose 
+from a variety of automation services to suit their specific needs
+Responsibilities
+
+Designed and developed applications using Java, J2EE, EJB, JSP, JDBC, Struts, Spring, Spring
+workflows, XML, XML Schema, SAX,  DOM, Netbeans,.
+
+Used the Vignette Content Management System to configure content ids and store content for
+different language, and implemented code in the JSP to retrieve the content from the Vignette
+CMS
+
+Designed and developed command classes, Hibernate persistent classes , hibernate-mapping files,
+Struts Action classes, Form classes, JSP custom tags
+
+Utilized   various   Java/J2EE   Design   patterns   like   Service   Locator,  Session   Facade,   Business
+Delegate, and Adapter pattern, Factory, DAO, Value Objects and Singleton.
+
+Designed and developed J2EE  WebServices  to  integrate  with   external  systems using  AXIS
+framework, designed XML schema and developed WSDL files for WebServices
+
+Created Queues, Queue manager, Channel definitions on MQ Series and developed Message Driven
+Bean(MDB)s to send messages to MQ queues in interact with external systems
+
+Responsible  for  developing  Publish   and Subscribe  model Message  Driven   Beans (MDB)  for
+Communicating between clients.
+
+Developed PDFs file generation using using XSLT.
+
+Used CSS to control the page layout, look and feel of WebPages
+
+Used JavaScript for Client-side validations
+
+Created a Custom Tag Library which displayed or hide content depending on the application
+business logicDeveloped common components like Access Control, JMS Service Factory, JNDI
+Service Locator, Messaging Components, WSDL, SOAP
+Client Wells Fargo, Home Mortgage, West Des Moines, IA
+Project
+Role Senior JEE Developer
+
+
+Duration Mar 2005  May 2006
+Technologies Java, J2EE, JDK 1.5, Eclipse 3.4 Weblogic 8.1, JDBC 2.0, JNDI 1.2, Log4j , EJB 2.0, 
+JMS,MQ Series, Web Services, SOAP, LDAP, AJAX, Junit XML, XSL, XSLT,Xml 
+Bean,Goxml Transformations, JavaScript, Apache Ant, Oracle 9i, PL/SQL, Toad, 
+UML/Rational Rose 2000, Cvs.
+Project description
+The Deal processing was an ongoing project that I was part of. The systems primary purpose was to 
+perform and facilitate the process of approving or declining requests for home loan and home equity 
+clients and consumers. I was involved in the CORE project which involved creating the new interface 
+between the front-end and backend starting with Home Mortgage Division of the company and later 
+implementing them companywide
+Responsibilities
+
+Wrote   technical   design   specifications   and   detailed   level   design   specifications   for   server
+components
+
+Design, development, testing and implementation of the system
+
+Used Hula framework in Obtain Lender CaseId Service and vendor connect Service.     
+
+Installed Weblogic Server and configured the JDBC Connection pool.
+
+Used Design patterns (Singleton pattern) for Application configuration Initialization
+
+Developed Session and Entity EJBs to handle business logic and create DTOs and DAOs to provide
+interface between EJBs and database, deployed into Application server
+
+Utilized XML Bean tool to serialize and de-serialize Java object
+
+Provided Fidelity loan numbers and FDR loan numbers to EO client
+
+Joined with the foreign JMS server to send message to request queue and got response from reply
+queue
+
+Implemented data access object and singleton class for database operations
+
+Created databases Objects like tables, views, sequences and indexes in Oracle database
+
+Developed database stored procedures and functions to pull the data from the back end and
+invoke in Java application using callable statements using JDBC
+
+Developed Applications using Java, Java Servlets, Java Beans, WebLogic and Oracle database
+
+Performed Unit testing using JUnit framework
+
+Created automated deployment process and project builds using ANT Scripts
+
+Worked with IntelliJ IDEA to develop and deploy complete application components]]> </ResumeTextFormat></Resume>

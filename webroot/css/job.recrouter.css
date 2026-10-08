@@ -1,0 +1,84 @@
+/*
+ * ----------------------------
+ * SECTION: Bootstrap Overrides
+ * ----------------------------
+ */
+.job-contract-model .dropdown-menu,
+.job-location .dropdown-menu {
+	min-width: 100%;
+	overflow: auto;
+	max-height: 180px;
+}
+
+/*
+ * ----------------------------------------
+ * SECTION: Bootstrap Multi-selct Overrides
+ * ----------------------------------------
+ */
+.job-state .multiselect-container input,
+.job-workflow .multiselect-container input {
+    display: none;
+}
+
+/*
+ * -----------------------
+ * SECTION: WYSIWYG Editor
+ * -----------------------
+ */
+.description-editor,
+.skills-editor {
+	margin-top: 8px;
+	overflow:scroll; 
+	min-height: 230px;
+	max-height:300px;
+	padding: 0 5px;
+	box-shadow: inset 0px 1px 2px #CDCDCD;
+	border: 1px solid #CDCDCD;
+	margin-bottom: 10px;
+}
+
+/*
+ * --------------------------------------
+ * SECTION: Bootstrap Tagsinput Overrides
+ * --------------------------------------
+ */
+.job-tags .bootstrap-tagsinput {
+	margin-top: 10px;
+	width: 100%;
+}
+
+/*
+ * ---------------------
+ * SECTION: Ext ID Panel
+ * ---------------------
+ */
+.job-ext-id .panel-heading {
+	margin-bottom: 10px;
+}
+
+.job-ext-id .job-ext-id-row {
+	border-bottom: 1px dashed #CDCDCD;
+}
+
+.job-ext-id .job-ext-id-row:last-child {
+	border-bottom: none;
+}
+
+/*
+ * ----------------------------
+ * SECTION: Survey Form Builder
+ * ----------------------------
+ */
+
+.survey-form-group {
+	margin-bottom: 0px;
+	padding: 10px 0 10px 0;
+}
+
+.text-survey {
+	border-bottom: 1px dashed #CDCDCD;
+}
+
+.text-survey:last-child {
+	border-bottom: none;
+}

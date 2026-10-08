@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Resume><ResumeId ResumeParserProductName="RecruitPlus Resume Parser"><ResumeParserOrgName>ITCONS e-Solutions Private Limited</ResumeParserOrgName></ResumeId><StructuredXMLResume><ContactInfo><PersonName><FullName>WILLIAM GI</FullName><GivenName>WILLIAM</GivenName><MiddleName /><FamilyName>GI</FamilyName></PersonName><ContactMethod><Telephone><PhoneBasic>(626)6795294</PhoneBasic></Telephone><Mobile><phone_Mobile /></Mobile><Fax><FaxPhone /></Fax><InternetEmailAddress>williamgi@hotmail.com</InternetEmailAddress><InternetEmailAddress /><PostalAddress><CountryName /><Region /><City /><PostalCode /><DeliveryAddress><AdressLine1 /><AdressLine2 /></DeliveryAddress></PostalAddress></ContactMethod></ContactInfo><ExecutiveSummary /><Objective /><Role /><FunctionalArea /><IndustryType /><EmploymentHistory><TotalExperience>13Year(s) &amp; 10Month(s)</TotalExperience><TotalProjectExperience>Year(s) &amp; Month(s)</TotalProjectExperience><CurrentSalary /><ExpectedSalary /><EmployerOrg><EmployerOrgName>University of Southern California</EmployerOrgName><PositionHistory><CurrentEmplyor>True</CurrentEmplyor><Title>Senior Pega Business Systems Analyst</Title><OrgName><OrgName>University of Southern California</OrgName></OrgName><Description>USC, University of Southern California - Los Angeles, CA      (Contract) July 2013 - Present Project Manager / Senior Pega Business Systems Analyst USC is a leading private research university. Project effort was to integrate legacy systems to the cloud software-as-a-service (SaaS) application platform. Responsibilities:   Successfully managed the completion of the integration of multiple legacy systems to the cloud SaaS infrastructure platform universally consumed by all users  Led the migration to conversion process including development and deployment efforts, testing and UAT processes while maximizing resource efficiencies  Substantially increased proficiency in human resources, payroll and benefits, and timekeeping  Ensure integrity and delivery of multiple projects with respect to time, budget, scope creep, rapid changes, risk management and overall resources  Created the Request for Proposals (RFP) and Fit-Gap analysis artifacts for the transition of additional downstream applications to the recent cloud technology platform  Convinced executives to buy-in to the RFP created by demonstrating the efficiencies and benefits  Mitigated   company   risk   associated   with   compliance   and   protected   user   privacy   by   ensuring encryption solutions are maximized  Provided resolutions to company staffing reductions, technical strategies, and mitigated long-term risk by identifying, escalating and resolving issues across multiple delivery groups and projects  Conducted planning and operational readiness assessments to provide an effective transition into production along with custom training procedures and resources Environments: Workday HCM and Financial SaaS Cloud, Jira, Kronos, Kuali Financial Systems</Description><StartDate><AnyDate>7/1/2013</AnyDate></StartDate><EndDate><Anydate>11/15/2014</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>United Health Group</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Project Manager</Title><OrgName><OrgName>United Health Group</OrgName></OrgName><Description>United Health Group - Cypress, CA      (Contract) April 2012 - July 2013 Project Manager / Senior Pega Systems Analyst United Health Group is a leading health care company, serving more than 75 million people worldwide. Projects were based on improving applications Oracle BPM and Pega PRPC. Responsibilities:   Project lead role defining estimates for current and future project undertakings including budget guidance and level of efforts for all collaborative team resources  Scrum Master on Agile project to expedite rapid assimilation of development and turn-around-times on quality iterative delivery of the overall product  Driving elaboration sessions in joint application development environment including key players from the business stakeholders, subject matter experts and IT development  Produced critical project deliverables including impact estimates, system solution designs, traceability matrix and use cases for sign-off and baseline for construction and implementation  Provided solutions and recommendations based on best practices on systems integration and interface consolidation with web service request and response for data access  Managing issues with consumer and commercial Member and Provider critical data including appeals and grievances with claims services and customer call center  Modifying current workflow process for satisfying the industry compliance rules and regulations  Overseeing the accuracy of clinical and revenue cycle data and billing for hospitals, doctors and external providers  Led the ICD 10 source of truth implementation for updated medical classification codes and descriptions throughout all corporate applications and systems  Environments: Pega PRPC (Pega Rules Process Commander), Oracle BPM, Agile/Scrum, WSDL, B2B, Quality Center, Sharepoint, Pega Reports Certified, Salesforce, Service Now</Description><StartDate><AnyDate>4/1/2012</AnyDate></StartDate><EndDate><Anydate>7/1/2013</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>20th Century Fox</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Project Manager</Title><OrgName><OrgName>20th Century Fox</OrgName></OrgName><Description>20th Century Fox - Los Angeles, CA      (Contract) December 2011 - April 2012 Project Manager / Senior Business Analyst Fox is one of the major  American film and television studios. Projects managed involved B2B applications delivering marketing and broadcast digital assets Responsibilities:   Managed, produced and executed the project plan, scope, release planning, and status reports  Made critical technical and design decisions in all aspects of the enterprise application development process including database, web, client tools, services and system interfaces  Provided guidance to development team and managed daily tasks, product backlog and resource progress to ensure prompt delivery of project deliverables and milestones  Advised   heavily  in   both   the   re-engineering   of   existing   systems,   as   well   as   the   design   and implementation of new features and applications  Implemented the Agile and SCRUM best practices to increase productivity including running daily scrum meetings, prioritization, updates, progress, risks of team members' efforts  Provided best solutions and accurate estimates based on technical and functional requirements  Ability to handle diverse situations, multiple projects and rapidly changing priorities pertaining to Agile/SCRUM methodology  Visualized and created user experiences and GUI designs using Expression Blend  Clear   understanding   of   fundamentals   of   software   development,   including   best   practices   and knowledge about 3rd party UI libraries, controls and components  Advanced knowledge of  Visual Studio 2008/2010, Team Foundation Server 2010, SQL Server</Description><StartDate><AnyDate>12/1/2011</AnyDate></StartDate><EndDate><Anydate>4/1/2012</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>TFS</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>SQL SSIS, SQL Reporting Services</Title><OrgName><OrgName>TFS</OrgName></OrgName><Description>2005/2008, SQL SSIS, SQL Reporting Services  Conducted   system   and   regression   testing   to   validate   quality   products   are   developed   before deployment</Description><StartDate><AnyDate>1/1/2005</AnyDate></StartDate><EndDate><Anydate>1/1/2008</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Capital Group Companies</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Senior Business Systems Analyst</Title><OrgName><OrgName>Capital Group Companies</OrgName></OrgName><Description>Environments: VS ‘08/'10, TFS 2010, SQL Server ‘05/'08, Silverlight,  XML, ExpBlend, Facets, Pivot, Informatica, XAML, SharePoint 2010, Telerik, Infragistics, Artesia/OpenText JDE E1, Siebel Capital Group Companies - Irvine, CA      (Contract) June 2011 - October 2011 Senior Business Systems Analyst / Project Manager CGC is a group of financial investment management companies. Managed projects include streamlining best practices and expansion, document and content management production support and enhancements. Responsibilities:   Lead multiple project teams and assisted in the development and execution of business proposals  Provided recommendations and solutions for the large corporate wide effort to expand account efficiencies including consolidating all financial instruments and associations  Demonstrated leadership role for other Business Analysts among the project teams  Liaison between  business  units and technical teams to identify, analyze, and translate  business justified needs and end user requirements into system specifications documents  Gathered business requirements from clients, stakeholders, subject matter experts and business managers to produce artifacts and specifications for presentations, review and approval  Analyzed existing processes and assisted in improving and redefining future system processes and the technology needed to support the enhanced system environments including cost benefit analysis  Conducted impact analysis across multiple applications and platforms to effectively streamline enhancements with minimal impacts and efforts to corporate systems and outside vendors  Converted legacy Davast reporting system to Business Objects Crystal Reports  Participated in testing efforts to ensure business approval and resolved defects  Environments:  Agile/Scrum, EMC Documentum, Oracle, Sybase, Rapid SQL, Project/Visio, SAP Financial, Lotus Notes Connector, Davast, Business Objects Crystal Reports, Remedy, InputAccel</Description><StartDate><AnyDate>1/1/2010</AnyDate></StartDate><EndDate><Anydate>12/31/2010</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Southern California Edison</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Senior Business Systems Analyst</Title><OrgName><OrgName>Southern California Edison</OrgName></OrgName><Description>Southern California Edison (SCE) - San Onofre, CA      (Contract) September 2010 - May 2011 Senior Business Systems Analyst / Project Manager Southern California Edison provides electric service to Southern California for more than a century. Managed projects on the SAP ERP R/3 system pertaining to document, records and content management. Responsibilities:   Managed and provided guidance to business system analysts, developers, quality assurance analysts, and subject matter experts (SME's) to execute release cycles in production environments  Recommended solutions to the SAP ERP R/3 RMS/DMS (Records Management System/Document Management System) to ensure all activities on multiple systems are accurately synced and updated including content management of proprietary and nuclear compliance records, procedures, manuals, drawings, metadata and attributes  Introduced and implemented the  Agile/SCRUM  methodology to enhance productivity including running daily scrum meetings, prioritization, updates, progress, risks of team members' efforts, product backlogs and burndown charts, scrum master responsibilities  Implemented new systems for image scanning along with statistical sampling for quality visual verification of nuclear information and drawings  Provided documentation of both functional and technical specifications, test scripts, wireframes, use cases, workflow diagrams, storyboards, quality assurance and reports including nuclear notifications  Authored job aids and user manuals for training while conducting user acceptance testing (UAT) for final approval prior to the release of enhancements and improvements to production  Drafted   request   for   proposals   (RFP)   to  implement   new   projects   and   systems   for   enhancing productivity and adapting to evolving technological advances Environments:   SAP   ERP   R/3   RMS/DMS,  HP   Quality   Center,   MS   Office   2010/Project/Visio,</Description><StartDate><AnyDate>9/1/2010</AnyDate></StartDate><EndDate><Anydate>5/1/2011</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Oracle</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Freelance Consultant</Title><OrgName><OrgName>Oracle</OrgName></OrgName><Description>Agile/Scrum, Oracle, OpenText, ECC PI/XI, Basis, Kofax Imaging, Lotus Notes 8.5, Sametime 8.0.2 Freelance Consultant (Multiple companies)    (Contracts) January 2010 - September 2010</Description><StartDate><AnyDate>1/1/2010</AnyDate></StartDate><EndDate><Anydate>9/1/2010</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Universal Music Group</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Project Manager / Senior Business Systems Analyst</Title><OrgName><OrgName>Universal Music Group</OrgName></OrgName><Description>Project Manager / Senior Business Systems Analyst Universal Music Group (UMG) - Universal City, CA      (Contract) May 2008 - December 2009 Senior Business Analyst Universal Music Group is the world's leading music company. Managed multiple projects on multiple teams, including CRM, eCommerce, Digital Distribution, B2B, and employee directory/profile system. Responsibilities:   Lead and provided guidance to several groups consisting of business system analysts, quality assurance analysts, and subject matter experts (SME's) to ensure timely execution of key deliverables and business processes throughout the lifecycle of several critical projects  Wrote request for proposals (RFP) for new projects and acquisition of new systems for increasing productivity and adapting to technological improvements  Managed the maintenance and enhancements for the marketing of the eCRM system including campaign/sweepstakes email, mobile marketing, and complex reporting in .Net framework  Mentored other business analysts by reviewing documents and managing the iterative tasks and processes implemented in the Sprint meetings and methodologies  Coordinated meetings and managed business relations with international business partners and executive management to maintain seamless relationships across global marketing interests   Conducted Agile/SCRUM methodology for daily prioritization, updates, progress, and risks of team members' efforts; utilized management tools including MS Project and Jira management system  Involved in negotiations and conflict resolutions between all parties and best interests  Developed business and functional requirements utilizing key components of clear and concise documents including wireframes, use cases, workflow diagrams, and storyboards  Verified consumer data during daily data warehouse for both domestic and international data, including verifying database tables and extracting transforming and loading data into various reports Environments:  eCRM, Oracle, SQL Server, MySQL, Java, Perl, Jira, Subversion, Team Foundation Server, MS Project/Visio/Sharepoint, API, Agile/Scrum, PeopleSoft, BPMN, SOA, Google Analytics</Description><StartDate><AnyDate>5/1/2008</AnyDate></StartDate><EndDate><Anydate>12/1/2009</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Yellowpages.com</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Senior Business Systems Analyst</Title><OrgName><OrgName>Yellowpages.com</OrgName></OrgName><Description>Yellowpages.com - Glendale, CA      (Contract) October 2007 - March 2008 Senior Business Systems Analyst Yellowpages.com is an internet search directory. The projects consisted of creating reporting tools to automate traffic scorecards and other tools for strategic online ad sales and revenue driven objectives.  Responsibilities:   Worked cross-functionality with management, sales, marketing, research and development, to balance product lines and determine business strategies  Managed and lead other business analysts within the organization to produce key artifacts and driving the project to successful deployment  Extracted and analyzed online advertiser  impressions,  searches, clicks, and page views  from  ad servers, through Omniture Site Catalyst and the internal intranet site  Provided key liaison communication between business and development teams in translating high- level business requirements to technical requirements including single-sign-on  Conducted presentations and walkthroughs for stakeholder review and analysis of all key deliverables  Provided change control processes, and gap analysis to ensure seamless product enhancements  Performed quality assurance and UAT of the new traffic logging implementations for live production  Produced Ad Hoc reports and data analysis of abnormal traffic trends Environments: SQL, Visual Studio/Source Safe, Omniture Site Catalyst, Jira, Agile/Scrum</Description><StartDate><AnyDate>10/1/2007</AnyDate></StartDate><EndDate><Anydate>3/1/2008</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>CCH Wolters Kluwer</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Senior Business Systems Analyst</Title><OrgName><OrgName>CCH Wolters Kluwer</OrgName></OrgName><Description>CCH Wolters Kluwer - Torrance, CA      (Contract) July 2006 - October 2007 Senior Business Systems Analyst Wolters Kluwer provides tax, accounting and legal services. The project involved consolidating three legacy applications into one seamless application to manage and increase revenues for clients. Responsibilities:   Supervised and lead an Agile team of junior and mid level business analysts to project success  Gathered requirements from key stakeholders and product management to develop  Functional Requirements documents and specifications for sign-off  Developed Use Case documentation, Activity Diagrams, and User Interface documentation  Worked closely with all levels of management and team members including the architectural and development team, and design and testing team through joint application development sessions  Thoroughly worked in the iterative process with change control processes, and gap analysis to verify all deliverables are seamless in content and presentation  Managed the weekly sprint work breakdown structure and critical milestone implications  Performed Gap analysis for new functionality requirements, as well as prioritized them based on actual business needs so as to align them with the product release Environments: Enterprise Architect, MS Designer, Blend, VS, Caliber, Define IT, XAML, Sharepoint</Description><StartDate><AnyDate>7/1/2006</AnyDate></StartDate><EndDate><Anydate>10/1/2007</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Bank of the West</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Senior Business Analyst</Title><OrgName><OrgName>Bank of the West</OrgName></OrgName><Description>Bank of the West - Monterey Park, CA     (Contract) August 2004 - July 2006 Senior Business Analyst Bank of the West is a large general services bank. The project involved enhancing the online management of commercial clients' business transactions, information reporting, wire transactions, and stop payments. Responsibilities:   Worked with project manager to carry out in-depth cost benefit and risk analysis for the project plan  Worked as an interface between the users and the different teams involved in the application development for the better understanding of the business and IT processes  Created Use Cases and Activity Diagrams in accordance with UML methodology  Developed UAT plans and test case scenarios to guide a key end-users in testing the functionality Environments: Rational RequisitePro, RUP, SQL, MS Office, Test Director, Java, JSP, HTML, Oracle</Description><StartDate><AnyDate>8/1/2004</AnyDate></StartDate><EndDate><Anydate>7/1/2006</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Citigroup</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Business Analyst</Title><OrgName><OrgName>Citigroup</OrgName></OrgName><Description>Citigroup - Glendale, CA      (Contract) June 2003 - July 2004 Business Analyst Citigroup  is a financial services company. The  application enhanced the access to real-time account information, ability to download account information, and the option to enroll staff or service providers. Responsibilities:   Served  as   a  liaison  between  the  development  team  and  clients  by  assisting   in   identifying, understanding, and documenting their business needs  Conducted JAD requirement workshop sessions to facilitate requirements gathered  Performed GAP Analysis of existing systems with the new application  Constructed attribute matrix, traceability matrix, traceability tree for the requirements  Conducted User Acceptance Testing (UAT) and verified performance, and fault tolerance issues Environments: Rational Rose, Test Director, SQL, MS Project/Visio/Access, Windows, HTML, Oracle</Description><StartDate><AnyDate>6/1/2003</AnyDate></StartDate><EndDate><Anydate>7/1/2004</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Transamerica</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Business Analyst</Title><OrgName><OrgName>Transamerica</OrgName></OrgName><Description>Transamerica - Los Angeles, CA      (Contract) March 2002 - May 2003 Business Analyst Transamerica offers commercial insurance and financial services. The project was a web-based customer service application, aimed at maintaining confidential and encrypted payment information. Responsibilities:   Actively engaged client and third party integration partners in requirements gathering and validation  Developed   business  Use   Cases  using  UML  for   new   product   functionality   after   conducting requirements sessions with client teams  Lead design and status meetings to identify risks, prioritization, scope creep, and solution architecture  Manipulated client confidential payment data stored from the back end and emulated the user from the front end, displaying the encrypted data for security compliance  Maintained consistent legacy mainframe database with the new application functionality Environments: Java, HTML, TestDirector, SQL, MS Office Suite, MS Project, Oracle, MS Access</Description><StartDate><AnyDate>3/1/2002</AnyDate></StartDate><EndDate><Anydate>5/1/2003</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Countrywide Financial</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Business Analyst</Title><OrgName><OrgName>Countrywide Financial</OrgName></OrgName><Description>Countrywide Financial - Rosemead, CA      (Contract) January 2001 - February 2002 Business Analyst / QA Analyst  Countywide Financial provided mortgage, banking, insurance, asset management, credit cards, etc. The application designed was involved with integrating their Loan Origination System with their website. Responsibilities:   Gathered business requirements, analyzed data and workflows  Worked on designing the online service, allowing corporate to carry out standard banking operations  Used Rational Unified Process (RUP) for streamlining the team's development activities  Performed   and  co-coordinated the  system  testing,  regression  testing of  various  builds  during integration,   performance   and   User   Acceptance   Testing  (UAT)  using  Test   Director Environments: Rational RequisitePro, TestDirector, SQL, MS Office, Windows, Java, HTML, Oracle</Description><StartDate><AnyDate>1/1/2001</AnyDate></StartDate><EndDate><Anydate>2/1/2002</Anydate></EndDate></PositionHistory></EmployerOrg></EmploymentHistory><EducationHistory /><LicensesAndCertifications><LicenseOrCertification /><Name /></LicensesAndCertifications><Qualifications /><languages /></StructuredXMLResume><ResumeAdditionalItems><ResumeAdditionalItem type="Personal"><FatherName /><DateOfBirth /><Age /><Gender>Unspecified</Gender><Nationality /><MaritalStatus>Unspecified</MaritalStatus><PassportNo /><VisaStatus /><Currentlocation>Los Angeles</Currentlocation></ResumeAdditionalItem><ResumeAdditionalItem type="Resume Parsing Information"><ResumeParsingStartDate>11/12/2014 12:00:00 AM</ResumeParsingStartDate><ResumeParsingExpiryDate>11/27/2014 12:00:00 AM</ResumeParsingExpiryDate><NumberOfParsedResume>22</NumberOfParsedResume><MaxLimitOfParsedResume>100</MaxLimitOfParsedResume></ResumeAdditionalItem></ResumeAdditionalItems><ResumeContext /><ResumeTextFormat> <![CDATA[WILLIAM GI
+Huntington Beach, CA  •  (626) 679-5294  •  williamgi@hotmail.com
+SUMMARY OF QUALIFICATIONS
+More than thirteen years  of professional experience as a  Project Manager and Senior Business
+Systems Analyst leading cross-functional teams in deadline-driven, project-oriented environments.
+Strong  analytical skills  applied in  business  and  requirements analysis  for a variety of industries
+including  healthcare,  entertainment,  education,  search engine,  mortgage,  insurance,  financial, nuclear,
+accounting   and   banking.  Broad   understanding   of   development   and   relevant  object   oriented   re-
+engineering techniques indicative of a versatile business analyst. Knowledgeable in data modeling, data
+warehousing, and web services  providing a clear perspective of  data manipulation, presentation,
+transfers between multiple platforms and delivery through appropriate interfaces. Excellent oral and
+written communication skills with the ability to communicate appropriately in all levels of business and
+technical situations. Managed projects to determine the scope, timeline, and budget through execution.
+Proficient problem solving skills allowing rapid assimilation and resolution of complex issues. 
+AREAS OF EXPERTISE
+ Managing multiple high-profile projects in fast paced and high demand environments
+ Collaborating with executives to determine the scope, timeline, and budget of the projects
+ Proficient   in   leading   System   Development   Life   Cycle  (SDLC)  methodologies   including
+Agile/Scrum, Rational Unified Process (RUP), and the Waterfall model
+ Conducting  Joint   Application   Development  (JAD)  sessions,   interviews,   group   meetings,
+brainstorming sessions, and walkthrough requirements gathering sessions
+ Business modeling and analysis using UML diagrams such as Use Case diagrams and Activity
+diagrams using Enterprise Architect, Rational Rose, Microsoft Visio, and Caliber Define IT 
+ Gathering,  analyzing, and  documenting  business requirements and writing use cases, based on
+information gathering sessions with users and technical team members
+ Requirements management skills using software tools including Enterprise Architect, Rational
+RequisitePro, Mercury Test Director, Caliber RM, and Jira
+ Documenting artifacts such as User Requirements Specification  (URS), Functional Requirements
+Specification (FRS), Software Requirements Specification (SRS), and Traceability Matrices
+ Analysis, design,  and  implementation  of processes and tools targeted towards measurement of
+software release metrics: requirements coverage, test execution, and defect tracking
+ Designing and conducting User Acceptance Testing (UAT) based upon user requirements
+ Knowledgeable in Oracle and writing SQL queries and understanding entity-relationship diagrams
+ Gap Analysis: integrating legacy systems with new application functionality and data conversion
+TECHNICAL SKILLS
+Modeling Tools: Enterprise Architect, MS Visio, Rational Rose, Define IT
+Requirements Tools:  Visual Studio, RequisitePro, Mercury TestDirector, Caliber RM
+Testing Tools: Quality Center, WinRunner, LoadRunner, Rational Robot
+Databases: Oracle, Sybase, Rapid SQL, SQL Server, MySQL, MS Access
+Programming Languages: C, C++, Java, JSP, Visual Basic, SQL, HTML, .Net, XAML
+Operating Systems: Windows, Unix, Linux, Mac
+Networking: TCP/IP, Network Protocols, Web Services
+Other Tools: SAP ERP R/3, Omniture, Jira, TFS, MS Designer/Blend, Doc/Content 
+Mgmt, Photoshop, Lotus Notes, Documentum, ExactTarget, Sitecore, 
+PEGA PRPC, OBPM, Salesforce, Workday Cloud SaaS, Mobile 
+EDUCATION
+Bachelor of Science - Computer Information Systems, California State University Los Angeles
+
+
+PROFESSIONAL EXPERIENCE
+USC, University of Southern California – Los Angeles, CA              (Contract) July 2013 – Present
+Project Manager / Senior Pega Business Systems Analyst
+USC is a leading private research university. Project effort was to integrate legacy systems to the cloud
+software-as-a-service (SaaS) application platform.
+Responsibilities:
+ Successfully managed the completion of the integration of multiple legacy systems to the cloud SaaS
+infrastructure platform universally consumed by all users
+ Led the migration to conversion process including development and deployment efforts, testing and
+UAT processes while maximizing resource efficiencies
+ Substantially increased proficiency in human resources, payroll and benefits, and timekeeping
+ Ensure integrity and delivery of multiple projects with respect to time, budget, scope creep, rapid
+changes, risk management and overall resources
+ Created the Request for Proposals (RFP) and Fit-Gap analysis artifacts for the transition of additional
+downstream applications to the recent cloud technology platform
+ Convinced executives to buy-in to the RFP created by demonstrating the efficiencies and benefits
+ Mitigated   company   risk   associated   with   compliance   and   protected   user   privacy   by   ensuring
+encryption solutions are maximized
+ Provided resolutions to company staffing reductions, technical strategies, and mitigated long-term
+risk by identifying, escalating and resolving issues across multiple delivery groups and projects
+ Conducted planning and operational readiness assessments to provide an effective transition into
+production along with custom training procedures and resources
+Environments: Workday HCM and Financial SaaS Cloud, Jira, Kronos, Kuali Financial Systems
+United Health Group - Cypress, CA                                                   (Contract) April 2012 – July 2013
+Project Manager / Senior Pega Systems Analyst
+United Health Group is a leading health care company, serving more than 75 million people worldwide.
+Projects were based on improving applications Oracle BPM and Pega PRPC.
+Responsibilities:
+ Project lead role defining estimates for current and future project undertakings including budget
+guidance and level of efforts for all collaborative team resources
+ Scrum Master on Agile project to expedite rapid assimilation of development and turn-around-times
+on quality iterative delivery of the overall product
+ Driving elaboration sessions in joint application development environment including key players
+from the business stakeholders, subject matter experts and IT development
+ Produced critical project deliverables including impact estimates, system solution designs, traceability
+matrix and use cases for sign-off and baseline for construction and implementation
+ Provided solutions and recommendations based on best practices on systems integration and interface
+consolidation with web service request and response for data access
+ Managing issues with consumer and commercial Member and Provider critical data including appeals
+and grievances with claims services and customer call center
+ Modifying current workflow process for satisfying the industry compliance rules and regulations
+ Overseeing the accuracy of clinical and revenue cycle data and billing for hospitals, doctors and
+external providers
+ Led the ICD 10 source of truth implementation for updated medical classification codes and
+descriptions throughout all corporate applications and systems
+
+
+Environments: Pega PRPC (Pega Rules Process Commander), Oracle BPM, Agile/Scrum, WSDL, B2B,
+Quality Center, Sharepoint, Pega Reports Certified, Salesforce, Service Now
+20th Century Fox - Los Angeles, CA                                        (Contract) December 2011 – April 2012
+Project Manager / Senior Business Analyst
+Fox is one of the major  American film and television studios. Projects managed involved B2B
+applications delivering marketing and broadcast digital assets
+Responsibilities:
+ Managed, produced and executed the project plan, scope, release planning, and status reports
+ Made critical technical and design decisions in all aspects of the enterprise application development
+process including database, web, client tools, services and system interfaces
+ Provided guidance to development team and managed daily tasks, product backlog and resource
+progress to ensure prompt delivery of project deliverables and milestones
+ Advised   heavily  in   both   the   re-engineering   of   existing   systems,   as   well   as   the   design   and
+implementation of new features and applications
+ Implemented the Agile and SCRUM best practices to increase productivity including running daily
+scrum meetings, prioritization, updates, progress, risks of team members’ efforts
+ Provided best solutions and accurate estimates based on technical and functional requirements
+ Ability to handle diverse situations, multiple projects and rapidly changing priorities pertaining to
+Agile/SCRUM methodology
+ Visualized and created user experiences and GUI designs using Expression Blend
+ Clear   understanding   of   fundamentals   of   software   development,   including   best   practices   and
+knowledge about 3rd party UI libraries, controls and components
+ Advanced knowledge of  Visual Studio 2008/2010, Team Foundation Server 2010, SQL Server
+2005/2008, SQL SSIS, SQL Reporting Services
+ Conducted   system   and   regression   testing   to   validate   quality   products   are   developed   before
+deployment
+Environments: VS ‘08/’10, TFS 2010, SQL Server ‘05/’08, Silverlight,  XML, ExpBlend, Facets, Pivot,
+Informatica, XAML, SharePoint 2010, Telerik, Infragistics, Artesia/OpenText JDE E1, Siebel
+Capital Group Companies - Irvine, CA                                        (Contract) June 2011 – October 2011
+Senior Business Systems Analyst / Project Manager
+CGC is a group of financial investment management companies. Managed projects include streamlining
+best practices and expansion, document and content management production support and enhancements.
+Responsibilities:
+ Lead multiple project teams and assisted in the development and execution of business proposals
+ Provided recommendations and solutions for the large corporate wide effort to expand account
+efficiencies including consolidating all financial instruments and associations
+ Demonstrated leadership role for other Business Analysts among the project teams
+ Liaison between  business  units and technical teams to identify, analyze, and translate  business
+justified needs and end user requirements into system specifications documents
+ Gathered business requirements from clients, stakeholders, subject matter experts and business
+managers to produce artifacts and specifications for presentations, review and approval
+ Analyzed existing processes and assisted in improving and redefining future system processes and the
+technology needed to support the enhanced system environments including cost benefit analysis
+ Conducted impact analysis across multiple applications and platforms to effectively streamline
+enhancements with minimal impacts and efforts to corporate systems and outside vendors
+ Converted legacy Davast reporting system to Business Objects Crystal Reports
+ Participated in testing efforts to ensure business approval and resolved defects
+
+
+Environments:  Agile/Scrum, EMC Documentum, Oracle, Sybase, Rapid SQL, Project/Visio, SAP
+Financial, Lotus Notes Connector, Davast, Business Objects Crystal Reports, Remedy, InputAccel 
+Southern California Edison (SCE) - San Onofre, CA             (Contract) September 2010 – May 2011
+Senior Business Systems Analyst / Project Manager
+Southern California Edison provides electric service to Southern California
+ for more than a century.
+Managed projects on the SAP ERP R/3 system pertaining to document, records and content management.
+Responsibilities:
+ Managed and provided guidance to business system analysts, developers, quality assurance analysts,
+and subject matter experts (SME’s) to execute release cycles in production environments
+ Recommended solutions to the SAP ERP R/3 RMS/DMS (Records Management System/Document
+Management System) to ensure all activities on multiple systems are accurately synced and updated
+including content management of proprietary and nuclear compliance records, procedures, manuals,
+drawings, metadata and attributes
+ Introduced and implemented the  Agile/SCRUM  methodology to enhance productivity including
+running daily scrum meetings, prioritization, updates, progress, risks of team members’ efforts,
+product backlogs and burndown charts, scrum master responsibilities
+ Implemented new systems for image scanning along with statistical sampling for quality visual
+verification of nuclear information and drawings
+ Provided documentation of both functional and technical specifications, test scripts, wireframes, use
+cases, workflow diagrams, storyboards, quality assurance and reports including nuclear notifications
+ Authored job aids and user manuals for training while conducting user acceptance testing (UAT) for
+final approval prior to the release of enhancements and improvements to production
+ Drafted   request   for   proposals   (RFP)   to  implement   new   projects   and   systems   for   enhancing
+productivity and adapting to evolving technological advances
+Environments:   SAP   ERP   R/3   RMS/DMS,  HP   Quality   Center,   MS   Office   2010/Project/Visio,
+Agile/Scrum, Oracle, OpenText, ECC PI/XI, Basis, Kofax Imaging, Lotus Notes 8.5, Sametime 8.0.2
+Freelance Consultant (Multiple companies)    (Contracts) January 2010 – September 2010
+Project Manager / Senior Business Systems Analyst
+Universal Music Group (UMG) - Universal City, CA              (Contract) May 2008 – December 2009
+Senior Business Analyst
+Universal Music Group is the world’s leading music company. Managed multiple projects on multiple
+teams, including CRM, eCommerce, Digital Distribution, B2B, and employee directory/profile system.
+Responsibilities:
+ Lead and provided guidance to several groups consisting of business system analysts, quality
+assurance analysts, and subject matter experts (SME’s) to ensure timely execution of key deliverables
+and business processes throughout the lifecycle of several critical projects
+ Wrote request for proposals (RFP) for new projects and acquisition of new systems for increasing
+productivity and adapting to technological improvements
+ Managed the maintenance and enhancements for the marketing of the eCRM system including
+campaign/sweepstakes email, mobile marketing, and complex reporting in .Net framework
+ Mentored other business analysts by reviewing documents and managing the iterative tasks and
+processes implemented in the Sprint meetings and methodologies 
+ Coordinated meetings and managed business relations with international business partners and
+executive management to maintain seamless relationships across global marketing interests
+
+
+ Conducted Agile/SCRUM methodology for daily prioritization, updates, progress, and risks of team
+members’ efforts; utilized management tools including MS Project and Jira management system
+ Involved in negotiations and conflict resolutions between all parties and best interests
+ Developed business and functional requirements utilizing key components of clear and concise
+documents including wireframes, use cases, workflow diagrams, and storyboards 
+ Verified consumer data during daily data warehouse for both domestic and international data,
+including verifying database tables and extracting transforming and loading data into various reports
+Environments:  eCRM, Oracle, SQL Server, MySQL, Java, Perl, Jira, Subversion, Team Foundation
+Server, MS Project/Visio/Sharepoint, API, Agile/Scrum, PeopleSoft, BPMN, SOA, Google Analytics
+Yellowpages.com - Glendale, CA                                               (Contract) October 2007 – March 2008
+Senior Business Systems Analyst
+Yellowpages.com is an internet search directory. The projects consisted of creating reporting tools to
+automate traffic scorecards and other tools for strategic online ad sales and revenue driven objectives.
+ 
+Responsibilities:
+ Worked cross-functionality with management, sales, marketing, research and development, to balance
+product lines and determine business strategies
+ Managed and lead other business analysts within the organization to produce key artifacts and driving
+the project to successful deployment
+ Extracted and analyzed online advertiser  impressions,  searches, clicks, and page views  from  ad
+servers, through Omniture Site Catalyst and the internal intranet site
+ Provided key liaison communication between business and development teams in translating high-
+level business requirements to technical requirements including single-sign-on
+ Conducted presentations and walkthroughs for stakeholder review and analysis of all key deliverables
+ Provided change control processes, and gap analysis to ensure seamless product enhancements
+ Performed quality assurance and UAT of the new traffic logging implementations for live production
+ Produced Ad Hoc reports and data analysis of abnormal traffic trends
+Environments: SQL, Visual Studio/Source Safe, Omniture Site Catalyst, Jira, Agile/Scrum
+CCH Wolters Kluwer - Torrance, CA                                           (Contract) July 2006 – October 2007
+Senior Business Systems Analyst
+Wolters Kluwer provides tax, accounting and legal services. The project involved consolidating three
+legacy applications into one seamless application to manage and increase revenues for clients.
+Responsibilities:
+ Supervised and lead an Agile team of junior and mid level business analysts to project success
+ Gathered requirements from key stakeholders and product management to develop  Functional
+Requirements documents and specifications for sign-off
+ Developed Use Case documentation, Activity Diagrams, and User Interface documentation
+ Worked closely with all levels of management and team members including the architectural and
+development team, and design and testing team through joint application development sessions
+ Thoroughly worked in the iterative process with change control processes, and gap analysis to verify
+all deliverables are seamless in content and presentation
+ Managed the weekly sprint work breakdown structure and critical milestone implications
+ Performed Gap analysis for new functionality requirements, as well as prioritized them based on
+actual business needs so as to align them with the product release
+Environments: Enterprise Architect, MS Designer, Blend, VS, Caliber, Define IT, XAML, Sharepoint
+
+
+Bank of the West - Monterey Park, CA     (Contract) August 2004 – July 2006
+Senior Business Analyst 
+Bank of the West is a large general services bank. The project involved enhancing the online management
+of commercial clients’ business transactions, information reporting, wire transactions, and stop payments. 
+Responsibilities:
+ Worked with project manager to carry out in-depth cost benefit and risk analysis for the project plan
+ Worked as an interface between the users and the different teams involved in the application
+development for the better understanding of the business and IT processes
+ Created Use Cases and Activity Diagrams in accordance with UML methodology
+ Developed UAT plans and test case scenarios to guide a key end-users in testing the functionality
+Environments: Rational RequisitePro, RUP, SQL, MS Office, Test Director, Java, JSP, HTML, Oracle 
+Citigroup - Glendale, CA                       (Contract) June 2003 - July 2004
+Business Analyst
+Citigroup  is a financial services company. The  application enhanced the access to real-time account
+information, ability to download account information, and the option to enroll staff or service providers.
+Responsibilities:
+ Served  as   a  liaison  between  the  development  team  and  clients  by  assisting   in   identifying,
+understanding, and documenting their business needs
+ Conducted JAD requirement workshop sessions to facilitate requirements gathered
+ Performed GAP Analysis of existing systems with the new application 
+ Constructed attribute matrix, traceability matrix, traceability tree for the requirements 
+ Conducted User Acceptance Testing (UAT) and verified performance, and fault tolerance issues
+Environments: Rational Rose, Test Director, SQL, MS Project/Visio/Access, Windows, HTML, Oracle
+Transamerica - Los Angeles, CA                   (Contract) March 2002 - May 2003
+Business Analyst
+Transamerica offers commercial insurance and financial services. The project was a web-based customer
+service application, aimed at maintaining confidential and encrypted payment information.
+Responsibilities:
+ Actively engaged client and third party integration partners in requirements gathering and validation
+ Developed   business  Use   Cases  using  UML  for   new   product   functionality   after   conducting
+requirements sessions with client teams 
+ Lead design and status meetings to identify risks, prioritization, scope creep, and solution architecture
+ Manipulated client confidential payment data stored from the back end and emulated the user from
+the front end, displaying the encrypted data for security compliance
+ Maintained consistent legacy mainframe database with the new application functionality
+Environments: Java, HTML, TestDirector, SQL, MS Office Suite, MS Project, Oracle, MS Access
+Countrywide Financial - Rosemead, CA                               (Contract) January 2001 - February 2002
+Business Analyst / QA Analyst
+
+
+Countywide Financial provided mortgage, banking, insurance, asset management, credit cards, etc.
+The application designed was involved with integrating their Loan Origination System with their website.
+Responsibilities:
+ Gathered business requirements, analyzed data and workflows
+ Worked on designing the online service, allowing corporate to carry out standard banking operations 
+ Used Rational Unified Process (RUP) for streamlining the team’s development activities
+ Performed   and  co-coordinated the  system  testing,  regression  testing of  various  builds  during
+integration,   performance   and   User   Acceptance   Testing  (UAT)  using  Test   Director 
+Environments: Rational RequisitePro, TestDirector, SQL, MS Office, Windows, Java, HTML, Oracle]]> </ResumeTextFormat></Resume>

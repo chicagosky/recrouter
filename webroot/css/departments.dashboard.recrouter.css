@@ -1,0 +1,62 @@
+/*
+ * Tree node
+ */
+.node-menu-item {
+	padding: 0px !important;
+	border: none;
+}
+
+/*
+ * Font size for dropdown menu text
+ */
+.node-menu-item a {
+	font-weight: 500;
+	line-height: 15px;
+	font-size: 12px;
+}
+
+/*
+ * Size and padding for icons in dropdown menu
+ */
+.node-menu-item i {
+	font-size: smaller;
+	padding-right: 3px;
+}
+
+/*
+ * Constrain width of dropdown menu to 100% width of items
+ */
+.dropdown-menu {
+	min-width: 100%;
+}
+
+/*
+ * Remove lines before and after dropdown menu items
+ */
+li.node-menu-item:after, li.node-menu-item:before {
+	border: none;
+}
+
+.easy-tree {
+	overflow: auto;
+	box-shadow: 4px 0px 3px -1px rgba(226, 226, 226, 0.1);
+	border-right: 1px solid #edeef1;
+}
+
+.easy-tree h6 {
+	font-weight: 600;
+	font-size: 14px;
+}
+
+.side-text h6 {
+	font-weight: 600;
+	font-size: 14px;
+	margin-bottom: 20px;
+	margin-left: 10px;
+}
+
+.side-text p {
+	margin-left: 10px;
+	font-size: 13px;
+	line-height: 21px;
+}

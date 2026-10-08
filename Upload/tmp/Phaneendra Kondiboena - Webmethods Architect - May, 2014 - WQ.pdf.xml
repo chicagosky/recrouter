@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Resume><ResumeId ResumeParserProductName="RecruitPlus Resume Parser"><ResumeParserOrgName>ITCONS e-Solutions Private Limited</ResumeParserOrgName></ResumeId><StructuredXMLResume><ContactInfo><PersonName><FullName>PHANEENDRA KONDIBOENA</FullName><GivenName>PHANEENDRA</GivenName><MiddleName /><FamilyName>KONDIBOENA</FamilyName></PersonName><ContactMethod><Telephone><PhoneBasic>8125985206</PhoneBasic></Telephone><Mobile><phone_Mobile /></Mobile><Fax><FaxPhone /></Fax><InternetEmailAddress>phani73@hotmail.com</InternetEmailAddress><InternetEmailAddress /><PostalAddress><CountryName /><Region /><City /><PostalCode /><DeliveryAddress><AdressLine1 /><AdressLine2 /></DeliveryAddress></PostalAddress></ContactMethod></ContactInfo><ExecutiveSummary>Software consultant with over 12 years client site experience in managing and implementing end-to- end, client/server, and E-business solutions using WebMethods, EAI Active Works, Java
+Technologies, C++, and C
+Experienced in all phases of software development life cycle (SDLC)</ExecutiveSummary><Objective /><Role>Architect | Project Architect | Naval Architect | Landscape Architect | Tech Architect | Database Architect/Designer</Role><FunctionalArea> Architecture / Interior Design |  Architecture / Interior Design |  Architecture / Interior Design |  Architecture / Interior Design | IT Software -Application Programming / Maintenance | IT Software - Client Server | IT Software - DBA / Datawarehousing | IT Software - ERP / CRM | IT Software - Embedded / EDA / VLSI / ASIC / Chip Design | IT Software - Network Administration / Security | IT Software - Other | IT Software - QA &amp; Testing |  IT Software - System Programming |  IT Software - System Programming |  IT Software - Telecom |  IT Software - Telecom | IT Software - Systems / EDP / MIS | IT Software - Ecommerce /  Internet Technologies | IT Software - Mainframe |  IT Software - Mobile |  IT Software - Mobile | IT Software - Middleware</FunctionalArea><IndustryType /><EmploymentHistory><TotalExperience>13Year(s) &amp; 3Month(s)</TotalExperience><TotalProjectExperience>Year(s) &amp; Month(s)</TotalProjectExperience><CurrentSalary /><ExpectedSalary /><EmployerOrg><EmployerOrgName>Genzyme , NY, USA</EmployerOrgName><PositionHistory><CurrentEmplyor>True</CurrentEmplyor><Title>Architect</Title><OrgName><OrgName>Genzyme , NY, USA</OrgName></OrgName><Description>Architect (Professional Services) Client: Genzyme , NY, USA Feb 2008 Present Project: geDI Responsible for design reviews and architecture reviews for different release.  Developed process models on webmethods7.0/ 7.1. Created ISD, ISS documents for all the interfaces. Interacted with offshore development team for code drops. Responsible as Integration architect / solution architect. Environment: webMethods 7.1, Broker 7.1, JDBC adapter, mywebMethods , optimizer, process engine.</Description><StartDate><AnyDate>2/1/2008</AnyDate></StartDate><EndDate><Anydate>11/15/2014</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Spartan Stores, MI, USA</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Migration to 7.1</Title><OrgName><OrgName>Spartan Stores, MI, USA</OrgName></OrgName><Description>Client: Spartan Stores, MI, USA Jan 2008 Feb 2008. Project: Migration to 7.1 Architecture review &amp; Capacity planning for existing Architecture. Proposed the new Architecture &amp; Capacity planning report. Proposed the upgrade plan from webMethods6.1 to webmethods7.1. Installed and configured the webMethods 7.1 in different environments. Configured IS 7.1 clustering and Broker7.1 clustering for new environment. Environment: webMethods 7.1, Broker 7.1, JDBC adapter, EntireX, My Webmethods Server, optimizer.</Description><StartDate><AnyDate>1/1/2008</AnyDate></StartDate><EndDate><Anydate>2/1/2008</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Bristol-Myers Squibb, IN, USA</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>MQ migration</Title><OrgName><OrgName>Bristol-Myers Squibb, IN, USA</OrgName></OrgName><Description>Client: Bristol-Myers Squibb, IN, USA June 2007 Jan 2008. Project: MQ migration. Involved in requirements gathering with the business users. Created technical &amp; Architecture design documents. Involved critical technical issues &amp; resolution. Closely worked with infrastructure team for installing SP2 patches on webmethods server. Developed the code for fault tolerance. Involved in the code reviews. Environment: webMethods 6.5, Broker 6.5, JDBC adapter, MQ adapter 6.5.</Description><StartDate><AnyDate>6/1/2007</AnyDate></StartDate><EndDate><Anydate>1/1/2008</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Freddie Mac, VA, USA</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Event Framework Architecture</Title><OrgName><OrgName>Freddie Mac, VA, USA</OrgName></OrgName><Description>Client: Freddie Mac, VA, USA January 2004 July 2005 Project: MSOF_OnFire Event Framework Architecture for financial package. Involved in the architecture design. Developed the design document for event framework architecture. Developed the flow services and java services in webMethods6.1 to generate an event Developed the design document for implementation of cash window use case. Environment: webMethods 6.1, JMS adapter, weblogic.</Description><StartDate><AnyDate>1/1/2004</AnyDate></StartDate><EndDate><Anydate>7/1/2005</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Renesas, Sanjose, CA, USA</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Nokia Integration</Title><OrgName><OrgName>Renesas, Sanjose, CA, USA</OrgName></OrgName><Description>Client: Renesas, Sanjose, CA, USA June 2006 Nov -2006 Project: Nokia Integration. Rosetta Net Implementation Framework (RNIF) Responsible for integration testing of the PIPS 3C7, 4B3, 4B2, 4C1. Involved in the performance tuning webmethods portal, modular. Created the SAP adapter connections from web methods to SAP. Responsible for code review and remediations of the code. Environment: webMethods 6.5, JDBC adapter, SAP adapter, TN, web Methods business monitor, portal, workflow, Rosetta Net adapter.</Description><StartDate><AnyDate>6/1/2006</AnyDate></StartDate><EndDate><Anydate>11/1/2006</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>John Harland, GA, USA</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Quick Ship</Title><OrgName><OrgName>John Harland, GA, USA</OrgName></OrgName><Description>Client: John Harland, GA, USA Aug 2005 June 2006 Project: Quick Ship EAI implementation from mainframes to manufacturing plants. Created the technical design document. Installed &amp; configured the broker 6.1. Created the packages, folders and flow services. Created seven triggers / queues for seven plants on the broker. Involved in the migration process to production. Environment: webMethods 6.1, Broker 6.5, JDBC adapter.</Description><StartDate><AnyDate>8/1/2005</AnyDate></StartDate><EndDate><Anydate>6/1/2006</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Laxness, PA, USA</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>WebM 6.1 Migration</Title><OrgName><OrgName>Laxness, PA, USA</OrgName></OrgName><Description>Client: Laxness, PA, USA November 2004 January2005 Project: WebM 6.1 Migration  Migration from webmethods4.6 to webmethods6.1 Configured the MQ adapter services to MQ series queues. Configured the JDBC adapter services in webm 6.1 Environment: webMethods 6.1, JDBC Adapter, Oracle, MQ 3.6 Series Adapter. Client: SONY Electronics, NJ, USA Project: PO SPLIT Enterprise integration between Mainframes, SAP and Oracle using pub/sub mechanism in webm6.1. Responsible for the enterprise integration architecture design with pub/sub mechanism using Broker Architecture. Designed the Canonical and created the Canonical schema for Purchase order. Develop the flat file schema to parse the incoming EDI 850 flat file from Mainframes. Mapped the incoming EDI 850 data to Canonical purchase order XML. Developed flows for SAP look up tables. Developed the Notification events, Trigger in webm6.1 to publish the Canonical on the broker. Mapped the Canonical to SAP IDOC 05. Responsible for Design, Coding and Mentoring of SONY employees. Environment: webMethods 6.1, JDBC Adapter, Oracle, SAP, EDI Adapter, FaltFile Adapter, Mainframe.</Description><StartDate><AnyDate>11/1/2004</AnyDate></StartDate><EndDate><Anydate>1/1/2005</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>GMAC</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Architect</Title><OrgName><OrgName>GMAC</OrgName></OrgName><Description>Architect, GMAC RFC, Bloomington, MN, June-2003 Jan-2004 Client: RCG, MN, USA  Project: RCG Canada Integration of Filogix, MCAP Canada with RGC USA for message types Lender Response, Mortgage Detail Trained and mentored the RFC employees in webMethods tool Involved in the development of architecture for the project Configured and installed the listeners and MQ series queues. Developed the flow servers in webMethods for code translation from Filogix to RFC codes. Developed the interfaces to store procedures. Involved in the debugging and moving the code to production. Environment: webMethods 6.0, MQ Series Adapter, Oracle 11i.</Description><StartDate><AnyDate>6/1/2003</AnyDate></StartDate><EndDate><Anydate>1/1/2004</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>Network</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Lead Developer, Prom</Title><OrgName><OrgName>Network</OrgName></OrgName><Description>Lead Developer, Prom Network, Arlington, VA, Sep-2002-June2003 Client: PromNetwork.com, VA, USA Project: CDARS Providing financial institutions with innovative, profit-building solutions. Created different DSPs in webMethods server for CDARS application. Involved in the development of Corporate website promnetwork.com Involved in the performance tuning of webMethods code on webMethods server. Involved in the design face for the integration projects with Bank of New York. Involved in the development of performance test scenarios. Environment: webMethods 6.0, MQ Series Adaptor, Brio Reporting server, UNIX, iPlanet.</Description><StartDate><AnyDate>9/1/2002</AnyDate></StartDate><EndDate><Anydate>6/1/2003</Anydate></EndDate></PositionHistory></EmployerOrg><EmployerOrg><EmployerOrgName>ELEMICA</EmployerOrgName><PositionHistory><CurrentEmplyor>False</CurrentEmplyor><Title>Lead Developer</Title><OrgName><OrgName>ELEMICA</OrgName></OrgName><Description>Lead Developer, ELEMICA, King of Prussia, PA, Aug-2001 Aug- 2002 Client: Elemica, PA, USA Project: Proof of Concept for European Architecture New production environment in Europe with the concepts like Availability and Fail over recovery, using WebMethods clustering and external load balancers. Ability of queuing in the proxy server Involved in the design phase of the project Created the proof of concept environment using external load balancers, webMethods clustering and enterprise clustering on sun Solaris Developed the checkpoints code in webMethods for fail over recovery. Escalated the issue to webMethods regarding the GD problem when the repository server is killed and resolved the problem. Created the unit test scripts for network fail over, power fail over and server fail over. And involved in the testing of new architecture. Environment: Enterprise server 5.0, webMethods 4.6,Trading Networks 4.6  Client: Elemica, PA, USA Project: Vendor Management Inventory 202(VMI 202) Vendor management inventory is based on the concept that the vendor or supplier maintains the inventory at the buyer site. Created different document types like Delivery Receipt, Inventory Actual Usage, Demand Force Cast, Ship Notice, and Supply Plan in Trading Networks. Created different processing rules in the trading networks Involved in the mapping of DemandForcast, InventoryActualUsage, Deliver y Receipt and Supply plan Involved in the development of configuration operations on Enterprise server to route the information to manugistics. Environment: Enterprise server 4.0, B2B Bridge, webMethods 4.0.1, Trading Networks 4.0.1 Client: Elemica, PA, USA Project: Standard IDOC to ChemXML &amp; EDI to ChemXML Standard IDOC is the mapping from IDOC to ChemXML, And EDI mapping to chemXML. Involved in the preparation of mapping document from IDOC to ChemXML Developed the different flow servers to map IDOC_01 to IDOC_05 to chemXML from different transactions like Order Create, Order Response, Order Change, Ship Notice, and Invoice etc. Developed the custom IDOC to the particular client ZEON for different transactions like OrderCreat, OrderResponse, and Order Change. Involved in the mapping of 810, 856 EDI documents to ChemXML Invoice and Ship Notice. Environment: webMethods 4.0.1, TradingNetworks 4.0.1, Business connector, SAP adapter, EDI Adapter. Client: Elemica, PA, USA Project: Business Rules Engine Business Rules engine is a set of different Business rules that Elemica enforces on the clients to do Business with Elemica. Involved in the Design phase of the project Created the Design for different rules like rule11, rule27, and rule1. Involved in the implementation of the different business rules. Developed a java service in webMethods which reads the data from data base at run time and executes the different rules depends on the incoming document type. Created the unit test documents for EDI, IDOC and chemXML. Environment: webMethods 4.0.1, TradingNetworks 4.0.1, Business connector, SAP  Client: Elemica, PA, USA Project: ChemXML 2.0.2 Elemica is a leading network for the global chemical industry, developed by 22 of the leading chemical companies in the world for the benefit of entire industry. ChemXML 202 project is the up gradation to chemXML202 version. Involved in the gap analysis of chemXML 201 to chemXML 202 Developed the Framework in Trading Networks to accept the new message types of chemXML202 like OrderCreat202, OrderResponse202, OrderChange202, OrderCancel202, and OrderCancelResponse202 etc. Involved in creation of super set record structures to map the incoming document to superset to support interoperability. Involved in the mapping of OrderResponse202 message type to support interoperability with different versions of chemXML. Environment: webMethods 4.0.1, TradingNetworks 4.0.1, XML spy, Near &amp; Far Client: Elemica, PA, USA Project: OrderStatusRequest OrderStatusReqest is a synchronous response from the suppliers to the Buyers to trace the status of the orders submitted, routed through the Elemica Hub and the Asera web solution. Developed the validation engine to validate the incoming and outgoing documents like OrderStatusRequest and Response from Asera web solution Involved in the mapping of Asera OrderStatusRequest canonical to ChemXML OrderStatusRequest and from ChemXML OrderStatusResponse to Asera OrderStatusResponse Involved in the development of flow service on Business connector to pull the data from SAP backend. Environment: webMethods4.0.1, Trading Networks 4.0.1, SAP adapter, SAP. Senior Consultant, webMethods, Fairfax, VA, Jan 2001-July 2001 Client: Eastman Chemicals, TN, USA Project: chemEStandardOnRampAdaptor Developed an adaptor to facilitate Eastman Chemicals to communicate order information with their partners. Eastman is the world's largest supplier of polyester plastics for packing and a leading supplier of coatings, raw materials, specialty chemicals and plastics.  Involved in the design phase of the adapter. Developed the Outbound mapping from SAP (IDOC05) to CIDX 2.0.1 for different transactions like OrderCreate, OrderResponse, OrderChange, OrderCancel, OrderCancelResponse and Ship Notice. Developed the Inbound mapping from CIDX 2.0.1 to SAP (IDOC05) for different transactions like OrderCreate, OrderResponse, OrderChange, OrderCancel, OrderCancelResponse and shipNotice. Implemented the different conversation scripts in TradingNetworks (TN 4.0.1) for Buyer and Seller, which facilitate the business process between Eastman and their partners. Developed the plug-in for doing back end mapping by reading config file. Configured the security in webMethods server using the Verisign client and server cert. Compiled documentation. Environment: webMethods 4.0.1, Trading Networks 4.0.1, chemAdaptor 2.0, SAP Client: Bank Of America, Tysons Corner, VA &amp; charlotte, NC Project: BOA payment Engine Developed the payment Engine for the Bank Of America to disburse payments for purchase orders made by public sector clients. Developed the BOA Adaptor, to facilitate the communication between the HGAC market place and the Bank Of America Financial Service Engine (FSE) engine. Developed the webMethods flows to communicate with the webLogic JMS queue. Implemented the mapping from FSE (Financial Service Engine) DTDs to IFX (Interactive financial exchange) DTDs. Developed the IFX Adaptor, to facilitate communication between Financial Service Engine to Payment Engine Implemented webMethods flows, which make CORBA calls for the payment process. Implemented Guaranty Delivery (GD) between market place, Financial Service Engine and payment engine. Environment: webMethods 3.6,Unix Sun Solaris, WebLogic 5.0, Visigenic Visibroker. Client: webMethods, Fairfax, VA Project: Quick Arrow Provides online updates of information regarding the opportunity of winning the new project for the sales and professional services personnel. Installed and configured the Siebel intelligent adaptor to communicate with the Siebel database. Configured a new broker, event types, configuration operations and client groups and source ATC in the enterprise server. Developed the VB script function, which generates a notification event when there is a change in the  opportunity business object in the siebel database. Developed a blue print in the source ATC to map the incoming opportunity event to canonical event. Established the B2B Bridge between the B2B server and the EAI. Mapped the canonical event to the quick arrow opportunity DTD in B2B server. Developed the flow in B2B server which facilities the HTTP post from B2B server to quick arrow. Environment: Enterprise server 4.0, siebel Intelligent Adapter, Oracle Adaptor, B2B Bridge, webMethods 3.6, Unix. Client: webMethods, Fairfax, VA. Project: Extra Net. Provided a utility through a web interface to correct inconsistencies regarding webMethods partners and customers in the Siebel database. Mapped the customer information to the canonical in the B2B server. Established the B2B bridge between B2B server and the EAI. Published the canonical to the target ATC. Configured the broker, source and target ATCs, configuration operations, event types and client groups in the enterprise server. Installed and configured the siebel intelligent adaptor close to the siebel database. Environment: Enterprise server 4.0, Siebel Intelligent Adaptor, Oracle Notification Adapter, B2B bridge, webMethods 3.6, Unix, Broad vision. Senior Consultant, TransWorld Information Systems, Edison, NJ, Aug-1999-Dec -2000 Client: SupplyFORCE.com, King of Prussia, PA, USA Project: SupplyFORCE.com A comprehensive end-to-end supply chain management solution for cost-efficient on-line purchasing, customer service, and prompt delivery to local suppliers. Designed class diagrams and sequence diagrams (Reverse engineering). Responsible for implementation of key business functionality: Primary Distributor Assignment (PDAssignment), for assigning distributors to the products selected by the customer using Java1.2. Developed JSP for the distributor selection by the customer. Ensured backward convertibility of Java code from 1.2 to 1.1.7. Migrated Java code from Unix box to NT based webMethods, resulting in improved performance for distributed computing. Developed XML documents to communicate with the webMethods sever. Developed webMethods flows like customer flow, sales order flow in webmethods server. Environment: webMethods 3.0 (B2Bi), JDEdwards, iPlanet Server 4.0, Tom Cat, Unix (Sun Solaris),  visual caf, Java 1.2, Java Beans, JSP, XML Client: Etown.com, SanFrancisco, CA, USA Project: ShopAudioVideo.com Etown.com and ShopAudioVideo.com are the E-Commerce sites for online ordering of electronic equipment. Developed a third party tool for ShopAudioVideo.com to track the status of the online orders. Parsed XML document using DOM &amp; SAX parsers Developed DTD for the XML document Converted DOM document into a java object. Developed droplets (called as servlets), JHTML pages and java beans on Dynamo Application server 4.5 Enhanced the Etown.com web site to add the time stamp for outgoing faxes for different vendors. Sent the order to OneCall vendor using socket programming. Environment Java 2.0, Dynamo Application server 4.5, XML (IBM 4J), T-spaces, Droplets (called as servlets), JHTML, Java Beans, Unix (Linux), Oracle 8i Client: Ingram Micro, Los Angeles, CA. Project: Partnership America 1.0 Designed www.partnershipamerica.com to reflect Ingram Micro's new value propositions. The web site allows government and education sector customers to find IT products meeting their specifications and budget. Founded on value, Partnership America offers customers reliable products, services and support. Developed templates using Vignette Story server Developed Java Server Pages for Search-engine using Serve let-exec on Unix (Sun Solaris) Developed of Enterprise Java Beans for Search-engine using Gemstone Application Server. Integrated templates, and Java Server pages with HTML pages. Environment: Java 2.0, HTML, JavaScript, Templates, Java Server Pages, Enterprise Java Beans, Vignette Story Server, Servlet-Exec, Gemstone Application Server, Unix (Sun Solaris), Oracle, SQL- Server Client: Mezztech Systems Inc. San Jose, CA, USA Project: Circuit Gallery This project aims at reduction of cost of doing business by selling ORCAD files to the end customers through an E-Commerce sales model. This project consists of modules like online catalog, Online Quote generation, specialized pricing functionality, Order generation and Billing functionality.  Developed the Presentation layer using HTML, JavaScript, XML and SWING Components. Responsible for the development of Business logic layer on server side using Servlets, RMI and Enterprise Java Beans (EJB). Implemented the Data layer using Oracle8.0. Environment: Java 2.0, HTML, JavaScript, XML, UML, SWING, Servlets, RMI, EJB Consultant, ChallaSystems (P) Ltd., Hyderabad, AP, INDIA, 1995-1999 Client: Mezztech Systems Inc. San Jose, CA, USA Project: Intranet Mailing System Prepared a Detailed System design. Developed a user interface using HTML, JavaScript, and SWING Components. Developed server side business logic using Servlets, Java Server Pages and RMI. Designed and implemented security features using hidden fields and cookies. Team lead for QA assurance. Environment: Windows NT, JDK1.2, HTML, JavaScript, SWING, JDBC, Servlets, Java Server Pages (JSP) RMI Project: Cyber Shopper Enables users to purchase products on the Internet using various means of payment using a secure sever built on Standard encryption security. Delivered a general system design. Developed the user interface using MS-Front Page. Created tables like Product, Company, and Subscription etc., using MS-SQL Server. Troubleshot the software under demanding time constraints. Environment: Windows NT, Java Server 1.0, JDK1.1, SQL-Server 6.5, Java, JDBC, Servlets, HTML, JavaScript, MS-Front Page. Project: Medical Data Display Enables the user to monitor data generated by medical equipment by presenting it in a graphical form. Developed applets using visual caf Implemented a thread for continuous monitoring of data. Environment: Windows NT, JDK1.1, Java, Applets, Threads, Visual cafe.  Project: Customer Information System Enables a sales person to view, add and modify customer and purchase order information. Developed the user interface-using HTML. Developed programs for passing data between pages using advanced PERL programming constructs. Implemented server side programming in Perl on Unix platform Environment: Windows 95,Unix, Perl, HTML, JavaScript Associate Consultant, Anil Enterprises (P) Ltd., Hyderabad, India, 1995-1996 Project: Financial Accounting System A comprehensive system to track revenues for a hardware sales firm. Designed and developed key modules of the system. Interacted with customers for requirement gathering. Developed a proto type for proof of concept. Coordinated User Acceptance Testing. Environment: Sco-Unix, C, C++, Debugger (DBX), SCCS (Source Code Control System), X-MOTIF 1.2</Description><StartDate><AnyDate>8/1/2001</AnyDate></StartDate><EndDate><Anydate>8/1/2002</Anydate></EndDate></PositionHistory></EmployerOrg></EmploymentHistory><EducationHistory /><LicensesAndCertifications><LicenseOrCertification /><Name /></LicensesAndCertifications><Qualifications /><languages /></StructuredXMLResume><ResumeAdditionalItems><ResumeAdditionalItem type="Personal"><FatherName /><DateOfBirth /><Age /><Gender>Unspecified</Gender><Nationality /><MaritalStatus>Unspecified</MaritalStatus><PassportNo /><VisaStatus /><Currentlocation /></ResumeAdditionalItem><ResumeAdditionalItem type="Resume Parsing Information"><ResumeParsingStartDate>11/12/2014 12:00:00 AM</ResumeParsingStartDate><ResumeParsingExpiryDate>11/27/2014 12:00:00 AM</ResumeParsingExpiryDate><NumberOfParsedResume>12</NumberOfParsedResume><MaxLimitOfParsedResume>100</MaxLimitOfParsedResume></ResumeAdditionalItem></ResumeAdditionalItems><ResumeContext /><ResumeTextFormat> <![CDATA[PHANEENDRA KONDIBOENA 
+812­598­5206
+phani73@hotmail.com
+EXPERIENCE SUMMARY: 
+Software consultant with over 12 years client site experience in managing and implementing end­to­
+end, client/server, and E­business solutions using WebMethods, EAI Active Works, Java 
+Technologies, C++, and C 
+Experienced in all phases of software development life cycle (SDLC) 
+Certifications: webMethods (B2Bi), EAI Active Works 
+Have experience on Adaptors for SAP, EDI, Oracle Financials, MQ Series, Siebel and Mainframe 
+Wide variety of technical, analytical, and project management skills 
+A recognized leader, versatile team player, and quick learner 
+Excellent analytical, problem solving, and interpersonal skills 
+TECHNICAL SKILLS: 
+Languages: C, C++, HTML, JavaScript, CGI, PERL, Java, UML, XML, JHTML 
+Programming Concepts: IO, AWT, Swing, Applets, Threads, Networking (URL, Sockets and UDP 
+programming), JDBC, Servlets, Java Server Pages (JSP), JNI, JNDI, Distributed Computing (RMI, 
+CORBA with Visigenic Visibroker 3.2 for Java), Enterprise Java Beans (EJB) 
+Tools: webMethods 3.0/ 3.6/ 4.0/ 4.0.1/ 4.6/ 6.0/6.0.1/6.1, EAI Active Works, Vignette Story Server 
+4.0, Tomcat, Borland C++, JBuilder, Visual Cafe 
+Application Servers: WebLogic, iPlanet, Gemstone 
+Operating Systems: UNIX, Windows 95/98/2000 and Windows NT 
+Databases: Oracle, SQL­Server 
+EDUCATION: 
+BS, Computer Science, (Honors) 
+Certifications: webMethods (B2Bi), EAI Active Works 
+PROFESSIONAL EXPERIENCE: 
+Architect (Professional Services) 
+Client: Genzyme , NY, USA Feb 2008 Present 
+Project : geDI 
+Responsible for design reviews and architecture reviews for different release. 
+
+
+Developed process models on webmethods7.0/ 7.1. 
+Created ISD, ISS documents for all the interfaces. 
+Interacted with offshore development team for code drops. 
+Responsible as Integration architect / solution architect. 
+Environment: webMethods 7.1, Broker 7.1, JDBC adapter, mywebMethods , optimizer, process 
+engine. 
+Client: Spartan Stores, MI, USA Jan 2008 Feb 2008. 
+Project: Migration to 7.1 
+Architecture review &amp; Capacity planning for existing Architecture. 
+Proposed the new Architecture &amp; Capacity planning report. 
+Proposed the upgrade plan from webMethods6.1 to webmethods7.1. 
+Installed and configured the webMethods 7.1 in different environments. 
+Configured IS 7.1 clustering and Broker7.1 clustering for new environment. 
+Environment: webMethods 7.1, Broker 7.1, JDBC adapter, EntireX, My Webmethods Server, 
+optimizer. 
+Client: Bristol­Myers Squibb, IN, USA June 2007 Jan 2008. 
+Project: MQ migration. 
+Involved in requirements gathering with the business users. 
+Created technical &amp; Architecture design documents. 
+Involved critical technical issues &amp; resolution. 
+Closely worked with infrastructure team for installing SP2 patches on webmethods server. 
+Developed the code for fault tolerance. 
+Involved in the code reviews. 
+Environment: webMethods 6.5, Broker 6.5, JDBC adapter, MQ adapter 6.5. 
+Client: Freddie Mac, VA, USA Nov 2006 June 2007 
+Project: Summit 
+Responsible for creating error handling, logging, and notifications mechanism. 
+Mentoring the Freddie Mac employees in web methods. 
+Involved in the migration of packages &amp; configurations in different environments. 
+Helped in installing webmethods broker 6.5 in different environments. 
+Migrated triggers and document types from webmethods broker 6.1 to6.5 
+
+
+Environment: webMethods 6.1, Broker 6.5, JDBC adapter. 
+Client: Renesas, Sanjose, CA, USA June 2006 Nov ­2006 
+Project: Nokia Integration. 
+Rosetta Net Implementation Framework (RNIF) 
+Responsible for integration testing of the PIPS 3C7, 4B3, 4B2, 4C1. 
+Involved in the performance tuning webmethods portal, modular. 
+Created the SAP adapter connections from web methods to SAP. 
+Responsible for code review and remediations of the code. 
+Environment: webMethods 6.5, JDBC adapter, SAP adapter, TN, web Methods business monitor, 
+portal, workflow, Rosetta Net adapter. 
+Client: John Harland, GA, USA Aug 2005 June 2006 
+Project: Quick Ship 
+EAI implementation from mainframes to manufacturing plants. 
+Created the technical design document. 
+Installed &amp; configured the broker 6.1. 
+Created the packages, folders and flow services. 
+Created seven triggers / queues for seven plants on the broker. 
+Involved in the migration process to production. 
+Environment: webMethods 6.1, Broker 6.5, JDBC adapter. 
+Client: Freddie Mac, VA, USA January 2004 July 2005 
+Project: MSOF_OnFire 
+Event Framework Architecture for financial package. 
+Involved in the architecture design. 
+Developed the design document for event framework architecture. 
+Developed the flow services and java services in webMethods6.1 to generate an event 
+Developed the design document for implementation of cash window use case. 
+Environment: webMethods 6.1, JMS adapter, weblogic. 
+Client: Laxness, PA, USA November 2004 January2005 
+Project: WebM 6.1 Migration 
+
+
+Migration from webmethods4.6 to webmethods6.1 
+Configured the MQ adapter services to MQ series queues. 
+Configured the JDBC adapter services in webm 6.1 
+Environment: webMethods 6.1, JDBC Adapter, Oracle, MQ 3.6 Series Adapter. 
+Client: SONY Electronics, NJ, USA 
+Project: PO SPLIT 
+Enterprise integration between Mainframes, SAP and Oracle using pub/sub mechanism in 
+webm6.1. 
+Responsible for the enterprise integration architecture design with pub/sub mechanism using Broker 
+Architecture. 
+Designed the Canonical and created the Canonical schema for Purchase order. 
+Develop the flat file schema to parse the incoming EDI 850 flat file from Mainframes. 
+Mapped the incoming EDI 850 data to Canonical purchase order XML. 
+Developed flows for SAP look up tables. 
+Developed the Notification events, Trigger in webm6.1 to publish the Canonical on the broker. 
+Mapped the Canonical to SAP IDOC 05. 
+Responsible for Design, Coding and Mentoring of SONY employees. 
+Environment: webMethods 6.1, JDBC Adapter, Oracle, SAP, EDI Adapter, FaltFile Adapter, 
+Mainframe. 
+Architect, GMAC RFC, Bloomington, MN, Feb­2004­ Nov­2004 
+Client: ICG, MN, USA 
+Project: ICG Enterprise Integration 
+Integration of different systems like SMART, ATS, DIR in ICG using pub/ sub mechanism 
+in webMethods 6.0 
+Installed the webMethods 6.0 server in DEV, SHRD and PROD environments 
+Involved in the development of the architecture for the project. 
+Installed and configured the JDBC adapter on webMethods 6.0 
+Developed the interfaces to the store procedures to SMART database to get the Loan Funding 
+Business event. 
+Developed the Triggers and Notification Business Event in web Methods to automatically populate 
+the information between different systems when there is change in business event. 
+Involved the debugging of the code and moving the code to production. 
+Environment: webMethods 6.0, JDBC Adapter, SQL server. 
+Architect, GMAC RFC, Bloomington, MN, June­2003 Jan­2004 
+Client: RCG, MN, USA 
+
+
+Project: RCG Canada 
+Integration of Filogix, MCAP Canada with RGC USA for message types Lender Response, Mortgage
+Detail 
+Trained and mentored the RFC employees in webMethods tool 
+Involved in the development of architecture for the project 
+Configured and installed the listeners and MQ series queues. 
+Developed the flow servers in webMethods for code translation from Filogix to RFC codes. 
+Developed the interfaces to store procedures. 
+Involved in the debugging and moving the code to production. 
+Environment: webMethods 6.0, MQ Series Adapter, Oracle 11i. 
+Lead Developer, Prom Network, Arlington, VA, Sep­2002­June2003 
+Client: PromNetwork.com, VA, USA 
+Project: CDARS 
+Providing financial institutions with innovative, profit­building solutions. 
+Created different DSPs in webMethods server for CDARS application. 
+Involved in the development of Corporate website promnetwork.com 
+Involved in the performance tuning of webMethods code on webMethods server. 
+Involved in the design face for the integration projects with Bank of New York. 
+Involved in the development of performance test scenarios. 
+Environment: webMethods 6.0, MQ Series Adaptor, Brio Reporting server, UNIX, iPlanet. 
+Lead Developer, ELEMICA, King of Prussia, PA, Aug­2001 Aug­ 2002 
+Client: Elemica, PA, USA 
+Project: Proof of Concept for European Architecture 
+New production environment in Europe with the concepts like Availability and Fail over recovery, 
+using WebMethods clustering and external load balancers. Ability of queuing in the proxy server 
+Involved in the design phase of the project 
+Created the proof of concept environment using external load balancers, webMethods clustering and
+enterprise clustering on sun Solaris 
+Developed the checkpoints code in webMethods for fail over recovery. 
+Escalated the issue to webMethods regarding the GD problem when the repository server is killed 
+and resolved the problem. 
+Created the unit test scripts for network fail over, power fail over and server fail over. And involved in
+the testing of new architecture. 
+Environment: Enterprise server 5.0, webMethods 4.6,Trading Networks 4.6 
+
+
+Client: Elemica, PA, USA 
+Project: Vendor Management Inventory 202(VMI 202) 
+Vendor management inventory is based on the concept that the vendor or supplier maintains the 
+inventory at the buyer site. 
+Created different document types like Delivery Receipt, Inventory Actual Usage, Demand Force 
+Cast, Ship Notice, and Supply Plan in Trading Networks.
+Created different processing rules in the trading networks 
+Involved in the mapping of DemandForcast, InventoryActualUsage, Deliver y Receipt and Supply 
+plan 
+Involved in the development of configuration operations on Enterprise server to route the information
+to manugistics. 
+Environment: Enterprise server 4.0, B2B Bridge, webMethods 4.0.1, Trading Networks 4.0.1 
+Client: Elemica, PA, USA 
+Project: Standard IDOC to ChemXML &amp; EDI to ChemXML 
+Standard IDOC is the mapping from IDOC to ChemXML, And EDI mapping to chemXML. 
+Involved in the preparation of mapping document from IDOC to ChemXML 
+Developed the different flow servers to map IDOC_01 to IDOC_05 to chemXML from different 
+transactions like Order Create, Order Response, Order Change, Ship Notice, and Invoice etc. 
+Developed the custom IDOC to the particular client ZEON for different transactions like OrderCreat, 
+OrderResponse, and Order Change. 
+Involved in the mapping of 810, 856 EDI documents to ChemXML Invoice and Ship Notice. 
+Environment: webMethods 4.0.1, TradingNetworks 4.0.1, Business connector, SAP adapter, EDI 
+Adapter. 
+Client: Elemica, PA, USA 
+Project: Business Rules Engine 
+Business Rules engine is a set of different Business rules that Elemica enforces on the clients to do 
+Business with Elemica. 
+Involved in the Design phase of the project 
+Created the Design for different rules like rule11, rule27, and rule1. 
+Involved in the implementation of the different business rules. 
+Developed a java service in webMethods which reads the data from data base at run time and 
+executes the different rules depends on the incoming document type. 
+Created the unit test documents for EDI, IDOC and chemXML. 
+Environment: webMethods 4.0.1, TradingNetworks 4.0.1, Business connector, SAP 
+
+
+Client: Elemica, PA, USA 
+Project: ChemXML 2.0.2 
+Elemica is a leading network for the global chemical industry, developed by 22 of the leading 
+chemical companies in the world for the benefit of entire industry. ChemXML 202 project is the up 
+gradation to chemXML202 version. 
+Involved in the gap analysis of chemXML 201 to chemXML 202 
+Developed the Framework in Trading Networks to accept the new message types of chemXML202 
+like OrderCreat202, OrderResponse202, OrderChange202, OrderCancel202, and 
+OrderCancelResponse202 etc. 
+Involved in creation of super set record structures to map the incoming document to superset to 
+support interoperability. 
+Involved in the mapping of OrderResponse202 message type to support interoperability with 
+different versions of chemXML. 
+Environment: webMethods 4.0.1, TradingNetworks 4.0.1, XML spy, Near &amp; Far 
+Client: Elemica, PA, USA 
+Project: OrderStatusRequest 
+OrderStatusReqest is a synchronous response from the suppliers to the Buyers to trace the status of
+the orders submitted, routed through the Elemica Hub and the Asera web solution. 
+Developed the validation engine to validate the incoming and outgoing documents like 
+OrderStatusRequest and Response from Asera web solution 
+Involved in the mapping of Asera OrderStatusRequest canonical to ChemXML OrderStatusRequest 
+and from ChemXML OrderStatusResponse to Asera OrderStatusResponse 
+Involved in the development of flow service on Business connector to pull the data from SAP 
+backend. 
+Environment: webMethods4.0.1, Trading Networks 4.0.1, SAP adapter, SAP. 
+Senior Consultant, webMethods, Fairfax, VA, Jan 2001­July 2001 
+Client: Eastman Chemicals, TN, USA 
+Project: chemEStandardOnRampAdaptor 
+Developed an adaptor to facilitate Eastman Chemicals to communicate order information with their 
+partners. 
+Eastman is the worlds largest supplier of polyester plastics for packing and a leading supplier of 
+coatings, raw materials, specialty chemicals and plastics. 
+
+
+Involved in the design phase of the adapter. 
+Developed the Outbound mapping from SAP (IDOC05) to CIDX 2.0.1 for different transactions like 
+OrderCreate, OrderResponse, OrderChange, OrderCancel, OrderCancelResponse and Ship 
+Notice. 
+Developed the Inbound mapping from CIDX 2.0.1 to SAP (IDOC05) for different transactions like 
+OrderCreate, OrderResponse, OrderChange, OrderCancel, OrderCancelResponse and shipNotice. 
+Implemented the different conversation scripts in TradingNetworks (TN 4.0.1) for Buyer and Seller, 
+which facilitate the business process between Eastman and their partners. 
+Developed the plug­in for doing back end mapping by reading config file. 
+Configured the security in webMethods server using the Verisign client and server cert. 
+Compiled documentation. 
+Environment: webMethods 4.0.1, Trading Networks 4.0.1, chemAdaptor 2.0, SAP 
+Client: Bank Of America, Tysons Corner, VA &amp; charlotte, NC 
+Project: BOA payment Engine 
+Developed the payment Engine for the Bank Of America to disburse payments for purchase orders 
+made by public sector clients. 
+Developed the BOA Adaptor, to facilitate the communication between the HGAC market place and 
+the Bank Of America Financial Service Engine (FSE) engine. 
+Developed the webMethods flows to communicate with the webLogic JMS queue. 
+Implemented the mapping from FSE (Financial Service Engine) DTDs to IFX (Interactive financial 
+exchange) DTDs. 
+Developed the IFX Adaptor, to facilitate communication between Financial Service Engine to 
+Payment Engine 
+Implemented webMethods flows, which make CORBA calls for the payment process. 
+Implemented Guaranty Delivery (GD) between market place, Financial Service Engine and payment 
+engine. 
+Environment: webMethods 3.6,Unix Sun Solaris, WebLogic 5.0, Visigenic Visibroker. 
+Client: webMethods, Fairfax, VA 
+Project: Quick Arrow 
+Provides online updates of information regarding the opportunity of winning the new project for the 
+sales and professional services personnel. 
+Installed and configured the Siebel intelligent adaptor to communicate with the Siebel database. 
+Configured a new broker, event types, configuration operations and client groups and source ATC in
+the enterprise server. 
+Developed the VB script function, which generates a notification event when there is a change in the
+
+
+opportunity business object in the siebel database.
+Developed a blue print in the source ATC to map the incoming opportunity event to canonical event. 
+Established the B2B Bridge between the B2B server and the EAI. 
+Mapped the canonical event to the quick arrow opportunity DTD in B2B server. 
+Developed the flow in B2B server which facilities the HTTP post from B2B server to quick arrow. 
+Environment: Enterprise server 4.0, siebel Intelligent Adapter, Oracle Adaptor, B2B 
+Bridge, webMethods 3.6, Unix. 
+Client: webMethods, Fairfax, VA. 
+Project: Extra Net. 
+Provided a utility through a web interface to correct inconsistencies regarding webMethods partners 
+and customers in the Siebel database. 
+Mapped the customer information to the canonical in the B2B server. 
+Established the B2B bridge between B2B server and the EAI. 
+Published the canonical to the target ATC. 
+Configured the broker, source and target ATCs, configuration operations, event types and client 
+groups in the enterprise server. 
+Installed and configured the siebel intelligent adaptor close to the siebel database. 
+Environment: Enterprise server 4.0, Siebel Intelligent Adaptor, Oracle Notification Adapter, B2B 
+bridge, webMethods 3.6, Unix, Broad vision. 
+Senior Consultant, TransWorld Information Systems, Edison, NJ, Aug­1999­Dec ­2000 
+Client: SupplyFORCE.com, King of Prussia, PA, USA 
+Project: SupplyFORCE.com 
+A comprehensive end­to­end supply chain management solution for cost­efficient on­line 
+purchasing, customer service, and prompt delivery to local suppliers. 
+Designed class diagrams and sequence diagrams (Reverse engineering). 
+Responsible for implementation of key business functionality: Primary Distributor Assignment 
+(PDAssignment), for assigning distributors to the products selected by the customer using Java1.2. 
+Developed JSP for the distributor selection by the customer. 
+Ensured backward convertibility of Java code from 1.2 to 1.1.7. 
+Migrated Java code from Unix box to NT based webMethods, resulting in improved performance for 
+distributed computing. 
+Developed XML documents to communicate with the webMethods sever. 
+Developed webMethods flows like customer flow, sales order flow in webmethods server. 
+Environment: webMethods 3.0 (B2Bi), JDEdwards, iPlanet Server 4.0, Tom Cat, Unix (Sun Solaris), 
+
+
+visual caf, Java 1.2, Java Beans, JSP, XML 
+Client: Etown.com, SanFrancisco, CA, USA 
+Project: ShopAudioVideo.com 
+Etown.com and ShopAudioVideo.com are the E­Commerce sites for online ordering of electronic 
+equipment. Developed a third party tool for ShopAudioVideo.com to track the status of the online 
+orders. 
+Parsed XML document using DOM &amp; SAX parsers 
+Developed DTD for the XML document 
+Converted DOM document into a java object. 
+Developed droplets (called as servlets), JHTML pages and java beans on Dynamo Application 
+server 4.5 
+Enhanced the Etown.com web site to add the time stamp for outgoing faxes for different vendors. 
+Sent the order to OneCall vendor using socket programming. 
+Environment Java 2.0, Dynamo Application server 4.5, XML (IBM 4J), T­spaces, Droplets (called as 
+servlets), JHTML, Java Beans, Unix (Linux), Oracle 8i 
+Client: Ingram Micro, Los Angeles, CA. 
+Project: Partnership America 1.0 
+Designed www.partnershipamerica.com to reflect Ingram Micro's new value propositions. The web 
+site allows government and education sector customers to find IT products meeting their 
+specifications and budget. Founded on value, Partnership America offers customers reliable 
+products, services and support. 
+Developed templates using Vignette Story server 
+Developed Java Server Pages for Search­engine using Serve let­exec on Unix (Sun Solaris) 
+Developed of Enterprise Java Beans for Search­engine using Gemstone Application Server. 
+Integrated templates, and Java Server pages with HTML pages. 
+Environment: Java 2.0, HTML, JavaScript, Templates, Java Server Pages, Enterprise Java Beans, 
+Vignette Story Server, Servlet­Exec, Gemstone Application Server, Unix (Sun Solaris), Oracle, SQL­
+Server 
+Client: Mezztech Systems Inc. San Jose, CA, USA 
+Project: Circuit Gallery 
+This project aims at reduction of cost of doing business by selling ORCAD files to the end customers
+through an E­Commerce sales model. This project consists of modules like online catalog, Online 
+Quote generation, specialized pricing functionality, Order generation and Billing functionality. 
+
+
+Developed the Presentation layer using HTML, JavaScript, XML and SWING Components. 
+Responsible for the development of Business logic layer on server side using Servlets, RMI and 
+Enterprise Java Beans (EJB). 
+Implemented the Data layer using Oracle8.0. 
+Environment: Java 2.0, HTML, JavaScript, XML, UML, SWING, Servlets, RMI, EJB 
+Consultant, ChallaSystems (P) Ltd., Hyderabad, AP, INDIA, 1995­1999 
+Client: Mezztech Systems Inc. San Jose, CA, USA 
+Project: Intranet Mailing System 
+Prepared a Detailed System design. 
+Developed a user interface using HTML, JavaScript, and SWING Components. 
+Developed server side business logic using Servlets, Java Server Pages and RMI. 
+Designed and implemented security features using hidden fields and cookies. 
+Team lead for QA assurance. 
+Environment: Windows NT, JDK1.2, HTML, JavaScript, SWING, JDBC, Servlets, Java Server Pages
+(JSP) RMI 
+Project: Cyber Shopper 
+Enables users to purchase products on the Internet using various means of payment using a secure 
+sever built on Standard encryption security. 
+Delivered a general system design. 
+Developed the user interface using MS­Front Page. 
+Created tables like Product, Company, and Subscription etc., using MS­SQL Server. 
+Troubleshot the software under demanding time constraints. 
+Environment: Windows NT, Java Server 1.0, JDK1.1, SQL­Server 6.5, Java, JDBC, Servlets, HTML,
+JavaScript, MS­Front Page. 
+Project: Medical Data Display 
+Enables the user to monitor data generated by medical equipment by presenting it in a graphical 
+form. 
+Developed applets using visual caf 
+Implemented a thread for continuous monitoring of data. 
+Environment: Windows NT, JDK1.1, Java, Applets, Threads, Visual cafe. 
+
+
+Project: Customer Information System 
+Enables a sales person to view, add and modify customer and purchase order information. 
+Developed the user interface­using HTML. 
+Developed programs for passing data between pages using advanced PERL programming 
+constructs. 
+Implemented server side programming in Perl on Unix platform 
+Environment: Windows 95,Unix, Perl, HTML, JavaScript 
+Associate Consultant, Anil Enterprises (P) Ltd., Hyderabad, India, 1995­1996 
+Project: Financial Accounting System 
+A comprehensive system to track revenues for a hardware sales firm. 
+Designed and developed key modules of the system. 
+Interacted with customers for requirement gathering. 
+Developed a proto type for proof of concept. 
+Coordinated User Acceptance Testing. 
+Environment: Sco­Unix, C, C++, Debugger (DBX), SCCS (Source Code Control System), X­MOTIF 
+1.2 
+References: Available on Request ]]> </ResumeTextFormat></Resume>

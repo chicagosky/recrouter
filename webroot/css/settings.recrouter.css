@@ -1,0 +1,38 @@
+.content-no-top-margin {
+	margin-top: -21px;
+	margin-bottom: 23px;
+}
+
+.inline-page-title {
+	display: inline-block;
+}
+
+.inline-title-button {
+	margin-bottom: 10px;
+}
+
+/* make sidebar nav vertical */ 
+@media (min-width: 768px) {
+	.sidebar-nav .navbar .navbar-collapse {
+		padding: 0;
+		max-height: none;
+	}
+	
+	.sidebar-nav .navbar ul {
+		float: none;
+	}
+	
+	.sidebar-nav .navbar ul:not {
+		display: block;
+	}
+  
+	.sidebar-nav .navbar li {
+		float: none;
+		display: block;
+	}
+	
+	.sidebar-nav .navbar li a {
+		padding-top: 12px;
+		padding-bottom: 12px;
+	}
+}

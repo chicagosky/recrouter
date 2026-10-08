@@ -1,0 +1,47 @@
+.login-form,
+.register-form {
+	background-color: #fff;
+	border-radius: 5px;
+	margin-top: 50px;
+	-moz-border-radius: 5px;
+	-moz-box-shadow: 0 1px 10px 0 rgba(0, 0, 0, 0.25);
+	-webkit-box-shadow: 0 1px 10px 0 rgba(0, 0, 0, 0.25);
+	box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.2);
+}
+
+.register-form {
+	margin-top: 25px;
+}
+
+.login-form h2,
+.register-form h2 {
+	font: 20px "OpenSans-Bold";
+	margin: 0 0 10px 30px;
+	padding-top: 20px;
+	color: #555;
+}
+
+.register-form input[type="text"],
+.register-form input[type="password"] {
+	background-color: #F2F2F2;
+}
+
+.line {
+	width: 100%;
+	height: 1px;
+	background-color: #d7d7d7;
+}
+
+.social .btn {
+	font: 9px "OpenSans";
+}
+
+.with-left-side-bar {
+	border-left: 1px solid #edeef1;
+	box-shadow: -3px 0px 3px -1px rgba(226, 226, 226, 0.1);
+}
+
+h6 {
+	text-transform: uppercase;
+	font-weight: 600;
+}

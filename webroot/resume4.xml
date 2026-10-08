@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume>
+    <ResumeId ResumeParserProductName="RecruitPlus Resume Parser">
+        <ResumeParserOrgName>ITCONS e-Solutions Private Limited</ResumeParserOrgName>
+    </ResumeId>
+    <StructuredXMLResume>
+        <ContactInfo>
+            <PersonName>
+                <FullName>Sriraj Rajaram</FullName>
+                <GivenName>Sriraj</GivenName>
+                <MiddleName />
+                <FamilyName>Rajaram</FamilyName>
+            </PersonName>
+            <ContactMethod>
+                <Telephone>
+                    <PhoneBasic>+16304470152</PhoneBasic>
+                </Telephone>
+                <Mobile>
+                    <phone_Mobile />
+                </Mobile>
+                <Fax>
+                    <FaxPhone />
+                </Fax>
+                <InternetEmailAddress>sriraj.rajaram@gmail.com</InternetEmailAddress>
+                <InternetEmailAddress />
+                <PostalAddress>
+                    <CountryName />
+                    <Region />
+                    <City />
+                    <PostalCode />
+                    <DeliveryAddress>
+                        <AdressLine1 />
+                        <AdressLine2 />
+                    </DeliveryAddress>
+                </PostalAddress>
+            </ContactMethod>
+        </ContactInfo>
+        <ExecutiveSummary />
+        <Objective />
+        <Role />
+        <FunctionalArea />
+        <IndustryType />
+        <EmploymentHistory>
+            <TotalExperience>14Year(s) &amp; 10Month(s)</TotalExperience>
+            <TotalProjectExperience>14Year(s) &amp; 10Month(s)</TotalProjectExperience>
+            <CurrentSalary />
+            <ExpectedSalary />
+            <EmployerOrg>
+                <EmployerOrgName>Fortune 100 Systems Integrator | United States</EmployerOrgName>
+                <PositionHistory>
+                    <CurrentEmplyor>True</CurrentEmplyor>
+                    <Title />
+                    <OrgName>
+                        <OrgName>Fortune 100 Systems Integrator | United States</OrgName>
+                    </OrgName>
+                    <Description>Fortune 100 Systems Integrator | United States 2003 to Present</Description>
+                    <StartDate>
+                        <AnyDate>1/1/2003</AnyDate>
+                    </StartDate>
+                    <EndDate>
+                        <Anydate>11/13/2014</Anydate>
+                    </EndDate>
+                </PositionHistory>
+            </EmployerOrg>
+            <EmployerOrg>
+                <EmployerOrgName>Fortune 500 Systems Integrator | United States</EmployerOrgName>
+                <PositionHistory>
+                    <CurrentEmplyor>False</CurrentEmplyor>
+                    <Title />
+                    <OrgName>
+                        <OrgName>Fortune 500 Systems Integrator | United States</OrgName>
+                    </OrgName>
+                    <Description>Fortune 500 Systems Integrator | United States!! !      2000 to 2003</Description>
+                    <StartDate>
+                        <AnyDate>1/1/2000</AnyDate>
+                    </StartDate>
+                    <EndDate>
+                        <Anydate>1/1/2003</Anydate>
+                    </EndDate>
+                </PositionHistory>
+            </EmployerOrg>
+        </EmploymentHistory>
+        <EducationHistory />
+        <LicensesAndCertifications>
+            <LicenseOrCertification />
+            <Name />
+        </LicensesAndCertifications>
+        <Qualifications />
+        <languages />
+    </StructuredXMLResume>
+    <ResumeAdditionalItems>
+        <ResumeAdditionalItem type="Personal">
+            <FatherName />
+            <DateOfBirth />
+            <Age />
+            <Gender>Unspecified</Gender>
+            <Nationality />
+            <MaritalStatus>Unspecified</MaritalStatus>
+            <PassportNo />
+            <VisaStatus />
+            <Currentlocation />
+        </ResumeAdditionalItem>
+        <ResumeAdditionalItem type="Resume Parsing Information">
+            <ResumeParsingStartDate>11/12/2014 12:00:00 AM</ResumeParsingStartDate>
+            <ResumeParsingExpiryDate>11/27/2014 12:00:00 AM</ResumeParsingExpiryDate>
+            <NumberOfParsedResume>10</NumberOfParsedResume>
+            <MaxLimitOfParsedResume>100</MaxLimitOfParsedResume>
+        </ResumeAdditionalItem>
+    </ResumeAdditionalItems>
+    <ResumeContext />
+    <ResumeTextFormat><![CDATA[Sriraj Rajaram
+Wheaton, IL | United States | +1-630-447-0152 | sriraj.rajaram@gmail.com
+Dynamic Practice Director
+Experience &amp; Achievements
+Fortune 100 Systems Integrator | United States 2003 to Present
+
+
+Fortune 500 Systems Integrator | United States!! !       2000 to 2003
+Education &amp; Certifications]]></ResumeTextFormat>
+</Resume>

@@ -1,6 +1,6 @@
 # Recrouter
 
-Recrouter was an idea born from my frustrations dealing with hiring process at a large IT consulting firm. While core HR had access to an ATS, it was often poorly adopted and in many instances completely ignored. I wrote Recrouter to solve my problems in a generic manner and assumed that others would benefit from the same as well. At one point there were about 100+ active users from small businesses on the platform. Eventually I closed it down as my needs were different and the cost of operating the platform as a freebie was not sustainable. 
+Recrouter was an idea born from my frustrations dealing with hiring process at a large IT consulting firm. While core HR had access to an ATS, it was often poorly adopted and in many instances completely ignored. I wrote Recrouter to solve my problems in a generic manner and assumed that others would benefit from the same as well. At one point there were about 100+ active users from small businesses on the platform. Eventually I closed it down as my needs were different and the cost of operating the platform as a freebie was not sustainable. Review `Introducing Recrouter` to learn more about the platform and it business.
 
 Originally built on CakePHP 2.x (2014–2016) and ported to **CakePHP 5.4** with the help of AI. The platform had very intuitive and innovative features that can be extracted and used as standalone components in future platforms.
 

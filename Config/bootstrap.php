@@ -1,134 +1,305 @@
 <?php
+declare(strict_types=1);
+
 /**
- * This file is loaded automatically by the app/webroot/index.php file after core.php
- *
- * This file should load/create any application wide configuration settings, such as
- * Caching, Logging, loading additional configuration files.
- *
- * You should also use this file to include any files that provide global functions/constants
- * that your application uses.
- *
- * CakePHP(tm) : Rapid Development Framework (http://cakephp.org)
- * Copyright (c) Cake Software Foundation, Inc. (http://cakefoundation.org)
+ * CakePHP(tm) : Rapid Development Framework (https://cakephp.org)
+ * Copyright (c) Cake Software Foundation, Inc. (https://cakefoundation.org)
  *
  * Licensed under The MIT License
  * For full copyright and license information, please see the LICENSE.txt
  * Redistributions of files must retain the above copyright notice.
  *
- * @copyright     Copyright (c) Cake Software Foundation, Inc. (http://cakefoundation.org)
- * @link          http://cakephp.org CakePHP(tm) Project
- * @package       app.Config
- * @since         CakePHP(tm) v 0.10.8.2117
- * @license       http://www.opensource.org/licenses/mit-license.php MIT License
+ * @copyright     Copyright (c) Cake Software Foundation, Inc. (https://cakefoundation.org)
+ * @link          https://cakephp.org CakePHP(tm) Project
+ * @since         0.10.8
+ * @license       https://opensource.org/licenses/mit-license.php MIT License
  */
-
-// Setup a 'default' cache configuration for use in the application.
-Cache::config('default', array('engine' => 'File'));
-
-/**
- * The settings below can be used to set additional paths to models, views and controllers.
- *
- * App::build(array(
- *     'Model'                     => array('/path/to/models/', '/next/path/to/models/'),
- *     'Model/Behavior'            => array('/path/to/behaviors/', '/next/path/to/behaviors/'),
- *     'Model/Datasource'          => array('/path/to/datasources/', '/next/path/to/datasources/'),
- *     'Model/Datasource/Database' => array('/path/to/databases/', '/next/path/to/database/'),
- *     'Model/Datasource/Session'  => array('/path/to/sessions/', '/next/path/to/sessions/'),
- *     'Controller'                => array('/path/to/controllers/', '/next/path/to/controllers/'),
- *     'Controller/Component'      => array('/path/to/components/', '/next/path/to/components/'),
- *     'Controller/Component/Auth' => array('/path/to/auths/', '/next/path/to/auths/'),
- *     'Controller/Component/Acl'  => array('/path/to/acls/', '/next/path/to/acls/'),
- *     'View'                      => array('/path/to/views/', '/next/path/to/views/'),
- *     'View/Helper'               => array('/path/to/helpers/', '/next/path/to/helpers/'),
- *     'Console'                   => array('/path/to/consoles/', '/next/path/to/consoles/'),
- *     'Console/Command'           => array('/path/to/commands/', '/next/path/to/commands/'),
- *     'Console/Command/Task'      => array('/path/to/tasks/', '/next/path/to/tasks/'),
- *     'Lib'                       => array('/path/to/libs/', '/next/path/to/libs/'),
- *     'Locale'                    => array('/path/to/locales/', '/next/path/to/locales/'),
- *     'Vendor'                    => array('/path/to/vendors/', '/next/path/to/vendors/'),
- *     'Plugin'                    => array('/path/to/plugins/', '/next/path/to/plugins/'),
- * ));
- *
- */
-
-/**
- * Custom Inflector rules can be set to correctly pluralize or singularize table, model, controller names or whatever other
- * string is passed to the inflection functions
- *
- * Inflector::rules('singular', array('rules' => array(), 'irregular' => array(), 'uninflected' => array()));
- * Inflector::rules('plural', array('rules' => array(), 'irregular' => array(), 'uninflected' => array()));
- *
- */
-
-/**
- * Plugins need to be loaded manually, you can either load them one by one or all of them in a single call
- * Uncomment one of the lines below, as you need. Make sure you read the documentation on CakePlugin to use more
- * advanced ways of loading plugins
- *
- * CakePlugin::loadAll(); // Loads all plugins at once
- * CakePlugin::load('DebugKit'); //Loads a single plugin named DebugKit
- *
- */
- 
- //CakePlugin::load('AclExtras');
- CakePlugin::load('DebugKit');
- //CakePlugin::load('CakePdf', array('bootstrap' => true, 'routes' => true));
- CakePlugin::load('Tools', array('bootstrap' => true));
-
-/**
- * You can attach event listeners to the request lifecycle as Dispatcher Filter. By default CakePHP bundles two filters:
- *
- * - AssetDispatcher filter will serve your asset files (css, images, js, etc) from your themes and plugins
- * - CacheDispatcher filter will read the Cache.check configure variable and try to serve cached content generated from controllers
- *
- * Feel free to remove or add filters as you see fit for your application. A few examples:
- *
- * Configure::write('Dispatcher.filters', array(
- *		'MyCacheFilter', //  will use MyCacheFilter class from the Routing/Filter package in your app.
- *		'MyCacheFilter' => array('prefix' => 'my_cache_'), //  will use MyCacheFilter class from the Routing/Filter package in your app with settings array.
- *		'MyPlugin.MyFilter', // will use MyFilter class from the Routing/Filter package in MyPlugin plugin.
- *		array('callable' => $aFunction, 'on' => 'before', 'priority' => 9), // A valid PHP callback type to be called on beforeDispatch
- *		array('callable' => $anotherMethod, 'on' => 'after'), // A valid PHP callback type to be called on afterDispatch
- *
- * ));
- */
-Configure::write('Dispatcher.filters', array(
-	'AssetDispatcher',
-	'CacheDispatcher'
-));
 
 /*
- * This is for CakePdf
- * 
-Configure::write('CakePdf', array(
-    'engine' => 'CakePdf.WkHtmlToPdf',
-    'options' => array(
-        'print-media-type' => false,
-        'outline' => true,
-        'dpi' => 96
-    ),
-    'margin' => array(
-        'bottom' => 15,
-        'left' => 50,
-        'right' => 30,
-        'top' => 45
-    ),
-    'orientation' => 'landscape',
-    'download' => true
-));
- * /
-
-/**
- * Configures default file logging options
+ * This file is loaded by your src/Application.php bootstrap method.
+ * Feel free to extend/extract parts of the bootstrap process into your own files
+ * to suit your needs/preferences.
  */
-App::uses('CakeLog', 'Log');
-CakeLog::config('debug', array(
-	'engine' => 'File',
-	'types' => array('notice', 'info', 'debug'),
-	'file' => 'debug',
-));
-CakeLog::config('error', array(
-	'engine' => 'File',
-	'types' => array('warning', 'error', 'critical', 'alert', 'emergency'),
-	'file' => 'error',
-));
+
+/*
+ * Configure paths required to find CakePHP + general filepath constants
+ */
+require __DIR__ . DIRECTORY_SEPARATOR . 'paths.php';
+
+/*
+ * Bootstrap CakePHP
+ * Currently all this does is initialize the router (without loading your routes)
+ */
+require CORE_PATH . 'config' . DS . 'bootstrap.php';
+
+use Cake\Cache\Cache;
+use Cake\Core\Configure;
+use Cake\Core\Configure\Engine\PhpConfig;
+use Cake\Datasource\ConnectionManager;
+use Cake\Error\ErrorTrap;
+use Cake\Error\ExceptionTrap;
+use Cake\Http\ServerRequest;
+use Cake\Log\Log;
+use Cake\Mailer\Mailer;
+use Cake\Mailer\TransportFactory;
+use Cake\Routing\Router;
+use Cake\Utility\Security;
+use Detection\MobileDetect;
+use function Cake\Core\env;
+
+/*
+ * Load global functions for collections, translations, debugging etc.
+ */
+require CAKE . 'functions.php';
+
+/*
+ * See https://github.com/josegonzalez/php-dotenv for API details.
+ *
+ * Uncomment block of code below if you want to use `.env` file during development.
+ * You should copy `config/.env.example` to `config/.env` and set/modify the
+ * variables as required.
+ *
+ * The purpose of the .env file is to emulate the presence of the environment
+ * variables like they would be present in production.
+ *
+ * If you use .env files, be careful to not commit them to source control to avoid
+ * security risks. See https://github.com/josegonzalez/php-dotenv#general-security-information
+ * for more information for recommended practices.
+*/
+if (!env('APP_NAME') && file_exists(CONFIG . '.env')) {
+    $dotenv = new \josegonzalez\Dotenv\Loader([CONFIG . '.env']);
+    $dotenv->parse()
+        ->putenv()
+        ->toEnv()
+        ->toServer();
+}
+
+if (!function_exists('isEmpty')) {
+    function isEmpty(mixed $value): bool
+    {
+        return $value === null || $value === '' || $value === [] || $value === false;
+    }
+}
+
+if (!function_exists('parseCakeDate')) {
+    function parseCakeDate(mixed $value, string $format = 'Y-m-d H:i:s'): DateTime
+    {
+        if ($value instanceof DateTimeInterface) {
+            return DateTime::createFromInterface($value);
+        }
+        if (is_string($value) && $value !== '') {
+            $parsed = DateTime::createFromFormat($format, $value);
+            if ($parsed instanceof DateTime) {
+                return $parsed;
+            }
+            $fallback = date_create($value);
+            if ($fallback instanceof DateTime) {
+                return $fallback;
+            }
+        }
+
+        return new DateTime('now');
+    }
+}
+
+if (!class_exists('WorkflowStepType', false)) {
+    class WorkflowStepType
+    {
+        public static array $STEP_TYPES = \App\Model\Entity\WorkflowStepType::STEP_TYPES;
+        public static int $STEP_TYPE_LINK = \App\Model\Entity\WorkflowStepType::STEP_TYPE_LINK;
+        public static int $STEP_TYPE_HIRE = \App\Model\Entity\WorkflowStepType::STEP_TYPE_HIRE;
+        public static int $STEP_TYPE_REJECT = \App\Model\Entity\WorkflowStepType::STEP_TYPE_REJECT;
+        public static int $STEP_TYPE_NOTIFY = \App\Model\Entity\WorkflowStepType::STEP_TYPE_NOTIFY;
+        public static int $STEP_TYPE_ASSESS = \App\Model\Entity\WorkflowStepType::STEP_TYPE_ASSESS;
+        public static int $STEP_TYPE_VERIFY = \App\Model\Entity\WorkflowStepType::STEP_TYPE_VERIFY;
+        public static int $STEP_TYPE_PROCESS = \App\Model\Entity\WorkflowStepType::STEP_TYPE_PROCESS;
+    }
+}
+
+if (!class_exists('AuthComponent', false)) {
+    /**
+     * CakePHP 2 AuthComponent::user() shim for ported templates.
+     */
+    class AuthComponent
+    {
+        public static mixed $current = null;
+
+        public static function user(mixed $key = null): mixed
+        {
+            $user = self::$current;
+            if ($user === null) {
+                return null;
+            }
+            if ($user instanceof \Cake\Datasource\EntityInterface) {
+                $user = $user->toArray();
+            }
+            if ($key === null) {
+                return $user;
+            }
+
+            return is_array($user) ? ($user[$key] ?? null) : null;
+        }
+    }
+}
+
+/*
+ * Initializes default Config store and loads the main configuration file (app.php)
+ *
+ * CakePHP contains 2 configuration files after project creation:
+ * - `config/app.php` for the default application configuration.
+ * - `config/app_local.php` for environment specific configuration.
+ */
+try {
+    Configure::config('default', new PhpConfig());
+    Configure::load('app', 'default', false);
+} catch (Exception $e) {
+    exit($e->getMessage() . "\n");
+}
+
+/*
+ * Load an environment local configuration file to provide overrides to your configuration.
+ * Notice: For security reasons app_local.php **should not** be included in your git repo.
+ */
+if (file_exists(CONFIG . 'app_local.php')) {
+    Configure::load('app_local', 'default');
+}
+
+/*
+ * When debug = true the metadata cache should only last for a short time.
+ */
+if (Configure::read('debug')) {
+    Configure::write('Cache._cake_model_.duration', '+1 minute');
+    Configure::write('Cache._cake_translations_.duration', '+1 minute');
+}
+
+/*
+ * Set the default server timezone. Using UTC makes time calculations / conversions easier.
+ * Check https://php.net/manual/en/timezones.php for list of valid timezone strings.
+ */
+date_default_timezone_set(Configure::read('App.defaultTimezone'));
+
+/*
+ * Configure the mbstring extension to use the correct encoding.
+ */
+mb_internal_encoding(Configure::read('App.encoding'));
+
+/*
+ * Set the default locale. This controls how dates, number and currency is
+ * formatted and sets the default language to use for translations.
+ */
+ini_set('intl.default_locale', Configure::read('App.defaultLocale'));
+
+/*
+ * Register application error and exception handlers.
+ */
+(new ErrorTrap(Configure::read('Error')))->register();
+(new ExceptionTrap(Configure::read('Error')))->register();
+
+/*
+ * CLI/Command specific configuration.
+ */
+if (PHP_SAPI === 'cli') {
+    // Set the fullBaseUrl to allow URLs to be generated in commands.
+    // This is useful when sending email from commands.
+    // Configure::write('App.fullBaseUrl', php_uname('n'));
+
+    // Set logs to different files so they don't have permission conflicts.
+    if (Configure::check('Log.debug')) {
+        Configure::write('Log.debug.file', 'cli-debug');
+    }
+    if (Configure::check('Log.error')) {
+        Configure::write('Log.error.file', 'cli-error');
+    }
+}
+
+/*
+ * Set the full base URL for the application.
+ *
+ * SECURITY: In production, App.fullBaseUrl MUST be explicitly configured to prevent
+ * Host Header Injection attacks. The HostHeaderMiddleware enforces this requirement
+ * and validates incoming Host headers against the configured value.
+ *
+ * Set APP_FULL_BASE_URL in your environment variables or configure App.fullBaseUrl
+ * in config/app.php or config/app_local.php
+ *
+ * Example: APP_FULL_BASE_URL=https://example.com
+ */
+$fullBaseUrl = Configure::read('App.fullBaseUrl');
+if (!$fullBaseUrl) {
+    $httpHost = env('HTTP_HOST');
+
+    /*
+     * Development mode fallback: Use HTTP_HOST for convenience.
+     * WARNING: This is ONLY safe in development. In production, the
+     * HostHeaderMiddleware will reject requests when fullBaseUrl is not configured.
+     */
+    if ($httpHost) {
+        $s = null;
+        if (env('HTTPS') || env('HTTP_X_FORWARDED_PROTO') === 'https') {
+            $s = 's';
+        }
+        $fullBaseUrl = 'http' . $s . '://' . $httpHost;
+    }
+    unset($httpHost, $s);
+}
+if ($fullBaseUrl) {
+    Router::fullBaseUrl($fullBaseUrl);
+}
+unset($fullBaseUrl);
+
+/*
+ * Apply the loaded configuration settings to their respective systems.
+ * This will also remove the loaded config data from memory.
+ */
+Cache::setConfig(Configure::consume('Cache'));
+ConnectionManager::setConfig(Configure::consume('Datasources'));
+TransportFactory::setConfig(Configure::consume('EmailTransport'));
+Mailer::setConfig(Configure::consume('Email'));
+Log::setConfig(Configure::consume('Log'));
+Security::setSalt(Configure::consume('Security.salt'));
+
+/*
+ * Setup detectors for mobile and tablet.
+ * If you don't use these checks you can safely remove this code
+ * and the mobiledetect package from composer.json.
+ */
+ServerRequest::addDetector('mobile', function ($request) {
+    $detector = new MobileDetect();
+
+    return $detector->isMobile();
+});
+ServerRequest::addDetector('tablet', function ($request) {
+    $detector = new MobileDetect();
+
+    return $detector->isTablet();
+});
+
+/*
+ * You can enable default locale format parsing by adding calls
+ * to `useLocaleParser()`. This enables the automatic conversion of
+ * locale specific date formats when processing request data. For details see
+ * @link https://book.cakephp.org/5/en/core-libraries/internationalization-and-localization.html#parsing-localized-datetime-data
+ */
+// \Cake\Database\TypeFactory::build('time')->useLocaleParser();
+// \Cake\Database\TypeFactory::build('date')->useLocaleParser();
+// \Cake\Database\TypeFactory::build('datetime')->useLocaleParser();
+// \Cake\Database\TypeFactory::build('timestamp')->useLocaleParser();
+// \Cake\Database\TypeFactory::build('datetimefractional')->useLocaleParser();
+// \Cake\Database\TypeFactory::build('timestampfractional')->useLocaleParser();
+// \Cake\Database\TypeFactory::build('datetimetimezone')->useLocaleParser();
+// \Cake\Database\TypeFactory::build('timestamptimezone')->useLocaleParser();
+
+/*
+ * Custom Inflector rules, can be set to correctly pluralize or singularize
+ * table, model, controller names or whatever other string is passed to the
+ * inflection functions.
+ */
+// \Cake\Utility\Inflector::rules('plural', ['/^(inflect)or$/i' => '\1ables']);
+// \Cake\Utility\Inflector::rules('irregular', ['red' => 'redlings']);
+// \Cake\Utility\Inflector::rules('uninflected', ['dontinflectme']);
+
+// set a custom date and time format
+// see https://book.cakephp.org/5/en/core-libraries/time.html#setting-the-default-locale-and-format-string
+// and https://unicode-org.github.io/icu/userguide/format_parse/datetime/#datetime-format-syntax
+// \Cake\I18n\Date::setToStringFormat('dd.MM.yyyy');
+// \Cake\I18n\Time::setToStringFormat('dd.MM.yyyy HH:mm');

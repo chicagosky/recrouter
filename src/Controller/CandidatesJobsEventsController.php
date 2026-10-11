@@ -34,8 +34,8 @@ class CandidatesJobsEventsController extends AppController
         $emails->save($emails->newEntity([
             'candidates_job_id' => $event->candidates_job_id,
             'candidates_jobs_event_id' => $event->id,
-            'from_address' => $this->request->getData('from'),
-            'to_address' => $this->request->getData('to'),
+            'from' => $this->request->getData('from'),
+            'to' => $this->request->getData('to'),
             'cc' => $this->request->getData('cc'),
             'subject' => $this->request->getData('subject'),
             'message' => $this->request->getData('message'),

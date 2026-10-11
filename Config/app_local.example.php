@@ -61,7 +61,7 @@ return [
             /*
              * You can use a DSN string to set the entire configuration
              */
-            'url' => env('DATABASE_URL', 'sqlite://127.0.0.1/tmp/recrouter.sqlite'),
+            'url' => env('DATABASE_URL', 'mysql://USER:PASS@127.0.0.1/recrouter?encoding=utf8mb4&timezone=UTC&cacheMetadata=true&quoteIdentifiers=true'),
         ],
 
         /*
@@ -120,5 +120,8 @@ return [
         'sovrenAccountId' => env('SOVREN_ACCOUNT_ID', ''),
         'sovrenServiceKey' => env('SOVREN_SERVICE_KEY', ''),
         'sovrenWsdl' => env('SOVREN_WSDL', 'http://services.resumeparsing.com/ParsingService.asmx?WSDL'),
+        'rchilliUserKey' => env('RCHILLI_USER_KEY', ''),
+        'rchilliSubUserId' => env('RCHILLI_SUB_USER_ID', ''),
+        'recruiterPlusSecretKey' => env('RECRUITERPLUS_SECRET_KEY', ''),
     ],
 ];

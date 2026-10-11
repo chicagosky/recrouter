@@ -2,7 +2,7 @@
 
 Open-source ATS originally built on CakePHP 2.x (2014–2016) and ported to **CakePHP 5.4**.
 
-The CakePHP 2 source is preserved on the `cake2-archive` git branch.
+The CakePHP 2 source is preserved on the `cake2-archive` git branch. Do not publish that branch until its history is rewritten — the original commit still contains credentials and candidate resumes. See [docs/SECRETS.md](docs/SECRETS.md).
 
 ## Requirements
 
@@ -28,7 +28,7 @@ MySQL example:
 DATABASE_URL="mysql://user:pass@127.0.0.1/recrouter?encoding=utf8mb4"
 ```
 
-Legacy CakePHP 2 SHA1 passwords still verify when `CAKE2_SECURITY_SALT` matches the old `Config/core.php` salt; they are rehashed to bcrypt on login.
+Legacy CakePHP 2 SHA1 passwords still verify when `CAKE2_SECURITY_SALT` is set locally to the old salt. Do not commit that value. Passwords are rehashed to bcrypt on login unless dual-boot is enabled.
 
 ## Tests
 

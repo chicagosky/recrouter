@@ -87,10 +87,10 @@ class Cake2Compat
         }
 
         if ($alias === 'CandidatesJobsEmail') {
-            if (array_key_exists('from_address', $row)) {
+            if (array_key_exists('from_address', $row) && !array_key_exists('from', $row)) {
                 $row['from'] = $row['from_address'];
             }
-            if (array_key_exists('to_address', $row)) {
+            if (array_key_exists('to_address', $row) && !array_key_exists('to', $row)) {
                 $row['to'] = $row['to_address'];
             }
         }

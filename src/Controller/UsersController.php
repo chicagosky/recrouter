@@ -6,6 +6,7 @@ namespace App\Controller;
 use App\Mailer\RecrouterMailer;
 use App\Utility\Cake2Compat;
 use Authentication\PasswordHasher\DefaultPasswordHasher;
+use Cake\Core\Configure;
 use Cake\Event\EventInterface;
 use Cake\Http\Exception\NotFoundException;
 use Cake\Http\Response;
@@ -201,7 +202,10 @@ class UsersController extends AppController
             if ($identity && is_string($plain) && $plain !== '') {
                 $users = $this->fetchTable('Users');
                 $user = $users->get($identity->getIdentifier());
-                if ((new DefaultPasswordHasher())->needsRehash((string)$user->password)) {
+                // Keep SHA1 while Cake 2 still shares this database.
+                if (!Configure::read('Security.cake2Salt')
+                    && (new DefaultPasswordHasher())->needsRehash((string)$user->password)
+                ) {
                     $user->password = $plain;
                     $users->save($user);
                 }

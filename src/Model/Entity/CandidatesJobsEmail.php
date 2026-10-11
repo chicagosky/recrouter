@@ -13,28 +13,4 @@ class CandidatesJobsEmail extends Entity
         'from' => true,
         'to' => true,
     ];
-
-    protected function _getFrom(): mixed
-    {
-        return $this->_fields['from_address'] ?? null;
-    }
-
-    protected function _setFrom(mixed $value): mixed
-    {
-        $this->from_address = $value;
-
-        return $value;
-    }
-
-    protected function _getTo(): mixed
-    {
-        return $this->_fields['to_address'] ?? null;
-    }
-
-    protected function _setTo(mixed $value): mixed
-    {
-        $this->to_address = $value;
-
-        return $value;
-    }
 }

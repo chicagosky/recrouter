@@ -9,6 +9,9 @@
 /uploads/candidate/*
 !/uploads/tmp/.gitkeep
 !/uploads/candidate/.gitkeep*
+# Legacy CakePHP 2 upload paths — never commit candidate files
+/Upload/
+/webroot/resume*.xml
 
 # OS generated files #
 ######################
